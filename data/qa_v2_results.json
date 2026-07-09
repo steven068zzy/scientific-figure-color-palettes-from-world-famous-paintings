@@ -1,0 +1,1080 @@
+[
+ {
+  "slug": "mona_lisa",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "Header thumbnail is a landscape crop of the portrait-orientation painting (head/shoulders plus valley background). Still instantly recognizable and representative, so acceptable, but a taller crop would match the original aspect better.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "last_supper",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Walnut Beam (#52381F) and Cenacolo Dark (#2F201A) are clearly distinct as large swatches, but in small marks (scatter dots in panel B, thin lines in panel H) the two dark browns sit close in value and take a second look to separate. Inherent to the muted fresco palette; series remain readable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "birth_of_venus",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Laurel Night (#282518) and Olive Shore (#535128) both read as very dark olive in the violin plot (G5 vs G6) and grouped-bar fills; distinguishable side by side but low hue separation at small sizes.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "primavera",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "creation_of_adam",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Mantle Russet (#6D3920) and Vault Olive (#544521) are both dark earth browns of similar value; they are separable by hue (red vs olive cast) but are the closest neighbor pair in the set.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "school_of_athens",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "sistine_madonna",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Panel G (3D Surface Plot) axis tick labels crowd the section heading below: the x-axis '3' touches the top of 'GUIDE' and the y-axis '-3' sits on the heading line of 'PALETTE USAGE GUIDE — Scientific Application'. Both remain legible; template-level issue shared by all posters.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "venus_of_urbino",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Same template-level crowding: 3D surface plot tick labels ('3' and '-3') touch the 'PALETTE USAGE GUIDE' heading; legible but cramped.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "bacchus_and_ariadne",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Same template-level crowding: 3D surface plot tick labels ('3' and '-3') touch the 'PALETTE USAGE GUIDE' heading; legible but cramped.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "arnolfini_portrait",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Same template-level crowding: 3D surface plot tick labels ('3' and '-3') touch the 'PALETTE USAGE GUIDE' heading; legible but cramped.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "garden_of_earthly_delights",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Same template-level crowding: 3D surface plot tick labels ('3' and '-3') touch the 'PALETTE USAGE GUIDE' heading; legible but cramped.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "hunters_in_the_snow",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Same template-level crowding: 3D surface plot tick labels ('3' and '-3') touch the 'PALETTE USAGE GUIDE' heading; legible but cramped.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "tower_of_babel",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_ambassadors",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "young_hare",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Monochrome brown palette means several series separate only by luminance; Cast Shadow #6E685F and Warren Dun #6F6154 are near-identical hues (non-adjacent in the swatch row, but adjacent-looking in scatter/violin/time-series). Charts remain readable at full size.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "vertumnus",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "view_of_toledo",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "The warm salmon accent (heatmap warm end, dual-axis rate line, Highlight/Accent swatch) is not drawn from the poster's cool green/teal palette; it is the series-wide accent convention and reads intentionally, but it is the only poster where the accent has no palette relative.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "las_meninas",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "Landscape center-crop of the near-square canvas trims the foreground (dog and lower bodies of the meninas) at the bottom edge; all key elements (Velazquez, Infanta, mirror, doorway) remain visible, so the crop is still representative.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "calling_of_saint_matthew",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Velvet Gold (#C89A55) and Coin Brass (#9A814E) are similar tans in the violin (G2 vs G4) and scatter panels; they are never adjacent and remain separable, so this is cosmetic only.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "night_watch",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Drummer Bronze (#874F00) and Musket Umber (#5C3400) share the same brown hue and differ mainly in lightness; clearly distinguishable in the row and charts, but the closest pair on this poster.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "girl_with_a_pearl_earring",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_milkmaid",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "In the Kinetic Time Series the top two lines, Pewter Shade (#5D5649) and Kitchen Dark (#202426), are both dark neutrals with modest contrast; still separable by warm-gray vs near-black cast.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_blue_boy",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Cobalt Shade (#25455C) and Black Plume (#1B252D) are both dark navies; their boundary in the Dual-Axis stacked bars is subtle though visible. Not twins, but the lowest-contrast adjacency in the set.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_swing",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Thicket Dark (#222420) and Secret Garden (#384038) are both near-black; their adjacent segments in the Dual-Axis stack and bars D/E in the Grouped Bar have low contrast, though the green cast of Secret Garden keeps them separable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "napoleon_crossing_the_alps",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "oath_of_the_horatii",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "In chart E (dual-axis stacked bars) the top two segments, Arcade Umber (#5A4A24) and Vault Black (#27231C), are both very dark and stack directly against each other; they remain separable but the boundary is low-contrast.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "grande_odalisque",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "liberty_leading_the_people",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Powder Black (#282221) and Coat Navy (#233E64) are both very dark and close in luminance; they read as black vs dark navy so they are not twins, but the pair is the least differentiated in the set (also paired side by side in the Text/Lines usage cell).",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "raft_of_the_medusa",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Storm Brine (#3F4B4A) and Sea Slate (#5C6660) are near-identical in hue and differ mainly in lightness; the center and bottom-left scatter clusters and the two middle kinetic time-series lines are distinguishable but low-contrast, in keeping with the painting's muted palette.",
+    "severity": "minor"
+   },
+   {
+    "kind": "text-overlap",
+    "detail": "The long title 'The Raft of the Medusa —' ends with only a small gap before the YEAR label column; no actual overlap, but the spacing is tight.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "third_of_may_1808",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent light neutrals Hillside Sand (#D2B183) and Shirt Cream (#F0DAB8) are similar warm tans; clearly distinguishable by lightness but the closest pair in the row.",
+    "severity": "minor"
+   },
+   {
+    "kind": "text-overlap",
+    "detail": "The title 'The Third of May 1808 —' trailing em-dash sits close to the ARTIST/YEAR metadata column; no collision, just tight spacing.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_parasol",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "In panel H (Kinetic Time Series) the two darkest series, Lapdog Black #2B2121 and Grove Shade #32431D, are close in value; they remain separable because the curves are spatially distinct, but the colors alone are hard to tell apart.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "wanderer_above_the_sea_of_fog",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Panel D (Spectral & Peak Fit) draws the Exp. dots and Fit curve in pale Fog Silver #C5C6D1 on a white background, noticeably lower contrast than the same panel on sibling posters; still readable at full size.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Crag Umber #635A46 and Coat Olive #443D2B are similar dark olives; in panel H the bottom two curves are distinguished mostly by position rather than color.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "fighting_temeraire",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "The long title 'The Fighting Temeraire —' ends very close to the ARTIST metadata column (no actual overlap, but the gap is tighter than on other posters); slightly more breathing room would look cleaner.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "rain_steam_and_speed",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Bridge Shadow #796E53 and Maidenhead #6E513A are mid-browns of similar value, separated mainly by hue (grayish olive vs warm red-brown); clearly not twins but the least contrasty neighbor pair across the set.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_hay_wain",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Elm Shade #413E27 and Millpond Dark #2A221F are both very dark neighbors; in panel H the top two curves rely on position more than color to distinguish.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_gleaners",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "ophelia",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "lady_of_shalott",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Usage-guide column labeled 'Secondary Data (Cool)' is filled with warm swatches (Riverbank Tan #AA7B61, Oaken Hull #5B341C); no cool hue exists in this all-warm palette, so the role label and hue disagree. Template artifact, charts unaffected.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "flaming_june",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Usage-guide column labeled 'Secondary Data (Cool)' holds warm swatches (Frieze Olive #524621, Crimson Couch #782F2D); the 'Cool' label mismatches the actual hues in this all-warm palette. Template artifact only.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_kiss_hayez",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Stair Shadow (#242323) and Castle Gloom (#3F3E34) are both used as data series: the two bottom clusters in the Clustered Scatter read as nearly the same dark gray, and the top two Kinetic Time Series lines cross around t=1-3 s and are hard to tell apart by color. Swatches themselves are distinguishable in the palette row and all charts remain interpretable, but reordering series or substituting Ashlar Gray for one dark would improve legibility.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "whistlers_mother",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Widow Black (#25241B) and Somber Fold (#3F3E33) both serve as data series and are near-twins in the Clustered Scatter (center vs bottom-right clusters) and violin plot; distinguishable mainly by position. Inherent to this grey-and-black painting and the light-gray series between them keeps the time series readable, but swapping one dark for Wainscot or Lace Cuff in the demo charts would help.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "carnation_lily_lily_rose",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_ninth_wave",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Swatch label 'Wreck Mahogany' is auto-shrunk to a visibly smaller font than the other seven palette names, creating slight typographic inconsistency in the palette row.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "barge_haulers_on_the_volga",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Swatch labels 'Harness Ochre' and 'Hauler Shadow' render at a smaller auto-fit font size than the other palette names.",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Shore Dust (#D7C596) and Sail Ivory (#E9E3D0) are adjacent pale neutrals that read as close cousins; still clearly separable at swatch size.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "morning_in_a_pine_forest",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "In the Kinetic Time Series panel the two darkest lines (Forest Night #1F2520 and Mossy Trunk #504E3E) are fairly close in tone; separable but the least distinct series pair among the six posters.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "breezing_up",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "american_gothic",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "Portrait-format painting is center-cropped to the couple's faces and gothic window; the iconic pitchfork is cropped out. Representative and undistorted, so cosmetic only.",
+    "severity": "minor"
+   },
+   {
+    "kind": "text-overlap",
+    "detail": "Swatch labels 'Prairie Khaki' and 'Overall Denim' are auto-shrunk smaller than the other palette names.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "impression_sunrise",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Tide Sage (#8FA597) and Mist Celadon (#AFC6B7) are similar pale gray-greens differing mainly in lightness; distinguishable but the closest adjacent pair in the set.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Fog Gray and Tide Sage series sit close in tone in the clustered scatter and stacked dual-axis bars; boundaries and cluster positions keep them readable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "woman_with_a_parasol",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Title renders as 'Woman with a Parasol —' with a dangling em-dash; since the painting's full NGA title continues '— Madame Monet and Her Son', the trailing dash reads as a truncated title. Same template dash appears on all posters, so it is a stylistic artifact rather than actual clipping.",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches 2 and 3 (Parasol Green #374600, Silhouette #373A32) are both very dark and sit close in value; hue difference (olive vs charcoal) is visible on close inspection but they nearly twin at a glance.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "water_lilies",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Template's dangling em-dash after 'Water Lilies —' looks like an unfinished title.",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Usage-guide slot 'Primary Data (Warm)' is filled with cool colors (Reflected Sky light blue, Lily Pad green); the '(Warm)' label contradicts the swatches for this all-cool palette. Also adjacent Willow Teal #386162 and Pond Dusk #234154 are both dark blue-teals and sit close, though still separable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "japanese_footbridge",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Dangling em-dash after 'The Japanese Footbridge —' (template-wide artifact).",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Kinetic Time Series uses five green-family lines; the two mid-tone greens (Willow Shade vs Garden Green) are close in value where curves converge near t=1-2 s, though endpoints separate clearly. 'Primary Data (Warm)' slot also holds cool greens, a label/content mismatch.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "luncheon_of_the_boating_party",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Dangling em-dash after the wrapped title 'Luncheon of the Boating Party —' (template-wide artifact); the two-line wrap itself is clean with no overlap into the metadata column.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "bal_du_moulin_de_la_galette",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Dangling em-dash after 'Bal du moulin de la Galette —' (template-wide artifact).",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Shady Bower #255025 and Top Hat Black #232426 are both very dark and low-chroma; the green vs neutral difference is subtle at swatch-row size, though names/hex keep them unambiguous.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "two_sisters_on_the_terrace",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Dangling em-dash after 'Two Sisters (On the Terrace) —' (template-wide artifact).",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_ballet_class",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "paris_street_rainy_day",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "boulevard_montmartre_at_night",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Indigo Night (#343B65) and Nocturne (#262130) series sit close in hue in the clustered scatter (panel B) and kinetic time series (panel H); they remain distinguishable by lightness but are the weakest contrast pair on the poster.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_childs_bath",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "Landscape thumbnail crop of the vertical canvas shows the mother and child but cuts off the titular wash basin at the bottom; artwork is still unmistakable.",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Dress Navy (#323F53) and Raven Chignon (#242A33) are both dark navies and read close at a glance (also the two darkest lines in panel H); separated by lightness, so distinguishable but borderline.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "a_sunday_on_la_grande_jatte",
+  "pass": false,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Main title is truncated with an ellipsis to \"A Sunday Afternoon on the Island of La Grande... —\", dropping the key word \"Jatte\" and leaving an awkward \"... —\" ending; the thumbnail caption is also truncated (\"A Sunday Afternoon on the Island o... (1884-1886)\"). Use a shorter display title such as \"A Sunday on La Grande Jatte\" or allow a third title line.",
+    "severity": "major"
+   }
+  ]
+ },
+ {
+  "slug": "bathers_at_asnieres",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Swatch name \"Asnieres Green\" omits the grave accent while the poster title uses \"Asnières\"; inconsistent diacritics within the same poster.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "starry_night",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "sunflowers",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Near-monochrome gold/olive palette (by design) makes some chart series close in hue, e.g. Vase Ochre vs Sepal Olive clusters in the scatter and adjacent bands in the dual-axis stack; still separable by lightness and position.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "cafe_terrace_at_night",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Gaslight Gold (#B29200) and Lamplit Olive (#7E7816) sit adjacent in the dual-axis stacked bars and are fairly close dark-yellow tones; distinguishable but low-contrast.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "irises",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_bedroom",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Window Lime (#9D9D18) and Straw Seat (#94923D) are neighboring olive tones; close-up inspection confirms they read differently (saturated chartreuse vs muted khaki), but they are the least separated pair across all six posters and their series sit near each other in the scatter and kinetic time-series.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "tahitian_women_on_the_beach",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_card_players",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Swatch label 'Weathered Rose' is auto-shrunk to a noticeably smaller font than the other seven palette names, creating slight visual inconsistency in the palette row.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "All-warm brown palette makes Deep Claret and Ebony Coat clusters both very dark in the clustered scatter; still separable (reddish vs neutral dark) but the lowest-contrast pairing in the series.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "mont_sainte_victoire",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "the_basket_of_apples",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Green Apple (#859138) and Olive Shadow (#6A653C) are hue-neighbors; clearly different in lightness so not twins, but the closest adjacent pair on this poster.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "at_the_moulin_rouge",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Swatch label 'Copper Chignon' is rendered slightly smaller than sibling labels due to auto-fit shrinking; cosmetic only.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_sleeping_gypsy",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Swatch label 'Prussian Dusk' is auto-shrunk smaller than the other palette names; cosmetic inconsistency in the palette row.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_scream",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Palette carries three related reds (Blood Sky #9E2B16, Ember Haze #9E5740, Bridge Rail #CA6A46); in the grouped bar chart bars A (Blood Sky) and E (Ember Haze) are the closest pairing but remain distinguishable by lightness/saturation.",
+    "severity": "minor"
+   },
+   {
+    "kind": "name-problem",
+    "detail": "Longer swatch labels ('Molten Sunset', 'Anguish Indigo') are auto-shrunk slightly relative to short labels; cosmetic only.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "the_kiss_klimt",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "adele_bloch_bauer",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Three similar browns (Amber Frieze #A55B00, Bronze Swirl #814900, Adele's Cheek #956D53) co-occur in the Polar/Rose plot and are hard to tell apart there; they are non-adjacent in the swatch row so the palette itself reads fine.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "four_trees",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Fir Night #1F2C23 and Bark Umber #55362F are both very dark and sit adjacent in the Dual-Axis stacked bars and close together in the Kinetic Time Series; distinguishable on close look but low contrast between the two darkest series.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "jeanne_hebuterne",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "senecio",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "composition_viii",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "composition_red_blue_yellow",
+  "pass": false,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "The header thumbnail is a landscape center-crop of the near-square canvas (source is 1183x1200) that cuts off the bottom of the painting, completely removing the signature yellow square in the bottom-right corner and reducing the blue square to a thin sliver. The poster title says 'in Red, Blue, and Yellow', the blurb cites 'one bright yellow square', and the palette includes 'Corner Yellow' — yet no yellow is visible in the thumbnail. Crop should be shifted down or letterboxed to include the yellow corner.",
+    "severity": "major"
+   },
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption is truncated to 'Composition II in Red, Blue, and Y... (1930) · original' — the ellipsis lands one word before the end and looks sloppy.",
+    "severity": "minor"
+   },
+   {
+    "kind": "other",
+    "detail": "Palette label 'Corner Yellow' is auto-shrunk to a smaller font size than the other seven swatch labels, slightly breaking row consistency.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "dance",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "The painting's prominent green hill (one of its three dominant colors) has no saturated representative in the palette; only the very pale mint 'Hillside Mist' #DCF5EC gestures at it. Defensible curation choice, but noticeable.",
+    "severity": "minor"
+   },
+   {
+    "kind": "other",
+    "detail": "Palette label 'Crimson Whirl' is auto-shrunk to a smaller font than sibling swatch labels.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "goldfish",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "large_blue_horses",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "other",
+    "detail": "Palette label 'Stallion Blue' is auto-shrunk to a smaller font than the other swatch labels, slightly inconsistent within the row.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "great_wave",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Adjacent swatches Storm Swell #2A4054 and Kanagawa Deep #002542 are two close dark navies; they remain distinguishable in the palette row and stacked bars but take a second look. Nudging Storm Swell lighter/grayer would improve separation.",
+    "severity": "minor"
+   },
+   {
+    "kind": "other",
+    "detail": "Palette labels 'Prussian Wave' and 'Kanagawa Deep' are auto-shrunk to a smaller font than sibling labels.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "red_fuji",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "kirifuri_waterfall",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Title ends with a dangling em dash ('Kirifuri Waterfall at Kurokami Mountain —') that reads like a truncation artifact; this appears template-wide on all six posters.",
+    "severity": "minor"
+   },
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption is ellipsized: 'Kirifuri Waterfall at Kurokami Mou... (c. 1832)'. Acceptable but slightly unpolished.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "plum_park_in_kameido",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "sudden_shower_over_shin_ohashi",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "crop",
+    "detail": "Landscape crop of the vertical print keeps the rain, squall cloud, and river but cuts the iconic Shin-Ohashi bridge with pedestrians to a sliver at the bottom edge; still clearly the right artwork and on-theme for 'sudden shower'.",
+    "severity": "minor"
+   },
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption ellipsized: 'Sudden Shower over Shin-Ōhashi Bri... (1857)'.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "naruto_whirlpools",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "evening_snow_at_kanbara",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "Snowdrift cream (#E7DCBE) series is faint against the white plot background in the clustered scatter, kinetic time series, and especially Panel D where the fit line and experimental markers are drawn in this pale tone; discernible but low contrast.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "three_beauties",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Three adjacent muted darks (Hair Lacquer #343230, Ash Kimono #5F5950, Fan Umber #7A6A55) are distinguishable in the swatch row but their series read as near-similar darks in the violin (G5/G6) and rose plots.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Pale Silk Greige (#D0C5B1) series is low contrast on white in the clustered scatter and kinetic time series.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "beauty_looking_back",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "jakuchu_rooster",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "thousand_li_of_rivers_and_mountains",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption is truncated with an ellipsis: 'A Thousand Li of Rivers and Mounta... (1113) · original'. Truncation appears deliberate but reads slightly unpolished for a famous title.",
+    "severity": "minor"
+   },
+   {
+    "kind": "crop",
+    "detail": "Upper ~40% of the header thumbnail is the scroll's calligraphy inscription rather than the blue-green landscape; the azurite mountains still show clearly below, so the artwork remains recognizable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "along_the_river_qingming",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption ellipsis-truncated: 'Along the River During the Qingmin... (12th century) · original'.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Intentional near-monochrome brown palette means some chart series (e.g., kinetic time-series lines, violin fills) are separated mainly by lightness rather than hue; still readable and consistent with the poster's stated design intent.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "dwelling_in_the_fuchun_mountains",
+  "pass": true,
+  "issues": []
+ },
+ {
+  "slug": "nymph_of_the_luo_river",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-overlap",
+    "detail": "Single-line title 'Nymph of the Luo River —' ends with only a small gap before the YEAR metadata label (verified at zoom: no actual overlap, but clearance is tighter than on other posters; consider wrapping the title or dropping the trailing dash).",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "night_revels_of_han_xizai",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "name-problem",
+    "detail": "Swatch 'Celadon Sleeve' (#8A8150) is an olive/khaki tone, not celadon green; the name slightly misdescribes the color.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "five_oxen",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "chart-legibility",
+    "detail": "All-brown palette makes some series depend on subtle lightness steps: Kinetic Time Series (H) lines for Thorn Branch/Chestnut Ox/Muzzle Shadow and violins G5 vs G6 are close, though still readable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "bunian_tu",
+  "pass": false,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Main header title is truncated with an ellipsis: 'Emperor Taizong Receiving the Tibetan... —' drops the word 'Envoy', and the em-dash immediately after the ellipsis looks broken on the flagship title line. Wrap to a third line or use the short name 'Bunian Tu'.",
+    "severity": "major"
+   },
+   {
+    "kind": "name-problem",
+    "detail": "Thumbnail caption reads 'Emperor Taizong Receiving the Tibe... (7th century (Song copy)) · original' — nested parentheses, and the trailing '· original' contradicts the '(Song copy)' designation.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Vermilion Robe (#D72416) and Seal Crimson (#A40F0C) clusters in the scatter (B) and violins G1/G2 are both reds and sit close; distinguishable but the tightest pair in the charts.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "court_ladies_preparing_silk",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption truncated: 'Court Ladies Preparing Newly Woven... (12th century copy of 8th c. original)'; full title does appear in the header so this is cosmetic.",
+    "severity": "minor"
+   },
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent pale swatches Honey Weave (#E4C18D) and Ivory Bolt (#EEDBAF) are close in tone, though still distinguishable side by side.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "court_ladies_adorning_with_flowers",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "text-cutoff",
+    "detail": "Thumbnail caption truncated: 'Court Ladies Adorning Their Hair w... (8th century) · original'; header title is complete so this is cosmetic.",
+    "severity": "minor"
+   },
+   {
+    "kind": "chart-legibility",
+    "detail": "Dark neutrals Raven Chignon, Sable Pup, and Crane Quill are close in the darker chart series (violin G3/G5, darkest kinetic lines), though still separable.",
+    "severity": "minor"
+   }
+  ]
+ },
+ {
+  "slug": "one_hundred_horses",
+  "pass": true,
+  "issues": [
+   {
+    "kind": "palette-mismatch",
+    "detail": "Adjacent swatches Dapple Gray (#888073) and Roan Coat (#6A6256) share the same warm-gray hue and differ only in lightness; distinguishable but the weakest adjacent pair across the set.",
+    "severity": "minor"
+   }
+  ]
+ }
+]

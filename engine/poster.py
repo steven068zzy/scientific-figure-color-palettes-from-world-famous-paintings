@@ -135,8 +135,11 @@ def _title_font(title):
     n = len(title)
     if n <= 22: return F["title"], [title]
     if n <= 26: return 22, [title]
-    lines = textwrap.wrap(title, 24, max_lines=2, placeholder="…")
-    return 19, lines
+    for width, size in ((24, 19), (28, 17.5), (33, 15.5), (40, 13.5)):
+        lines = textwrap.wrap(title, width, max_lines=2, placeholder="…")
+        if "…" not in lines[-1]:            # whole title fits, no ellipsis
+            return size, lines
+    return 13.5, textwrap.wrap(title, 40, max_lines=2, placeholder="…")
 
 def draw_header(fig, cell, P):
     figW, figH = fig.get_size_inches()
@@ -144,10 +147,11 @@ def draw_header(fig, cell, P):
     pos = ax.get_position(); hw_in, hh_in = pos.width * figW, pos.height * figH
 
     inset_h = 0.90
-    box_aspect_wh = 1.35
+    img = Image.open(P["artwork_path"]).convert("RGB")
+    # follow the painting's own aspect, clamped so the header layout holds
+    box_aspect_wh = min(1.35, max(0.85, img.size[0] / img.size[1]))
     inset_w = (inset_h * hh_in * box_aspect_wh) / hw_in
     tax = ax.inset_axes([0.0, 0.06, inset_w, inset_h])
-    img = Image.open(P["artwork_path"]).convert("RGB")
     real_aspect = (inset_w * hw_in) / (inset_h * hh_in)
     tax.imshow(np.asarray(_cover(img, real_aspect)), aspect="auto")
     tax.set_xticks([]); tax.set_yticks([])
@@ -186,7 +190,7 @@ def draw_swatches(fig, cell, P):
 
 def draw_usage(fig, cell, P):
     ax = fig.add_subplot(cell); ax.axis("off")
-    ax.text(0.0, 1.06, "PALETTE USAGE GUIDE — Scientific Application", fontsize=F["sec_head"], fontweight="bold", va="top")
+    ax.text(0.0, 0.97, "PALETTE USAGE GUIDE — Scientific Application", fontsize=F["sec_head"], fontweight="bold", va="top")
     descs = {
         "Primary Data (Warm)": "Encode primary signals\n& key contrasts.",
         "Secondary Data (Cool)": "Supporting groups &\ncategories.",
