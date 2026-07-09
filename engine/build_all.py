@@ -26,7 +26,7 @@ def build_one(task):
         "colors": [tuple(c) for c in pal["colors"]],
         "roles": pal["roles"],
         "diverging": pal["diverging"],
-        "footer_right": f"masterpiece-palettes · {slug}",
+        "footer_right": f"Scientific Figure Color Palettes from World-Famous Paintings · {slug}",
     }
     out = f"{ROOT}/posters/{slug}.png"
     try:
