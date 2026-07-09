@@ -442,7 +442,7 @@
   "artist": "Raphael",
   "year": "1512",
   "group": "Renaissance & Baroque",
-  "museum": "Gemaldegalerie Alte Meister, Dresden",
+  "museum": "Gemäldegalerie Alte Meister, Dresden",
   "mode": "vivid",
   "colors": [
    [
@@ -1023,7 +1023,7 @@
  },
  "young_hare": {
   "title": "Young Hare",
-  "artist": "Albrecht Durer",
+  "artist": "Albrecht Dürer",
   "year": "1502",
   "group": "Renaissance & Baroque",
   "museum": "Albertina, Vienna",
@@ -1068,8 +1068,8 @@
     "#52412F"
    ],
    "Secondary Data (Cool)": [
-    "#52412F",
-    "#6E685F"
+    "#6E685F",
+    "#D2C5B2"
    ],
    "Tertiary / Support": [
     "#E8DBC7",
@@ -1214,8 +1214,8 @@
     "#425827"
    ],
    "Secondary Data (Cool)": [
-    "#909D5C",
-    "#425827"
+    "#47838E",
+    "#90BABC"
    ],
    "Tertiary / Support": [
     "#D3E0D9",
@@ -1242,7 +1242,7 @@
  },
  "las_meninas": {
   "title": "Las Meninas",
-  "artist": "Diego Velazquez",
+  "artist": "Diego Velázquez",
   "year": "1656",
   "group": "Renaissance & Baroque",
   "museum": "Museo del Prado, Madrid",
@@ -1579,7 +1579,8 @@
     "#785D40"
    ],
    "Secondary Data (Cool)": [
-    "#31506F"
+    "#31506F",
+    "#202426"
    ],
    "Tertiary / Support": [
     "#E2DDC7",
@@ -1679,7 +1680,7 @@
  },
  "the_swing": {
   "title": "The Swing",
-  "artist": "Jean-Honore Fragonard",
+  "artist": "Jean-Honoré Fragonard",
   "year": "1767",
   "group": "Renaissance & Baroque",
   "museum": "Wallace Collection, London",
@@ -1724,7 +1725,8 @@
     "#C69488"
    ],
    "Secondary Data (Cool)": [
-    "#828A75"
+    "#828A75",
+    "#9DB8C4"
    ],
    "Tertiary / Support": [
     "#E6DBCC",
@@ -1754,7 +1756,7 @@
   "artist": "Jacques-Louis David",
   "year": "1801",
   "group": "Romanticism & Realism",
-  "museum": "Chateau de Malmaison",
+  "museum": "Château de Malmaison",
   "mode": "vivid",
   "colors": [
    [
@@ -1970,7 +1972,7 @@
  },
  "liberty_leading_the_people": {
   "title": "Liberty Leading the People",
-  "artist": "Eugene Delacroix",
+  "artist": "Eugène Delacroix",
   "year": "1830",
   "group": "Romanticism & Realism",
   "museum": "Louvre, Paris",
@@ -2043,7 +2045,7 @@
  },
  "raft_of_the_medusa": {
   "title": "The Raft of the Medusa",
-  "artist": "Theodore Gericault",
+  "artist": "Théodore Géricault",
   "year": "1818-1819",
   "group": "Romanticism & Realism",
   "museum": "Louvre, Paris",
@@ -2307,8 +2309,8 @@
     "#443D2B"
    ],
    "Secondary Data (Cool)": [
-    "#635A46",
-    "#443D2B"
+    "#465556",
+    "#7D828C"
    ],
    "Tertiary / Support": [
     "#E5DADA",
@@ -2554,10 +2556,10 @@
  },
  "the_gleaners": {
   "title": "The Gleaners",
-  "artist": "Jean-Francois Millet",
+  "artist": "Jean-François Millet",
   "year": "1857",
   "group": "Romanticism & Realism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "muted",
   "colors": [
    [
@@ -2891,7 +2893,8 @@
     "#B49E71"
    ],
    "Secondary Data (Cool)": [
-    "#5C7C9C"
+    "#5C7C9C",
+    "#8A846C"
    ],
    "Tertiary / Support": [
     "#D3DFE2",
@@ -2921,7 +2924,7 @@
   "artist": "James McNeill Whistler",
   "year": "1871",
   "group": "Romanticism & Realism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "muted",
   "colors": [
    [
@@ -3432,7 +3435,7 @@
   "artist": "Claude Monet",
   "year": "1872",
   "group": "Impressionism",
-  "museum": "Musee Marmottan Monet, Paris",
+  "museum": "Musée Marmottan Monet, Paris",
   "mode": "muted",
   "colors": [
    [
@@ -3473,7 +3476,8 @@
     "#B26746"
    ],
    "Secondary Data (Cool)": [
-    "#445A64"
+    "#445A64",
+    "#8FA597"
    ],
    "Tertiary / Support": [
     "#F9D6C0",
@@ -3545,8 +3549,8 @@
     "#374600"
    ],
    "Secondary Data (Cool)": [
-    "#7F8514",
-    "#374600"
+    "#72ADCB",
+    "#4E7CA5"
    ],
    "Tertiary / Support": [
     "#E6DCC4",
@@ -3618,8 +3622,8 @@
     "#639465"
    ],
    "Secondary Data (Cool)": [
-    "#639465",
-    "#92BFE0"
+    "#234154",
+    "#386162"
    ],
    "Tertiary / Support": [
     "#D5DFD7",
@@ -3691,8 +3695,8 @@
     "#B6CC8C"
    ],
    "Secondary Data (Cool)": [
-    "#B6CC8C",
-    "#4B6734"
+    "#6F9C9C",
+    "#344132"
    ],
    "Tertiary / Support": [
     "#D8DFD5",
@@ -3795,7 +3799,7 @@
   "artist": "Pierre-Auguste Renoir",
   "year": "1876",
   "group": "Impressionism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "vivid",
   "colors": [
    [
@@ -3941,7 +3945,7 @@
   "artist": "Edgar Degas",
   "year": "1871-1874",
   "group": "Impressionism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "muted",
   "colors": [
    [
@@ -3983,7 +3987,8 @@
     "#D1C6A6"
    ],
    "Secondary Data (Cool)": [
-    "#33573B"
+    "#33573B",
+    "#242422"
    ],
    "Tertiary / Support": [
     "#E5DADD",
@@ -4054,7 +4059,8 @@
     "#B28A7F"
    ],
    "Secondary Data (Cool)": [
-    "#82A197"
+    "#82A197",
+    "#465257"
    ],
    "Tertiary / Support": [
     "#E4DDC3",
@@ -4299,7 +4305,7 @@
   "blurb": "Chartreuse lawns, violet shadows, and coral parasols shimmer in Seurat's pointillist Sunday stillness. Sunlit yellow-greens and warm coral head the categorical series; deep greens and violets recede into structure over a muslin-light background."
  },
  "bathers_at_asnieres": {
-  "title": "Bathers at Asnieres",
+  "title": "Bathers at Asnières",
   "artist": "Georges Seurat",
   "year": "1884",
   "group": "Impressionism",
@@ -4517,11 +4523,11 @@
   "blurb": "Fourteen blooms of chrome yellow against ochre and straw, sunlight painted with sunlight itself. The near-monochrome golds and stem greens read as an ordered sequence, with dark seed umber anchoring text and pale cream as a calm background."
  },
  "cafe_terrace_at_night": {
-  "title": "Cafe Terrace at Night",
+  "title": "Café Terrace at Night",
   "artist": "Vincent van Gogh",
   "year": "1888",
   "group": "Post-Impressionism",
-  "museum": "Kroller-Muller Museum, Otterlo",
+  "museum": "Kröller-Müller Museum, Otterlo",
   "mode": "vivid",
   "colors": [
    [
@@ -4740,7 +4746,7 @@
   "artist": "Paul Gauguin",
   "year": "1891",
   "group": "Post-Impressionism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "vivid",
   "colors": [
    [
@@ -4810,10 +4816,10 @@
  },
  "the_card_players": {
   "title": "The Card Players",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "1890-1895",
   "group": "Post-Impressionism",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "mode": "vivid",
   "colors": [
    [
@@ -4883,7 +4889,7 @@
  },
  "mont_sainte_victoire": {
   "title": "Mont Sainte-Victoire",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "c. 1904",
   "group": "Post-Impressionism",
   "museum": "Philadelphia Museum of Art",
@@ -4956,7 +4962,7 @@
  },
  "the_basket_of_apples": {
   "title": "The Basket of Apples",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "c. 1893",
   "group": "Post-Impressionism",
   "museum": "Art Institute of Chicago",
@@ -5466,7 +5472,7 @@
   "blurb": "Four bare chestnut trees stand in silhouette against banded dusk light, their brick-red crowns dissolving into gray-green hills. Muted rust and tan lead the data series while deep fir and bark tones supply line work over a pale blush sky."
  },
  "jeanne_hebuterne": {
-  "title": "Jeanne Hebuterne",
+  "title": "Jeanne Hébuterne",
   "artist": "Amedeo Modigliani",
   "year": "1919",
   "group": "Modern",
@@ -5586,7 +5592,7 @@
    ],
    "Secondary Data (Cool)": [
     "#D49899",
-    "#D0AB48"
+    "#C06371"
    ],
    "Tertiary / Support": [
     "#ECDAC9",
@@ -5689,7 +5695,7 @@
   "artist": "Piet Mondrian",
   "year": "1930",
   "group": "Modern",
-  "museum": "Kunsthaus Zurich",
+  "museum": "Kunsthaus Zürich",
   "mode": "vivid",
   "colors": [
    [
@@ -6268,7 +6274,7 @@
   "blurb": "A madder-red sky cools to blush above slate plum boughs, white blossoms bursting over the teal garden at Kameido. Warm reds carry the primary signal, deep teal and moss green structure comparisons, and soft creams recede into the background."
  },
  "sudden_shower_over_shin_ohashi": {
-  "title": "Sudden Shower over Shin-Ohashi Bridge and Atake",
+  "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
   "artist": "Utagawa Hiroshige",
   "year": "1857",
   "group": "Japanese Ukiyo-e",
@@ -6460,7 +6466,8 @@
     "#C0B294"
    ],
    "Secondary Data (Cool)": [
-    "#555C74"
+    "#555C74",
+    "#666150"
    ],
    "Tertiary / Support": [
     "#E2DCD1",
@@ -6633,7 +6640,7 @@
  },
  "jakuchu_rooster": {
   "title": "Nandina and Rooster",
-  "artist": "Ito Jakuchu",
+  "artist": "Itō Jakuchū",
   "year": "c. 1761-1765",
   "group": "Japanese Ukiyo-e",
   "museum": "Sannomaru Shozokan, Tokyo",
@@ -6824,8 +6831,8 @@
     "#987E60"
    ],
    "Secondary Data (Cool)": [
-    "#987E60",
-    "#835238"
+    "#77755A",
+    "#B29D88"
    ],
    "Tertiary / Support": [
     "#F1D9BB",
@@ -6970,7 +6977,8 @@
     "#9F5A3D"
    ],
    "Secondary Data (Cool)": [
-    "#7A3B26"
+    "#7A3B26",
+    "#7D6B51"
    ],
    "Tertiary / Support": [
     "#FED5B4",
@@ -7116,7 +7124,7 @@
    ],
    "Secondary Data (Cool)": [
     "#6E5532",
-    "#BD6339"
+    "#945D16"
    ],
    "Tertiary / Support": [
     "#F6D9B0",
@@ -7407,8 +7415,8 @@
     "#7E5A3F"
    ],
    "Secondary Data (Cool)": [
-    "#AE9770",
-    "#7E5A3F"
+    "#77828A",
+    "#888073"
    ],
    "Tertiary / Support": [
     "#ECDBBB",

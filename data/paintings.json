@@ -65,7 +65,7 @@
   "artist": "Raphael",
   "year": "1512",
   "medium": "Oil on canvas",
-  "museum": "Gemaldegalerie Alte Meister, Dresden",
+  "museum": "Gemäldegalerie Alte Meister, Dresden",
   "wiki": "Sistine_Madonna",
   "group": "Renaissance & Baroque"
  },
@@ -142,7 +142,7 @@
  {
   "slug": "young_hare",
   "title": "Young Hare",
-  "artist": "Albrecht Durer",
+  "artist": "Albrecht Dürer",
   "year": "1502",
   "medium": "Watercolour and bodycolour",
   "museum": "Albertina, Vienna",
@@ -172,7 +172,7 @@
  {
   "slug": "las_meninas",
   "title": "Las Meninas",
-  "artist": "Diego Velazquez",
+  "artist": "Diego Velázquez",
   "year": "1656",
   "medium": "Oil on canvas",
   "museum": "Museo del Prado, Madrid",
@@ -232,7 +232,7 @@
  {
   "slug": "the_swing",
   "title": "The Swing",
-  "artist": "Jean-Honore Fragonard",
+  "artist": "Jean-Honoré Fragonard",
   "year": "1767",
   "medium": "Oil on canvas",
   "museum": "Wallace Collection, London",
@@ -245,7 +245,7 @@
   "artist": "Jacques-Louis David",
   "year": "1801",
   "medium": "Oil on canvas",
-  "museum": "Chateau de Malmaison",
+  "museum": "Château de Malmaison",
   "wiki": "Napoleon_Crossing_the_Alps",
   "group": "Romanticism & Realism"
  },
@@ -272,7 +272,7 @@
  {
   "slug": "liberty_leading_the_people",
   "title": "Liberty Leading the People",
-  "artist": "Eugene Delacroix",
+  "artist": "Eugène Delacroix",
   "year": "1830",
   "medium": "Oil on canvas",
   "museum": "Louvre, Paris",
@@ -282,7 +282,7 @@
  {
   "slug": "raft_of_the_medusa",
   "title": "The Raft of the Medusa",
-  "artist": "Theodore Gericault",
+  "artist": "Théodore Géricault",
   "year": "1818-1819",
   "medium": "Oil on canvas",
   "museum": "Louvre, Paris",
@@ -352,10 +352,10 @@
  {
   "slug": "the_gleaners",
   "title": "The Gleaners",
-  "artist": "Jean-Francois Millet",
+  "artist": "Jean-François Millet",
   "year": "1857",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "The_Gleaners",
   "group": "Romanticism & Realism"
  },
@@ -406,7 +406,7 @@
   "artist": "James McNeill Whistler",
   "year": "1871",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "Whistler's_Mother",
   "group": "Romanticism & Realism"
  },
@@ -476,7 +476,7 @@
   "artist": "Claude Monet",
   "year": "1872",
   "medium": "Oil on canvas",
-  "museum": "Musee Marmottan Monet, Paris",
+  "museum": "Musée Marmottan Monet, Paris",
   "wiki": "Impression,_Sunrise",
   "group": "Impressionism"
  },
@@ -528,7 +528,7 @@
   "artist": "Pierre-Auguste Renoir",
   "year": "1876",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "Bal_du_moulin_de_la_Galette",
   "group": "Impressionism"
  },
@@ -549,7 +549,7 @@
   "artist": "Edgar Degas",
   "year": "1871-1874",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay)",
   "group": "Impressionism"
  },
@@ -596,7 +596,7 @@
  },
  {
   "slug": "bathers_at_asnieres",
-  "title": "Bathers at Asnieres",
+  "title": "Bathers at Asnières",
   "artist": "Georges Seurat",
   "year": "1884",
   "medium": "Oil on canvas",
@@ -626,11 +626,11 @@
  },
  {
   "slug": "cafe_terrace_at_night",
-  "title": "Cafe Terrace at Night",
+  "title": "Café Terrace at Night",
   "artist": "Vincent van Gogh",
   "year": "1888",
   "medium": "Oil on canvas",
-  "museum": "Kroller-Muller Museum, Otterlo",
+  "museum": "Kröller-Müller Museum, Otterlo",
   "wiki": "Caf%C3%A9_Terrace_at_Night",
   "group": "Post-Impressionism"
  },
@@ -660,24 +660,24 @@
   "artist": "Paul Gauguin",
   "year": "1891",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "Tahitian_Women_on_the_Beach",
   "group": "Post-Impressionism"
  },
  {
   "slug": "the_card_players",
   "title": "The Card Players",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "1890-1895",
   "medium": "Oil on canvas",
-  "museum": "Musee d'Orsay, Paris",
+  "museum": "Musée d'Orsay, Paris",
   "wiki": "The_Card_Players",
   "group": "Post-Impressionism"
  },
  {
   "slug": "mont_sainte_victoire",
   "title": "Mont Sainte-Victoire",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "c. 1904",
   "medium": "Oil on canvas",
   "museum": "Philadelphia Museum of Art",
@@ -688,7 +688,7 @@
  {
   "slug": "the_basket_of_apples",
   "title": "The Basket of Apples",
-  "artist": "Paul Cezanne",
+  "artist": "Paul Cézanne",
   "year": "c. 1893",
   "medium": "Oil on canvas",
   "museum": "Art Institute of Chicago",
@@ -758,7 +758,7 @@
  },
  {
   "slug": "jeanne_hebuterne",
-  "title": "Jeanne Hebuterne",
+  "title": "Jeanne Hébuterne",
   "artist": "Amedeo Modigliani",
   "year": "1919",
   "medium": "Oil on canvas",
@@ -794,7 +794,7 @@
   "artist": "Piet Mondrian",
   "year": "1930",
   "medium": "Oil on canvas",
-  "museum": "Kunsthaus Zurich",
+  "museum": "Kunsthaus Zürich",
   "wiki": "Composition_II_in_Red,_Blue,_and_Yellow",
   "group": "Modern",
   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/1280px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg"
@@ -872,7 +872,7 @@
  },
  {
   "slug": "sudden_shower_over_shin_ohashi",
-  "title": "Sudden Shower over Shin-Ohashi Bridge and Atake",
+  "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
   "artist": "Utagawa Hiroshige",
   "year": "1857",
   "medium": "Woodblock print",
@@ -926,7 +926,7 @@
  {
   "slug": "jakuchu_rooster",
   "title": "Nandina and Rooster",
-  "artist": "Ito Jakuchu",
+  "artist": "Itō Jakuchū",
   "year": "c. 1761-1765",
   "medium": "Ink and color on silk",
   "museum": "Sannomaru Shozokan, Tokyo",
