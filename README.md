@@ -1,6 +1,29 @@
-# masterpiece-palettes
+# Scientific Figure Color Palettes from World-Famous Paintings
 
-**Scientific figure color palettes extracted from 102 masterpiece paintings.**
+**Ready-to-use color schemes for research-paper figures, extracted from 102
+world-famous paintings — with a poster, a JSON record, and a Python API for each.**
+
+## Why this project
+
+A research paper is both the summary and the showcase of a stretch of scientific
+work. Within it, well-crafted figures do double duty: they transmit dense,
+high-quality information with precision, and they make the paper a genuine pleasure
+to read. In that sense, every figure in a paper is a small work of art — authors
+pour real care into composition, annotation, and above all **color**, which more
+than anything decides whether a figure merely informs or truly persuades.
+
+So why not borrow color directly from the treasures of art itself? The palettes
+that Van Gogh, Monet, Hokusai, and the Song-dynasty court painters spent lifetimes
+refining already solve the hard problems of color design: harmony, contrast,
+emphasis, restraint.
+
+That is exactly what this project does. I analyzed the dominant color structure of
+102 world-famous paintings and distilled each into a ready-to-use color scheme for
+data figures, paired with nine example charts so you can see every palette on real
+plots before committing. If you want the color design of your next paper to stand
+out, take it from a masterpiece.
+
+## What you get
 
 Every palette is machine-extracted from a public-domain masterpiece (K-means in CIELab),
 refined for publication use (chroma boost, lightness spacing, guaranteed ΔE separation
@@ -17,7 +40,7 @@ time series, grouped bar — so you can judge at a glance how it behaves on real
 ## Install
 
 ```bash
-pip install "git+https://github.com/steven068zzy/masterpiece-palettes.git"
+pip install "git+https://github.com/steven068zzy/scientific-figure-color-palettes-from-world-famous-paintings.git"
 ```
 
 ## Quick start
@@ -274,7 +297,7 @@ Full pipeline in [`engine/`](engine/), design notes in [`docs/DESIGN.md`](docs/D
 
 [MetBrewer](https://github.com/BlakeRMills/MetBrewer) and
 [MoMAColors](https://github.com/BlakeRMills/MoMAColors) offer R palettes inspired by
-museum collections. masterpiece-palettes differs in scope (102 named paintings with
+museum collections. This project differs in scope (102 named paintings with
 posters demonstrating each palette on nine chart types), in its role-based usage
 system, and in shipping as both Python API and plain JSON.
 

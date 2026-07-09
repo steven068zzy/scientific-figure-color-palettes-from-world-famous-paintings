@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "masterpalettes"
 version = "1.0.0"
-description = "Scientific figure color palettes extracted from 102 masterpiece paintings"
+description = "Ready-to-use color schemes for research-paper figures, extracted from 102 world-famous paintings"
 readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "Ziyuan Zhao" }]
@@ -21,7 +21,7 @@ classifiers = [
 mpl = ["matplotlib>=3.3"]
 
 [project.urls]
-Homepage = "https://github.com/steven068zzy/masterpiece-palettes"
+Homepage = "https://github.com/steven068zzy/scientific-figure-color-palettes-from-world-famous-paintings"
 
 [tool.setuptools]
 packages = ["masterpalettes"]
