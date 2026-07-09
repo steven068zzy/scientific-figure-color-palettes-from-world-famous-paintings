@@ -17,7 +17,7 @@ time series, grouped bar — so you can judge at a glance how it behaves on real
 ## Install
 
 ```bash
-pip install "git+https://github.com/stevenZYzhao/masterpiece-palettes.git"
+pip install "git+https://github.com/steven068zzy/masterpiece-palettes.git"
 ```
 
 ## Quick start
