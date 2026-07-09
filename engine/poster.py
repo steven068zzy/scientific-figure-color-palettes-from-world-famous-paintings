@@ -127,15 +127,16 @@ def _cover(img, aspect):
     if cur > aspect:
         nw = int(h * aspect); x = (w - nw) // 2; img = img.crop((x, 0, x + nw, h))
     else:
-        nh = int(w / aspect); y = (h - nh) // 2; img = img.crop((0, y, w, y + nh))
+        # top-weighted crop for tall portraits so faces stay in frame
+        nh = int(w / aspect); y = int((h - nh) * 0.18); img = img.crop((0, y, w, y + nh))
     return img
 
 def _title_font(title):
     n = len(title)
     if n <= 22: return F["title"], [title]
-    if n <= 30: return 23, [title]
-    lines = textwrap.wrap(title, 30, max_lines=2, placeholder="…")
-    return 19.5, lines
+    if n <= 26: return 22, [title]
+    lines = textwrap.wrap(title, 24, max_lines=2, placeholder="…")
+    return 19, lines
 
 def draw_header(fig, cell, P):
     figW, figH = fig.get_size_inches()
@@ -164,11 +165,11 @@ def draw_header(fig, cell, P):
     y = 0.97
     for k, v in [("ARTIST", P["artist"]), ("YEAR", P["year"]),
                  ("MEDIUM", P["medium"]), ("SOURCE", P["source"])]:
-        vw = textwrap.wrap(str(v), 26, max_lines=2, placeholder="…")
+        vw = textwrap.wrap(str(v), 26, max_lines=3, placeholder="…")
         ax.text(0.75, y, k, fontsize=F["meta"], fontweight="bold", color="#222", va="top")
         ax.text(0.845, y, "\n".join(vw), fontsize=F["meta"] - (1.5 if len(vw) > 1 else 0),
                 color="#444", va="top", linespacing=1.1)
-        y -= 0.11 if len(vw) == 1 else 0.155
+        y -= (0.11, 0.155, 0.20)[len(vw) - 1]
 
 def draw_swatches(fig, cell, P):
     ax = fig.add_subplot(cell); ax.axis("off")
