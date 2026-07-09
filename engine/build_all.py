@@ -20,7 +20,8 @@ def build_one(task):
         "blurb": pal["blurb"],
         "artist": meta["artist"], "year": meta["year"],
         "medium": meta["medium"], "source": meta["museum"] + " · Public Domain",
-        "caption": (meta["title"] if len(meta["title"]) <= 36 else meta["title"][:34] + "…")
+        "caption": (meta["title"] if len(meta["title"]) <= 36
+                    else meta["title"][:35].rsplit(" ", 1)[0] + "…")
                    + f" ({meta['year']})" + ("" if "original" in meta["year"] else " · original"),
         "colors": [tuple(c) for c in pal["colors"]],
         "roles": pal["roles"],
