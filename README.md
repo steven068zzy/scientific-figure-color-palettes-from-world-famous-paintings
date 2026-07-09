@@ -35,7 +35,7 @@ Each painting ships with a poster showing the palette applied to nine common fig
 types — heatmap, clustered scatter, violin, spectral fit, dual-axis, polar, 3D surface,
 time series, grouped bar — so you can judge at a glance how it behaves on real charts.
 
-![The Starry Night poster](posters/starry_night.jpg)
+![The Starry Night poster](posters/starry_night.jpg?v=2)
 
 ## Install
 
