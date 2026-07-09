@@ -1,0 +1,6998 @@
+{
+ "mona_lisa": {
+  "title": "Mona Lisa",
+  "artist": "Leonardo da Vinci",
+  "year": "c. 1503-1506",
+  "group": "Renaissance & Baroque",
+  "museum": "Louvre, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gioconda Gold",
+    "#C48E1E"
+   ],
+   [
+    "Sleeve Amber",
+    "#92601A"
+   ],
+   [
+    "Valley Sage",
+    "#AAAF64"
+   ],
+   [
+    "Hillside Olive",
+    "#637131"
+   ],
+   [
+    "Midnight Silk",
+    "#2A1F35"
+   ],
+   [
+    "Earthen Road",
+    "#6A3A2A"
+   ],
+   [
+    "Poplar Shade",
+    "#4B522B"
+   ],
+   [
+    "Ivory Smile",
+    "#F2DAAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C48E1E",
+    "#92601A"
+   ],
+   "Secondary Data (Cool)": [
+    "#AAAF64",
+    "#637131"
+   ],
+   "Tertiary / Support": [
+    "#F0DAAF",
+    "#F2DAAC"
+   ],
+   "Highlight / Accent": [
+    "#D47200"
+   ],
+   "Backgrounds": [
+    "#F2DAAC",
+    "#FAF2E2"
+   ],
+   "Text / Lines": [
+    "#281D33",
+    "#6A3A2A"
+   ]
+  },
+  "diverging": [
+   "#282911",
+   "#F2DAAC",
+   "#D47200"
+  ],
+  "blurb": "Amber sfumato light settles over a smoky green river valley behind the world's most guarded smile. Warm golds carry primary signals, valley greens supply cool context, and a midnight silk dark anchors text and gridlines."
+ },
+ "last_supper": {
+  "title": "The Last Supper",
+  "artist": "Leonardo da Vinci",
+  "year": "1495-1498",
+  "group": "Renaissance & Baroque",
+  "museum": "Santa Maria delle Grazie, Milan",
+  "mode": "muted",
+  "colors": [
+   [
+    "Refectory Rose",
+    "#D0A082"
+   ],
+   [
+    "Walnut Beam",
+    "#52381F"
+   ],
+   [
+    "Cenacolo Dark",
+    "#2F201A"
+   ],
+   [
+    "Faded Fresco",
+    "#91745D"
+   ],
+   [
+    "Slate Robe",
+    "#5D6377"
+   ],
+   [
+    "Linen Ash",
+    "#AB9B8D"
+   ],
+   [
+    "Umber Wall",
+    "#584B41"
+   ],
+   [
+    "Milan Plaster",
+    "#E4DBD7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D0A082",
+    "#52381F"
+   ],
+   "Secondary Data (Cool)": [
+    "#5D6377",
+    "#AB9B8D"
+   ],
+   "Tertiary / Support": [
+    "#E4DBD7",
+    "#E4DBD7"
+   ],
+   "Highlight / Accent": [
+    "#C4653C"
+   ],
+   "Backgrounds": [
+    "#E4DBD7",
+    "#F6F2F1"
+   ],
+   "Text / Lines": [
+    "#2C1E18",
+    "#654B36"
+   ]
+  },
+  "diverging": [
+   "#382319",
+   "#E4DBD7",
+   "#C4653C"
+  ],
+  "blurb": "Faded plaster, walnut shadow, and a last breath of warm terracotta cling to Leonardo's refectory wall. Muted warm tones lead the data story while slate and linen grays recede into structure for restrained, print-safe figures."
+ },
+ "birth_of_venus": {
+  "title": "The Birth of Venus",
+  "artist": "Sandro Botticelli",
+  "year": "c. 1485",
+  "group": "Renaissance & Baroque",
+  "museum": "Uffizi Gallery, Florence",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Venus Gold",
+    "#C0831D"
+   ],
+   [
+    "Honeyed Shell",
+    "#D6AD56"
+   ],
+   [
+    "Sea Foam",
+    "#C4CD9E"
+   ],
+   [
+    "Myrtle Green",
+    "#889263"
+   ],
+   [
+    "Laurel Night",
+    "#282518"
+   ],
+   [
+    "Olive Shore",
+    "#535128"
+   ],
+   [
+    "Auburn Wing",
+    "#A65629"
+   ],
+   [
+    "Dawn Ivory",
+    "#E5DDBC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C0831D",
+    "#D6AD56"
+   ],
+   "Secondary Data (Cool)": [
+    "#C4CD9E",
+    "#889263"
+   ],
+   "Tertiary / Support": [
+    "#E7DDB2",
+    "#E5DDBC"
+   ],
+   "Highlight / Accent": [
+    "#D96E00"
+   ],
+   "Backgrounds": [
+    "#E5DDBC",
+    "#F6F3E7"
+   ],
+   "Text / Lines": [
+    "#282518",
+    "#535128"
+   ]
+  },
+  "diverging": [
+   "#292914",
+   "#E5DDBC",
+   "#D96E00"
+  ],
+  "blurb": "Wind-blown gold falls over a pale seafoam gulf as laurel greens darken the shore of Venus's arrival. Radiant golds head the series order, sea greens hold the cool half, and a foam-light ivory keeps multi-panel layouts airy."
+ },
+ "primavera": {
+  "title": "Primavera",
+  "artist": "Sandro Botticelli",
+  "year": "c. 1480",
+  "group": "Renaissance & Baroque",
+  "museum": "Uffizi Gallery, Florence",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Venus Scarlet",
+    "#A62714"
+   ],
+   [
+    "Medici Orange",
+    "#D09758"
+   ],
+   [
+    "Grove Green",
+    "#33402A"
+   ],
+   [
+    "Zephyr Blue",
+    "#7C8FA3"
+   ],
+   [
+    "Shadow Bough",
+    "#5E321D"
+   ],
+   [
+    "Graces' Veil",
+    "#D1AE89"
+   ],
+   [
+    "Orchard Bark",
+    "#784A29"
+   ],
+   [
+    "Flora Cream",
+    "#F2DAB2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#A62714",
+    "#D09758"
+   ],
+   "Secondary Data (Cool)": [
+    "#7C8FA3",
+    "#5E321D"
+   ],
+   "Tertiary / Support": [
+    "#F3DAB0",
+    "#F2DAB2"
+   ],
+   "Highlight / Accent": [
+    "#D42414"
+   ],
+   "Backgrounds": [
+    "#F2DAB2",
+    "#FAF2E4"
+   ],
+   "Text / Lines": [
+    "#252023",
+    "#70462B"
+   ]
+  },
+  "diverging": [
+   "#37212F",
+   "#F2DAB2",
+   "#D42414"
+  ],
+  "blurb": "A scarlet mantle and ripening Medici oranges glow out of a midnight grove carpeted with five hundred flowers. Red and gold lead as warm signals, grove green and Zephyr's gray-blue cool the field, and Flora's cream lights the background."
+ },
+ "creation_of_adam": {
+  "title": "The Creation of Adam",
+  "artist": "Michelangelo",
+  "year": "c. 1512",
+  "group": "Renaissance & Baroque",
+  "museum": "Sistine Chapel, Vatican",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Sistine Ochre",
+    "#8F6A16"
+   ],
+   [
+    "Adam's Clay",
+    "#CFA45E"
+   ],
+   [
+    "Sash Green",
+    "#7A955A"
+   ],
+   [
+    "Empyrean Teal",
+    "#519BAB"
+   ],
+   [
+    "First Shadow",
+    "#2E2117"
+   ],
+   [
+    "Mantle Russet",
+    "#6D3920"
+   ],
+   [
+    "Vault Olive",
+    "#544521"
+   ],
+   [
+    "Genesis Cream",
+    "#E7DCC1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#8F6A16",
+    "#CFA45E"
+   ],
+   "Secondary Data (Cool)": [
+    "#7A955A",
+    "#519BAB"
+   ],
+   "Tertiary / Support": [
+    "#E9DCB9",
+    "#E7DCC1"
+   ],
+   "Highlight / Accent": [
+    "#C26A00"
+   ],
+   "Backgrounds": [
+    "#E7DCC1",
+    "#F6F3E9"
+   ],
+   "Text / Lines": [
+    "#2C1F15",
+    "#693B26"
+   ]
+  },
+  "diverging": [
+   "#222B17",
+   "#E7DCC1",
+   "#C26A00"
+  ],
+  "blurb": "Clay-warm bodies and a dusty rose mantle drift through teal heaven, two fingertips apart on Sistine plaster. Ochre and clay mark primary series, sash green and empyrean teal answer them coolly, and plaster cream steadies the page."
+ },
+ "school_of_athens": {
+  "title": "The School of Athens",
+  "artist": "Raphael",
+  "year": "1509-1511",
+  "group": "Renaissance & Baroque",
+  "museum": "Apostolic Palace, Vatican",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Stanza Gold",
+    "#CE9147"
+   ],
+   [
+    "Athens Bronze",
+    "#6F3E0B"
+   ],
+   [
+    "Zenith Blue",
+    "#84A5CD"
+   ],
+   [
+    "Aegean Azure",
+    "#5882A3"
+   ],
+   [
+    "Niche Shadow",
+    "#262322"
+   ],
+   [
+    "Pantheon Stone",
+    "#8C7C54"
+   ],
+   [
+    "Scholar Sepia",
+    "#674F2E"
+   ],
+   [
+    "Parchment",
+    "#E8DDB4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CE9147",
+    "#6F3E0B"
+   ],
+   "Secondary Data (Cool)": [
+    "#84A5CD",
+    "#5882A3"
+   ],
+   "Tertiary / Support": [
+    "#E9DDAF",
+    "#E8DDB4"
+   ],
+   "Highlight / Accent": [
+    "#D5711E"
+   ],
+   "Backgrounds": [
+    "#E8DDB4",
+    "#F7F3E5"
+   ],
+   "Text / Lines": [
+    "#242120",
+    "#5C4F29"
+   ]
+  },
+  "diverging": [
+   "#17293B",
+   "#E8DDB4",
+   "#D5711E"
+  ],
+  "blurb": "Amber robes descend marble steps beneath coffered vaults that open onto a clear Athenian sky. Warm golds flag the leading series, arched blues give measured cool counterpoint, and parchment neutrals carry grids and backgrounds."
+ },
+ "sistine_madonna": {
+  "title": "Sistine Madonna",
+  "artist": "Raphael",
+  "year": "1512",
+  "group": "Renaissance & Baroque",
+  "museum": "Gemaldegalerie Alte Meister, Dresden",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Papal Gold",
+    "#C68B29"
+   ],
+   [
+    "Madonna Red",
+    "#852316"
+   ],
+   [
+    "Curtain Green",
+    "#3E672B"
+   ],
+   [
+    "Velvet Fold",
+    "#274424"
+   ],
+   [
+    "Iron Ring",
+    "#24241F"
+   ],
+   [
+    "Bronze Cope",
+    "#9A6827"
+   ],
+   [
+    "Mantle Blue",
+    "#5C7A99"
+   ],
+   [
+    "Cherub Cream",
+    "#F1DBAB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C68B29",
+    "#852316"
+   ],
+   "Secondary Data (Cool)": [
+    "#3E672B",
+    "#274424"
+   ],
+   "Tertiary / Support": [
+    "#EFDBAF",
+    "#F1DBAB"
+   ],
+   "Highlight / Accent": [
+    "#D86F00"
+   ],
+   "Backgrounds": [
+    "#F1DBAB",
+    "#FAF2E2"
+   ],
+   "Text / Lines": [
+    "#22221D",
+    "#694A25"
+   ]
+  },
+  "diverging": [
+   "#1F2B19",
+   "#F1DBAB",
+   "#D86F00"
+  ],
+  "blurb": "Emerald curtains draw back on papal gold, Madonna red, and clouds dissolving into cherub faces. Warm golds and reds carry primary signals, while curtain greens and the mantle's slate blue give cool structure and support."
+ },
+ "venus_of_urbino": {
+  "title": "Venus of Urbino",
+  "artist": "Titian",
+  "year": "1534",
+  "group": "Renaissance & Baroque",
+  "museum": "Uffizi Gallery, Florence",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Venetian Red",
+    "#940000"
+   ],
+   [
+    "Titian Gold",
+    "#D38218"
+   ],
+   [
+    "Dusk Window",
+    "#42427A"
+   ],
+   [
+    "Twilight Blue",
+    "#5C678D"
+   ],
+   [
+    "Velvet Shadow",
+    "#252327"
+   ],
+   [
+    "Cassone Brown",
+    "#824B20"
+   ],
+   [
+    "Venus Glow",
+    "#AE7C50"
+   ],
+   [
+    "Linen White",
+    "#F4E5D4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#940000",
+    "#D38218"
+   ],
+   "Secondary Data (Cool)": [
+    "#42427A",
+    "#5C678D"
+   ],
+   "Tertiary / Support": [
+    "#EDDAC4",
+    "#F4E5D4"
+   ],
+   "Highlight / Accent": [
+    "#D71A0E"
+   ],
+   "Backgrounds": [
+    "#F4E5D4",
+    "#FBF6F0"
+   ],
+   "Text / Lines": [
+    "#232125",
+    "#6F472A"
+   ]
+  },
+  "diverging": [
+   "#26263A",
+   "#F4E5D4",
+   "#D71A0E"
+  ],
+  "blurb": "Crimson daybed and Titian-gold hair burn against dark velvet and a slate-blue dusk at the window. Saturated warm reds and golds flag primary data, while the twilight blues recede into context and secondary structure."
+ },
+ "bacchus_and_ariadne": {
+  "title": "Bacchus and Ariadne",
+  "artist": "Titian",
+  "year": "1522-1523",
+  "group": "Renaissance & Baroque",
+  "museum": "National Gallery, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Satyr Russet",
+    "#935633"
+   ],
+   [
+    "Cheetah Gold",
+    "#BA925E"
+   ],
+   [
+    "Ultramarine",
+    "#1C4A84"
+   ],
+   [
+    "Aegean Blue",
+    "#527AB5"
+   ],
+   [
+    "Grove Umber",
+    "#342716"
+   ],
+   [
+    "Naxos Sea",
+    "#357691"
+   ],
+   [
+    "Cloud Drift",
+    "#83B1D7"
+   ],
+   [
+    "Shore Cream",
+    "#E1DEBF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#935633",
+    "#BA925E"
+   ],
+   "Secondary Data (Cool)": [
+    "#1C4A84",
+    "#527AB5"
+   ],
+   "Tertiary / Support": [
+    "#E2DFB7",
+    "#E1DEBF"
+   ],
+   "Highlight / Accent": [
+    "#C8442B"
+   ],
+   "Backgrounds": [
+    "#E1DEBF",
+    "#F4F3E9"
+   ],
+   "Text / Lines": [
+    "#342716",
+    "#045770"
+   ]
+  },
+  "diverging": [
+   "#20293D",
+   "#E1DEBF",
+   "#C8442B"
+  ],
+  "blurb": "Titian's lavish ultramarine sky crashes into sun-bronzed revelers, cheetah gold, and the wine-dark grove of Naxos. Warm russets lead the eye as primary series, while layered blues from lapis to cloud set cool context."
+ },
+ "arnolfini_portrait": {
+  "title": "The Arnolfini Portrait",
+  "artist": "Jan van Eyck",
+  "year": "1434",
+  "group": "Renaissance & Baroque",
+  "museum": "National Gallery, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Red Canopy",
+    "#93412B"
+   ],
+   [
+    "Tabard Plum",
+    "#61301F"
+   ],
+   [
+    "Gown Emerald",
+    "#35510A"
+   ],
+   [
+    "Olive Train",
+    "#5E6F2F"
+   ],
+   [
+    "Black Felt",
+    "#23241D"
+   ],
+   [
+    "Sleeve Teal",
+    "#00546B"
+   ],
+   [
+    "Aged Brass",
+    "#604E2A"
+   ],
+   [
+    "Veil Ivory",
+    "#F3D9B7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#93412B",
+    "#61301F"
+   ],
+   "Secondary Data (Cool)": [
+    "#35510A",
+    "#5E6F2F"
+   ],
+   "Tertiary / Support": [
+    "#F7D8B0",
+    "#F3D9B7"
+   ],
+   "Highlight / Accent": [
+    "#C9581C"
+   ],
+   "Backgrounds": [
+    "#F3D9B7",
+    "#FBF2E6"
+   ],
+   "Text / Lines": [
+    "#21221B",
+    "#00546B"
+   ]
+  },
+  "diverging": [
+   "#252A16",
+   "#F3D9B7",
+   "#C9581C"
+  ],
+  "blurb": "A viridian bridal gown, madder-red canopy, and brass chandelier glow inside van Eyck's amber-lit chamber. Reds and plums mark primary emphasis, while the gown's greens and a teal sleeve carry cool secondary structure."
+ },
+ "garden_of_earthly_delights": {
+  "title": "The Garden of Earthly Delights",
+  "artist": "Hieronymus Bosch",
+  "year": "1490-1510",
+  "group": "Renaissance & Baroque",
+  "museum": "Museo del Prado, Madrid",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Eden Ochre",
+    "#BD8D38"
+   ],
+   [
+    "Hellfire Rust",
+    "#86450F"
+   ],
+   [
+    "Acid Meadow",
+    "#B5B030"
+   ],
+   [
+    "Orchard Olive",
+    "#686800"
+   ],
+   [
+    "Owl Night",
+    "#242421"
+   ],
+   [
+    "Thicket Green",
+    "#4E6541"
+   ],
+   [
+    "Fountain Teal",
+    "#5BA098"
+   ],
+   [
+    "Pale Revelers",
+    "#DFDFB9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#BD8D38",
+    "#86450F"
+   ],
+   "Secondary Data (Cool)": [
+    "#B5B030",
+    "#686800"
+   ],
+   "Tertiary / Support": [
+    "#DFE0B1",
+    "#DFDFB9"
+   ],
+   "Highlight / Accent": [
+    "#D0342C"
+   ],
+   "Backgrounds": [
+    "#DFDFB9",
+    "#F4F4E6"
+   ],
+   "Text / Lines": [
+    "#22221F",
+    "#3F5633"
+   ]
+  },
+  "diverging": [
+   "#2A2814",
+   "#DFDFB9",
+   "#D0342C"
+  ],
+  "blurb": "Acid-green meadows and alchemical teal pools teem with pale revelers beneath Eden's ochre hills. Golds and russets serve as warm primary channels, with chartreuse and olive greens supplying cool categorical contrast."
+ },
+ "hunters_in_the_snow": {
+  "title": "The Hunters in the Snow",
+  "artist": "Pieter Bruegel the Elder",
+  "year": "1565",
+  "group": "Renaissance & Baroque",
+  "museum": "Kunsthistorisches Museum, Vienna",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Hearth Ember",
+    "#7C3F00"
+   ],
+   [
+    "Thatch Gold",
+    "#B5914C"
+   ],
+   [
+    "Frozen Pond",
+    "#576E45"
+   ],
+   [
+    "Winter Sky",
+    "#85A48B"
+   ],
+   [
+    "Crow Black",
+    "#232423"
+   ],
+   [
+    "Timber Brown",
+    "#623F20"
+   ],
+   [
+    "Bramble Olive",
+    "#3D4018"
+   ],
+   [
+    "First Snow",
+    "#ECE0BF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#7C3F00",
+    "#B5914C"
+   ],
+   "Secondary Data (Cool)": [
+    "#576E45",
+    "#85A48B"
+   ],
+   "Tertiary / Support": [
+    "#EBDCB2",
+    "#ECE0BF"
+   ],
+   "Highlight / Accent": [
+    "#C25200"
+   ],
+   "Backgrounds": [
+    "#ECE0BF",
+    "#F8F4E9"
+   ],
+   "Text / Lines": [
+    "#212221",
+    "#623F20"
+   ]
+  },
+  "diverging": [
+   "#212B18",
+   "#ECE0BF",
+   "#C25200"
+  ],
+  "blurb": "Weary hunters and crow-black trees trudge across cream snow toward a frozen green-glass sky. Earthy embers and thatch golds carry the warm primary series, while pond and sky greens hold the cold contextual ground."
+ },
+ "tower_of_babel": {
+  "title": "The Tower of Babel",
+  "artist": "Pieter Bruegel the Elder",
+  "year": "1563",
+  "group": "Renaissance & Baroque",
+  "museum": "Kunsthistorisches Museum, Vienna",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Babel Brick",
+    "#B85D1E"
+   ],
+   [
+    "Masonry Gold",
+    "#C3953A"
+   ],
+   [
+    "Flemish Plain",
+    "#8B945B"
+   ],
+   [
+    "Field Green",
+    "#3C5531"
+   ],
+   [
+    "Vault Shadow",
+    "#2A2310"
+   ],
+   [
+    "Harbor Teal",
+    "#73BBB9"
+   ],
+   [
+    "Scaffold Olive",
+    "#6D591F"
+   ],
+   [
+    "Pale Horizon",
+    "#EAE2C7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B85D1E",
+    "#C3953A"
+   ],
+   "Secondary Data (Cool)": [
+    "#8B945B",
+    "#3C5531"
+   ],
+   "Tertiary / Support": [
+    "#E7DDBA",
+    "#EAE2C7"
+   ],
+   "Highlight / Accent": [
+    "#CE4B03"
+   ],
+   "Backgrounds": [
+    "#EAE2C7",
+    "#F8F5EB"
+   ],
+   "Text / Lines": [
+    "#28210D",
+    "#005A59"
+   ]
+  },
+  "diverging": [
+   "#262A15",
+   "#EAE2C7",
+   "#CE4B03"
+  ],
+  "blurb": "Rust-red brick ramps spiral over golden Flemish stonework while a teal harbor stretches beyond the unfinished tower. Warm masonry tones flag primary series; sea greens and field darks supply cool structure for multi-panel figures."
+ },
+ "the_ambassadors": {
+  "title": "The Ambassadors",
+  "artist": "Hans Holbein the Younger",
+  "year": "1533",
+  "group": "Renaissance & Baroque",
+  "museum": "National Gallery, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Astrolabe Gold",
+    "#A27622"
+   ],
+   [
+    "Satin Crimson",
+    "#8E2823"
+   ],
+   [
+    "Damask Green",
+    "#2F4400"
+   ],
+   [
+    "Curtain Moss",
+    "#5F6E34"
+   ],
+   [
+    "Scholar Black",
+    "#272320"
+   ],
+   [
+    "Cosmati Stone",
+    "#8C7850"
+   ],
+   [
+    "Lute Brown",
+    "#503A18"
+   ],
+   [
+    "Ermine Cream",
+    "#E6DCC6"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#A27622",
+    "#8E2823"
+   ],
+   "Secondary Data (Cool)": [
+    "#2F4400",
+    "#5F6E34"
+   ],
+   "Tertiary / Support": [
+    "#E8DCBF",
+    "#E6DCC6"
+   ],
+   "Highlight / Accent": [
+    "#BE6700"
+   ],
+   "Backgrounds": [
+    "#E6DCC6",
+    "#F6F3EB"
+   ],
+   "Text / Lines": [
+    "#25211E",
+    "#5F4E28"
+   ]
+  },
+  "diverging": [
+   "#252A16",
+   "#E6DCC6",
+   "#BE6700"
+  ],
+  "blurb": "Gold instruments and pink-crimson satin glow against the deep green damask behind Holbein's two envoys. The gilded warm pair drives primary emphasis while curtain greens and scholarly darks structure secondary panels and gridlines."
+ },
+ "young_hare": {
+  "title": "Young Hare",
+  "artist": "Albrecht Durer",
+  "year": "1502",
+  "group": "Renaissance & Baroque",
+  "museum": "Albertina, Vienna",
+  "mode": "muted",
+  "colors": [
+   [
+    "Sunlit Fur",
+    "#AA9276"
+   ],
+   [
+    "Burrow Umber",
+    "#52412F"
+   ],
+   [
+    "Watchful Eye",
+    "#2D2117"
+   ],
+   [
+    "Whisker Buff",
+    "#D2C5B2"
+   ],
+   [
+    "Cast Shadow",
+    "#6E685F"
+   ],
+   [
+    "Downy Taupe",
+    "#927B69"
+   ],
+   [
+    "Warren Dun",
+    "#6F6154"
+   ],
+   [
+    "Vellum",
+    "#E8DBC7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AA9276",
+    "#52412F"
+   ],
+   "Secondary Data (Cool)": [
+    "#52412F",
+    "#6E685F"
+   ],
+   "Tertiary / Support": [
+    "#E8DBC7",
+    "#E8DBC7"
+   ],
+   "Highlight / Accent": [
+    "#C17A45"
+   ],
+   "Backgrounds": [
+    "#E8DBC7",
+    "#F7F2EB"
+   ],
+   "Text / Lines": [
+    "#44372B",
+    "#594F3F"
+   ]
+  },
+  "diverging": [
+   "#473626",
+   "#E8DBC7",
+   "#C17A45"
+  ],
+  "blurb": "Every watercolor hair of the crouching hare, from russet ear to buff belly, rests on warm blank vellum. Soft browns grade the primary series and grays hold supporting roles, giving muted figures quiet, print-safe contrast."
+ },
+ "vertumnus": {
+  "title": "Vertumnus",
+  "artist": "Giuseppe Arcimboldo",
+  "year": "1591",
+  "group": "Renaissance & Baroque",
+  "museum": "Skokloster Castle, Sweden",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Apple Cheek",
+    "#B4442D"
+   ],
+   [
+    "Wheat Gold",
+    "#C49B4B"
+   ],
+   [
+    "Gourd Green",
+    "#60A455"
+   ],
+   [
+    "Cabbage Leaf",
+    "#A8BA6E"
+   ],
+   [
+    "Harvest Night",
+    "#2C2A24"
+   ],
+   [
+    "Artichoke",
+    "#49692F"
+   ],
+   [
+    "Onion Skin",
+    "#763A2C"
+   ],
+   [
+    "Pear Blossom",
+    "#DFDEC9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B4442D",
+    "#C49B4B"
+   ],
+   "Secondary Data (Cool)": [
+    "#60A455",
+    "#A8BA6E"
+   ],
+   "Tertiary / Support": [
+    "#E0DEC4",
+    "#DFDEC9"
+   ],
+   "Highlight / Accent": [
+    "#CC331E"
+   ],
+   "Backgrounds": [
+    "#DFDEC9",
+    "#F4F3EC"
+   ],
+   "Text / Lines": [
+    "#2C2A24",
+    "#40572C"
+   ]
+  },
+  "diverging": [
+   "#202E1C",
+   "#DFDEC9",
+   "#CC331E"
+  ],
+  "blurb": "Rudolf II blooms out of the dark as apples, wheat, gourds, and roses composed into an emperor's face. Ripe reds and golds head the categorical order while leafy greens and vegetable darks fill secondary and structural roles."
+ },
+ "view_of_toledo": {
+  "title": "View of Toledo",
+  "artist": "El Greco",
+  "year": "c. 1600",
+  "group": "Renaissance & Baroque",
+  "museum": "Metropolitan Museum of Art, New York",
+  "mode": "muted",
+  "colors": [
+   [
+    "Lightning Sage",
+    "#909D5C"
+   ],
+   [
+    "Toledo Green",
+    "#425827"
+   ],
+   [
+    "Thunderhead",
+    "#1E2522"
+   ],
+   [
+    "Tagus Teal",
+    "#47838E"
+   ],
+   [
+    "Cloud Break",
+    "#90BABC"
+   ],
+   [
+    "Rampart Olive",
+    "#3F3F2C"
+   ],
+   [
+    "Slate Spire",
+    "#515F5C"
+   ],
+   [
+    "Moonlit Mist",
+    "#D3E0D9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#909D5C",
+    "#425827"
+   ],
+   "Secondary Data (Cool)": [
+    "#909D5C",
+    "#425827"
+   ],
+   "Tertiary / Support": [
+    "#D3E0D9",
+    "#D3E0D9"
+   ],
+   "Highlight / Accent": [
+    "#D4694F"
+   ],
+   "Backgrounds": [
+    "#D3E0D9",
+    "#F0F4F2"
+   ],
+   "Text / Lines": [
+    "#1C2320",
+    "#1F585E"
+   ]
+  },
+  "diverging": [
+   "#262A15",
+   "#D3E0D9",
+   "#D4694F"
+  ],
+  "blurb": "Storm light whips across Toledo, flashing acid greens and steel teals beneath a bruised thunderhead sky. Lit hillside hues carry the leading series while slate and rampart darks give cool structure to dense multi-panel layouts."
+ },
+ "las_meninas": {
+  "title": "Las Meninas",
+  "artist": "Diego Velazquez",
+  "year": "1656",
+  "group": "Renaissance & Baroque",
+  "museum": "Museo del Prado, Madrid",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Alcazar Glow",
+    "#C57D48"
+   ],
+   [
+    "Easel Umber",
+    "#623000"
+   ],
+   [
+    "Studio Shadow",
+    "#28231D"
+   ],
+   [
+    "Gilt Frame",
+    "#78592D"
+   ],
+   [
+    "Mastiff Tan",
+    "#B79A6A"
+   ],
+   [
+    "Santiago Red",
+    "#9B3A2C"
+   ],
+   [
+    "Walnut Door",
+    "#503A10"
+   ],
+   [
+    "Infanta Ivory",
+    "#F4D9AC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C57D48",
+    "#623000"
+   ],
+   "Secondary Data (Cool)": [
+    "#78592D",
+    "#B79A6A"
+   ],
+   "Tertiary / Support": [
+    "#F3DAB0",
+    "#F4D9AC"
+   ],
+   "Highlight / Accent": [
+    "#DA6D31"
+   ],
+   "Backgrounds": [
+    "#F4D9AC",
+    "#FBF2E2"
+   ],
+   "Text / Lines": [
+    "#26211B",
+    "#664B24"
+   ]
+  },
+  "diverging": [
+   "#332515",
+   "#F4D9AC",
+   "#DA6D31"
+  ],
+  "blurb": "Amber palace light falls through velvet gloom onto the Infanta's ivory gown, with one flash of Santiago red at the painter's chest. Glowing warm browns lead the data hierarchy while deep studio shadows anchor text, lines, and background structure."
+ },
+ "calling_of_saint_matthew": {
+  "title": "The Calling of Saint Matthew",
+  "artist": "Caravaggio",
+  "year": "1599-1600",
+  "group": "Renaissance & Baroque",
+  "museum": "San Luigi dei Francesi, Rome",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Divine Beam",
+    "#EDAB62"
+   ],
+   [
+    "Velvet Gold",
+    "#C89A55"
+   ],
+   [
+    "Tavern Shadow",
+    "#262320"
+   ],
+   [
+    "Coin Brass",
+    "#9A814E"
+   ],
+   [
+    "Oak Table",
+    "#513910"
+   ],
+   [
+    "Roman Red",
+    "#96452A"
+   ],
+   [
+    "Doublet Olive",
+    "#6E5823"
+   ],
+   [
+    "Windowlight",
+    "#E7DDB2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#EDAB62",
+    "#C89A55"
+   ],
+   "Secondary Data (Cool)": [
+    "#9A814E",
+    "#513910"
+   ],
+   "Tertiary / Support": [
+    "#E7DDB0",
+    "#E7DDB2"
+   ],
+   "Highlight / Accent": [
+    "#D5701F"
+   ],
+   "Backgrounds": [
+    "#E7DDB2",
+    "#F7F3E4"
+   ],
+   "Text / Lines": [
+    "#23211E",
+    "#604E23"
+   ]
+  },
+  "diverging": [
+   "#312614",
+   "#E7DDB2",
+   "#D5701F"
+  ],
+  "blurb": "A blade of golden light cuts the tavern gloom, striking ochre sleeves, scattered coins, and rust-red velvet amid deep brown shadow. Radiant golds carry primary signals and emphasis; earthen darks and olive supports structure axes, labels, and background."
+ },
+ "night_watch": {
+  "title": "The Night Watch",
+  "artist": "Rembrandt van Rijn",
+  "year": "1642",
+  "group": "Renaissance & Baroque",
+  "museum": "Rijksmuseum, Amsterdam",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Militia Gold",
+    "#D19927"
+   ],
+   [
+    "Captain's Sash",
+    "#902B00"
+   ],
+   [
+    "Gunpowder",
+    "#292319"
+   ],
+   [
+    "Drummer Bronze",
+    "#874F00"
+   ],
+   [
+    "Musket Umber",
+    "#5C3400"
+   ],
+   [
+    "Buff Leather",
+    "#7A5E3B"
+   ],
+   [
+    "Aged Varnish",
+    "#9B7B36"
+   ],
+   [
+    "Lace Collar",
+    "#F3DAAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D19927",
+    "#902B00"
+   ],
+   "Secondary Data (Cool)": [
+    "#5C3400",
+    "#7A5E3B"
+   ],
+   "Tertiary / Support": [
+    "#F2DAAF",
+    "#F3DAAC"
+   ],
+   "Highlight / Accent": [
+    "#D77000"
+   ],
+   "Backgrounds": [
+    "#F3DAAC",
+    "#FBF2E2"
+   ],
+   "Text / Lines": [
+    "#272117",
+    "#684A25"
+   ]
+  },
+  "diverging": [
+   "#302614",
+   "#F3DAAC",
+   "#D77000"
+  ],
+  "blurb": "Torch-gold uniforms and a crimson sash surge out of Rembrandt's cavernous brown night. Gold and rust lead the headline series, layered umbers and buff leather supply context, and a parchment-pale ground keeps multi-panel figures luminous."
+ },
+ "girl_with_a_pearl_earring": {
+  "title": "Girl with a Pearl Earring",
+  "artist": "Johannes Vermeer",
+  "year": "c. 1665",
+  "group": "Renaissance & Baroque",
+  "museum": "Mauritshuis, The Hague",
+  "mode": "muted",
+  "colors": [
+   [
+    "Jacket Gold",
+    "#DBB176"
+   ],
+   [
+    "Shadow Ochre",
+    "#A28963"
+   ],
+   [
+    "Turban Blue",
+    "#62829B"
+   ],
+   [
+    "Ultramarine",
+    "#33485F"
+   ],
+   [
+    "Black Ground",
+    "#2A2318"
+   ],
+   [
+    "Walnut Glaze",
+    "#524228"
+   ],
+   [
+    "Pearl Gray",
+    "#A0AFB9"
+   ],
+   [
+    "Ivory Glow",
+    "#EDDAC7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#DBB176",
+    "#A28963"
+   ],
+   "Secondary Data (Cool)": [
+    "#62829B",
+    "#33485F"
+   ],
+   "Tertiary / Support": [
+    "#EDDAC7",
+    "#EDDAC7"
+   ],
+   "Highlight / Accent": [
+    "#C1793A"
+   ],
+   "Backgrounds": [
+    "#EDDAC7",
+    "#F9F2EB"
+   ],
+   "Text / Lines": [
+    "#282116",
+    "#524228"
+   ]
+  },
+  "diverging": [
+   "#0C2B3A",
+   "#EDDAC7",
+   "#C1793A"
+  ],
+  "blurb": "A lapis turban and glowing ochre jacket turn toward the light, crowned by a single drop of pearl against the void. Warm golds flag primary results, the twin blues answer as cool secondaries, and pearl gray softens gridlines over an ivory field."
+ },
+ "the_milkmaid": {
+  "title": "The Milkmaid",
+  "artist": "Johannes Vermeer",
+  "year": "c. 1658-1660",
+  "group": "Renaissance & Baroque",
+  "museum": "Rijksmuseum, Amsterdam",
+  "mode": "muted",
+  "colors": [
+   [
+    "Bodice Gold",
+    "#C39F58"
+   ],
+   [
+    "Bread Crust",
+    "#785D40"
+   ],
+   [
+    "Apron Blue",
+    "#31506F"
+   ],
+   [
+    "Kitchen Dark",
+    "#202426"
+   ],
+   [
+    "Pewter Shade",
+    "#5D5649"
+   ],
+   [
+    "Daylight Wall",
+    "#9F9884"
+   ],
+   [
+    "Clay Jug",
+    "#5C3833"
+   ],
+   [
+    "Fresh Milk",
+    "#E2DDC7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C39F58",
+    "#785D40"
+   ],
+   "Secondary Data (Cool)": [
+    "#31506F"
+   ],
+   "Tertiary / Support": [
+    "#E2DDC7",
+    "#E2DDC7"
+   ],
+   "Highlight / Accent": [
+    "#C4813F"
+   ],
+   "Backgrounds": [
+    "#E2DDC7",
+    "#F5F3EB"
+   ],
+   "Text / Lines": [
+    "#1E2224",
+    "#564F42"
+   ]
+  },
+  "diverging": [
+   "#142A3B",
+   "#E2DDC7",
+   "#C4813F"
+  ],
+  "blurb": "Lead-tin yellow bodice, ultramarine apron, and a quiet ribbon of milk poured in cool morning light. Warm bread-and-gold hues head the categorical series, apron blue provides contrast, and plaster neutrals keep panels calm and legible."
+ },
+ "the_blue_boy": {
+  "title": "The Blue Boy",
+  "artist": "Thomas Gainsborough",
+  "year": "c. 1770",
+  "group": "Renaissance & Baroque",
+  "museum": "Huntington Library, San Marino",
+  "mode": "muted",
+  "colors": [
+   [
+    "Russet Moor",
+    "#52391C"
+   ],
+   [
+    "Sandy Path",
+    "#897554"
+   ],
+   [
+    "Blue Satin",
+    "#4B7090"
+   ],
+   [
+    "Cobalt Shade",
+    "#25455C"
+   ],
+   [
+    "Black Plume",
+    "#1B252D"
+   ],
+   [
+    "Olive Dusk",
+    "#47473E"
+   ],
+   [
+    "Silver Sky",
+    "#869AA3"
+   ],
+   [
+    "Rosy Lace",
+    "#F3D8C1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#52391C",
+    "#897554"
+   ],
+   "Secondary Data (Cool)": [
+    "#4B7090",
+    "#25455C"
+   ],
+   "Tertiary / Support": [
+    "#F3D8C1",
+    "#F3D8C1"
+   ],
+   "Highlight / Accent": [
+    "#B26840"
+   ],
+   "Backgrounds": [
+    "#F3D8C1",
+    "#FBF1E9"
+   ],
+   "Text / Lines": [
+    "#19232B",
+    "#47473E"
+   ]
+  },
+  "diverging": [
+   "#0D2B3A",
+   "#F3D8C1",
+   "#B26840"
+  ],
+  "blurb": "Shimmering steel-blue satin stands against a russet moor and a brooding silver sky. Satin blues and earthy warms divide the categorical load, the black plume grounds text and lines, and pale lace recedes softly into the background."
+ },
+ "the_swing": {
+  "title": "The Swing",
+  "artist": "Jean-Honore Fragonard",
+  "year": "1767",
+  "group": "Renaissance & Baroque",
+  "museum": "Wallace Collection, London",
+  "mode": "muted",
+  "colors": [
+   [
+    "Bough Brown",
+    "#7D5546"
+   ],
+   [
+    "Petticoat Pink",
+    "#C69488"
+   ],
+   [
+    "Sage Leaf",
+    "#828A75"
+   ],
+   [
+    "Thicket Dark",
+    "#222420"
+   ],
+   [
+    "Ivy Shadow",
+    "#4F5C53"
+   ],
+   [
+    "Misty Sky",
+    "#9DB8C4"
+   ],
+   [
+    "Secret Garden",
+    "#384038"
+   ],
+   [
+    "Blossom Cream",
+    "#E6DBCC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#7D5546",
+    "#C69488"
+   ],
+   "Secondary Data (Cool)": [
+    "#828A75"
+   ],
+   "Tertiary / Support": [
+    "#E6DBCC",
+    "#E6DBCC"
+   ],
+   "Highlight / Accent": [
+    "#C4614E"
+   ],
+   "Backgrounds": [
+    "#E6DBCC",
+    "#F6F3ED"
+   ],
+   "Text / Lines": [
+    "#20221E",
+    "#47534B"
+   ]
+  },
+  "diverging": [
+   "#222B17",
+   "#E6DBCC",
+   "#C4614E"
+  ],
+  "blurb": "A froth of petticoat pink sails through sage shadows and misty garden light, watched from the secret thicket below. The rosy warm pair spotlights primary data, layered greens build context and structure, and blossom cream backs every panel."
+ },
+ "napoleon_crossing_the_alps": {
+  "title": "Napoleon Crossing the Alps",
+  "artist": "Jacques-Louis David",
+  "year": "1801",
+  "group": "Romanticism & Realism",
+  "museum": "Chateau de Malmaison",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Cloak Gold",
+    "#D3A837"
+   ],
+   [
+    "Bridle Bronze",
+    "#AE7E40"
+   ],
+   [
+    "Uniform Blue",
+    "#33518D"
+   ],
+   [
+    "Granite Olive",
+    "#958A57"
+   ],
+   [
+    "Bicorne Plum",
+    "#371A28"
+   ],
+   [
+    "Marengo Cream",
+    "#CFB88B"
+   ],
+   [
+    "Boot Chestnut",
+    "#5F3122"
+   ],
+   [
+    "Alpine Snow",
+    "#EBDDAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D3A837",
+    "#AE7E40"
+   ],
+   "Secondary Data (Cool)": [
+    "#958A57",
+    "#371A28"
+   ],
+   "Tertiary / Support": [
+    "#EADDAF",
+    "#EBDDAC"
+   ],
+   "Highlight / Accent": [
+    "#CF7500"
+   ],
+   "Backgrounds": [
+    "#EBDDAC",
+    "#F8F3E2"
+   ],
+   "Text / Lines": [
+    "#351826",
+    "#674B25"
+   ]
+  },
+  "diverging": [
+   "#3C1F2D",
+   "#EBDDAC",
+   "#CF7500"
+  ],
+  "blurb": "A windswept golden cloak blazes over storm-gray granite while the young general, cobalt-clad on a rearing charger, points toward the pass. Gold and bronze lead the data hierarchy; uniform blue, olive, and stone neutrals carry context and background."
+ },
+ "oath_of_the_horatii": {
+  "title": "Oath of the Horatii",
+  "artist": "Jacques-Louis David",
+  "year": "1784",
+  "group": "Romanticism & Realism",
+  "museum": "Louvre, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Roman Red",
+    "#B14E25"
+   ],
+   [
+    "Oath Russet",
+    "#682C0A"
+   ],
+   [
+    "Sword Steel",
+    "#6E7681"
+   ],
+   [
+    "Arcade Umber",
+    "#5A4A24"
+   ],
+   [
+    "Vault Black",
+    "#27231C"
+   ],
+   [
+    "Camilla Tan",
+    "#C99B60"
+   ],
+   [
+    "Column Olive",
+    "#9A875A"
+   ],
+   [
+    "Travertine",
+    "#E6DCC4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B14E25",
+    "#682C0A"
+   ],
+   "Secondary Data (Cool)": [
+    "#5A4A24",
+    "#27231C"
+   ],
+   "Tertiary / Support": [
+    "#E8DCBD",
+    "#E6DCC4"
+   ],
+   "Highlight / Accent": [
+    "#C63B12"
+   ],
+   "Backgrounds": [
+    "#E6DCC4",
+    "#F6F3EA"
+   ],
+   "Text / Lines": [
+    "#6E7681",
+    "#5A4A24"
+   ]
+  },
+  "diverging": [
+   "#302714",
+   "#E6DCC4",
+   "#C63B12"
+  ],
+  "blurb": "Terracotta cloaks and outstretched swords catch a single shaft of light inside a shadowed Roman arcade. The reds command primary emphasis while steel, umber, and travertine neutrals frame secondary series, grids, and backgrounds."
+ },
+ "grande_odalisque": {
+  "title": "Grande Odalisque",
+  "artist": "Jean-Auguste-Dominique Ingres",
+  "year": "1814",
+  "group": "Romanticism & Realism",
+  "museum": "Louvre, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Odalisque Gold",
+    "#C09A12"
+   ],
+   [
+    "Hookah Brass",
+    "#806020"
+   ],
+   [
+    "Damask Blue",
+    "#1F4A7E"
+   ],
+   [
+    "Lapis Mist",
+    "#6A89B2"
+   ],
+   [
+    "Boudoir Night",
+    "#2A2D36"
+   ],
+   [
+    "Fan Umber",
+    "#634D2B"
+   ],
+   [
+    "Sultana Skin",
+    "#B69874"
+   ],
+   [
+    "Pearl Linen",
+    "#E5DCCC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C09A12",
+    "#806020"
+   ],
+   "Secondary Data (Cool)": [
+    "#1F4A7E",
+    "#6A89B2"
+   ],
+   "Tertiary / Support": [
+    "#E7DBC7",
+    "#E5DCCC"
+   ],
+   "Highlight / Accent": [
+    "#CF7500"
+   ],
+   "Backgrounds": [
+    "#E5DCCC",
+    "#F6F3ED"
+   ],
+   "Text / Lines": [
+    "#2A2D36",
+    "#624C2A"
+   ]
+  },
+  "diverging": [
+   "#232D41",
+   "#E5DCCC",
+   "#CF7500"
+  ],
+  "blurb": "Cool damask blues and a mustard silk drape wrap the odalisque's pearl-lit skin in Ingres's languid harem light. Golds flag primary signals, blues give balanced categorical contrast, and linen neutrals recede into backgrounds."
+ },
+ "liberty_leading_the_people": {
+  "title": "Liberty Leading the People",
+  "artist": "Eugene Delacroix",
+  "year": "1830",
+  "group": "Romanticism & Realism",
+  "museum": "Louvre, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Tricolore Red",
+    "#CB4D33"
+   ],
+   [
+    "Musket Brown",
+    "#5F4426"
+   ],
+   [
+    "Liberty Blue",
+    "#558DD4"
+   ],
+   [
+    "Smoke Slate",
+    "#4E6791"
+   ],
+   [
+    "Powder Black",
+    "#282221"
+   ],
+   [
+    "Coat Navy",
+    "#233E64"
+   ],
+   [
+    "Rubble Tan",
+    "#AA8B68"
+   ],
+   [
+    "Dawn Haze",
+    "#E4E1CF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CB4D33",
+    "#5F4426"
+   ],
+   "Secondary Data (Cool)": [
+    "#558DD4",
+    "#4E6791"
+   ],
+   "Tertiary / Support": [
+    "#E1DDC6",
+    "#E4E1CF"
+   ],
+   "Highlight / Accent": [
+    "#DE3620"
+   ],
+   "Backgrounds": [
+    "#E4E1CF",
+    "#F5F4EE"
+   ],
+   "Text / Lines": [
+    "#26201F",
+    "#233E64"
+   ]
+  },
+  "diverging": [
+   "#1C283B",
+   "#E4E1CF",
+   "#DE3620"
+  ],
+  "blurb": "The tricolor snaps above the barricade, flag red and sky blue cutting through powder smoke and rubble browns. Revolutionary red marks primary emphasis; blues and smoke neutrals order secondary series, structure, and light."
+ },
+ "raft_of_the_medusa": {
+  "title": "The Raft of the Medusa",
+  "artist": "Theodore Gericault",
+  "year": "1818-1819",
+  "group": "Romanticism & Realism",
+  "museum": "Louvre, Paris",
+  "mode": "muted",
+  "colors": [
+   [
+    "Raft Timber",
+    "#693D25"
+   ],
+   [
+    "Castaway Flesh",
+    "#DCAF8C"
+   ],
+   [
+    "Storm Brine",
+    "#3F4B4A"
+   ],
+   [
+    "Sea Slate",
+    "#5C6660"
+   ],
+   [
+    "Abyss Umber",
+    "#331F12"
+   ],
+   [
+    "Canvas Gray",
+    "#C2B8A4"
+   ],
+   [
+    "Sunburnt Tan",
+    "#997B60"
+   ],
+   [
+    "Horizon Light",
+    "#F0DABB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#693D25",
+    "#DCAF8C"
+   ],
+   "Secondary Data (Cool)": [
+    "#5C6660",
+    "#4F392B"
+   ],
+   "Tertiary / Support": [
+    "#F0DABB",
+    "#F0DABB"
+   ],
+   "Highlight / Accent": [
+    "#BC5B32"
+   ],
+   "Backgrounds": [
+    "#F0DABB",
+    "#FAF2E7"
+   ],
+   "Text / Lines": [
+    "#26201F",
+    "#5C6660"
+   ]
+  },
+  "diverging": [
+   "#3B211E",
+   "#F0DABB",
+   "#BC5B32"
+  ],
+  "blurb": "Bruised sea-greens, storm-blackened timber, and the pallor of castaway flesh strain toward a thin light on the horizon. Muted warm tones carry the main signals while brine slates and canvas grays supply low-key context for dense figures."
+ },
+ "third_of_may_1808": {
+  "title": "The Third of May 1808",
+  "artist": "Francisco Goya",
+  "year": "1814",
+  "group": "Romanticism & Realism",
+  "museum": "Museo del Prado, Madrid",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Lantern Ochre",
+    "#D39B52"
+   ],
+   [
+    "Madrid Gold",
+    "#8F5C16"
+   ],
+   [
+    "Greatcoat Gray",
+    "#6F6F63"
+   ],
+   [
+    "Bitter Olive",
+    "#61703F"
+   ],
+   [
+    "Night Black",
+    "#27231D"
+   ],
+   [
+    "Dried Blood",
+    "#7A2A1C"
+   ],
+   [
+    "Hillside Sand",
+    "#D2B183"
+   ],
+   [
+    "Shirt Cream",
+    "#F0DAB8"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D39B52",
+    "#8F5C16"
+   ],
+   "Secondary Data (Cool)": [
+    "#61703F",
+    "#6C4F25"
+   ],
+   "Tertiary / Support": [
+    "#F4D9B0",
+    "#F0DAB8"
+   ],
+   "Highlight / Accent": [
+    "#D1731F"
+   ],
+   "Backgrounds": [
+    "#F0DAB8",
+    "#FAF2E6"
+   ],
+   "Text / Lines": [
+    "#25211B",
+    "#61703F"
+   ]
+  },
+  "diverging": [
+   "#312614",
+   "#F0DAB8",
+   "#D1731F"
+  ],
+  "blurb": "A lantern's cream glare rips the Madrid night, lighting the martyr's shirt, ochre earth, and blood pooled at the firing line. Warm ochres drive primary emphasis; gray, olive, and night black set the somber ground for multi-panel figures."
+ },
+ "the_parasol": {
+  "title": "The Parasol",
+  "artist": "Francisco Goya",
+  "year": "1777",
+  "group": "Romanticism & Realism",
+  "museum": "Museo del Prado, Madrid",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Maja Gold",
+    "#CEA106"
+   ],
+   [
+    "Majo Umber",
+    "#915D00"
+   ],
+   [
+    "Parasol Green",
+    "#7B7D51"
+   ],
+   [
+    "Grove Shade",
+    "#32431D"
+   ],
+   [
+    "Lapdog Black",
+    "#2B2121"
+   ],
+   [
+    "Madrid Sky",
+    "#6B9ABD"
+   ],
+   [
+    "Tawny Wall",
+    "#6A4217"
+   ],
+   [
+    "Sunlit Cream",
+    "#E0DEC8"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CEA106",
+    "#915D00"
+   ],
+   "Secondary Data (Cool)": [
+    "#7B7D51",
+    "#32431D"
+   ],
+   "Tertiary / Support": [
+    "#E0DEC2",
+    "#E0DEC8"
+   ],
+   "Highlight / Accent": [
+    "#D37300"
+   ],
+   "Backgrounds": [
+    "#E0DEC8",
+    "#F4F3EC"
+   ],
+   "Text / Lines": [
+    "#281F1F",
+    "#205574"
+   ]
+  },
+  "diverging": [
+   "#282915",
+   "#E0DEC8",
+   "#D37300"
+  ],
+  "blurb": "A maja's golden skirt and jade parasol glow beneath a clear Madrid sky in Goya's sunlit tapestry cartoon. Rich golds lead the categorical series, foliage greens and sky blue cool the mid-range, and a pale cream ground keeps panels airy."
+ },
+ "wanderer_above_the_sea_of_fog": {
+  "title": "Wanderer above the Sea of Fog",
+  "artist": "Caspar David Friedrich",
+  "year": "c. 1818",
+  "group": "Romanticism & Realism",
+  "museum": "Kunsthalle Hamburg",
+  "mode": "muted",
+  "colors": [
+   [
+    "Crag Umber",
+    "#635A46"
+   ],
+   [
+    "Coat Olive",
+    "#443D2B"
+   ],
+   [
+    "Fog Silver",
+    "#C5C6D1"
+   ],
+   [
+    "Mist Slate",
+    "#7D828C"
+   ],
+   [
+    "Summit Shadow",
+    "#2E261C"
+   ],
+   [
+    "Distant Fir",
+    "#465556"
+   ],
+   [
+    "Morning Haze",
+    "#ACA39A"
+   ],
+   [
+    "Sky Veil",
+    "#E1DCDB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#635A46",
+    "#443D2B"
+   ],
+   "Secondary Data (Cool)": [
+    "#635A46",
+    "#443D2B"
+   ],
+   "Tertiary / Support": [
+    "#E5DADA",
+    "#E1DCDB"
+   ],
+   "Highlight / Accent": [
+    "#B77A3C"
+   ],
+   "Backgrounds": [
+    "#E1DCDB",
+    "#F5F3F2"
+   ],
+   "Text / Lines": [
+    "#C5C6D1",
+    "#4B5059"
+   ]
+  },
+  "diverging": [
+   "#312614",
+   "#E1DCDB",
+   "#B77A3C"
+  ],
+  "blurb": "Olive crags rise through a silver-lavender sea of fog, all restraint and Romantic distance. Earthy warm tones mark primary data, fog slates and firs carry cool context, and the pale veil sits back as a quiet figure background."
+ },
+ "fighting_temeraire": {
+  "title": "The Fighting Temeraire",
+  "artist": "J. M. W. Turner",
+  "year": "1839",
+  "group": "Romanticism & Realism",
+  "museum": "National Gallery, London",
+  "mode": "muted",
+  "colors": [
+   [
+    "Sunset Gold",
+    "#6E4F13"
+   ],
+   [
+    "Ghost Sail",
+    "#DAC495"
+   ],
+   [
+    "Moonrise Blue",
+    "#8798AD"
+   ],
+   [
+    "Tug Iron",
+    "#706A61"
+   ],
+   [
+    "Funnel Smoke",
+    "#443630"
+   ],
+   [
+    "Thames Haze",
+    "#AFA084"
+   ],
+   [
+    "Old Oak",
+    "#746244"
+   ],
+   [
+    "Dusk Cream",
+    "#E4DCCA"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#6E4F13",
+    "#DAC495"
+   ],
+   "Secondary Data (Cool)": [
+    "#534D44",
+    "#443630"
+   ],
+   "Tertiary / Support": [
+    "#E4DCCA",
+    "#E4DCCA"
+   ],
+   "Highlight / Accent": [
+    "#C2571E"
+   ],
+   "Backgrounds": [
+    "#E4DCCA",
+    "#F5F3ED"
+   ],
+   "Text / Lines": [
+    "#8798AD",
+    "#534D44"
+   ]
+  },
+  "diverging": [
+   "#4B3429",
+   "#E4DCCA",
+   "#C2571E"
+  ],
+  "blurb": "A ghostly warship drifts on molten gold water while funnel smoke and a pale moonrise blue close the sky. Sunset golds carry emphasis and primary series; grays, blues, and old-oak browns structure secondary panels, axes, and grids."
+ },
+ "rain_steam_and_speed": {
+  "title": "Rain, Steam and Speed",
+  "artist": "J. M. W. Turner",
+  "year": "1844",
+  "group": "Romanticism & Realism",
+  "museum": "National Gallery, London",
+  "mode": "muted",
+  "colors": [
+   [
+    "Golden Steam",
+    "#D9C392"
+   ],
+   [
+    "Ochre Drift",
+    "#AE9459"
+   ],
+   [
+    "Rain Veil",
+    "#7A9295"
+   ],
+   [
+    "Towpath Olive",
+    "#5C4D20"
+   ],
+   [
+    "Engine Iron",
+    "#403126"
+   ],
+   [
+    "Bridge Shadow",
+    "#796E53"
+   ],
+   [
+    "Maidenhead",
+    "#6E513A"
+   ],
+   [
+    "Vapor Cream",
+    "#E4DDC7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D9C392",
+    "#AE9459"
+   ],
+   "Secondary Data (Cool)": [
+    "#403126",
+    "#796E53"
+   ],
+   "Tertiary / Support": [
+    "#E4DDC7",
+    "#E4DDC7"
+   ],
+   "Highlight / Accent": [
+    "#C0752F"
+   ],
+   "Backgrounds": [
+    "#E4DDC7",
+    "#F5F3EB"
+   ],
+   "Text / Lines": [
+    "#7A9295",
+    "#5C4D20"
+   ]
+  },
+  "diverging": [
+   "#433022",
+   "#E4DDC7",
+   "#C0752F"
+  ],
+  "blurb": "Golden steam and driving rain dissolve Maidenhead's brick viaduct into luminous ochre haze. Warm mist tones head the categorical ramp, a rain-slate teal supplies the lone cool counterweight, and engine-iron darks anchor text and lines."
+ },
+ "the_hay_wain": {
+  "title": "The Hay Wain",
+  "artist": "John Constable",
+  "year": "1821",
+  "group": "Romanticism & Realism",
+  "museum": "National Gallery, London",
+  "mode": "muted",
+  "colors": [
+   [
+    "Meadow Gold",
+    "#877936"
+   ],
+   [
+    "Wain Timber",
+    "#6A451B"
+   ],
+   [
+    "Stour Blue",
+    "#5C7495"
+   ],
+   [
+    "Elm Shade",
+    "#413E27"
+   ],
+   [
+    "Millpond Dark",
+    "#2A221F"
+   ],
+   [
+    "Thatch Gray",
+    "#767065"
+   ],
+   [
+    "Cloud Silver",
+    "#A3ACB5"
+   ],
+   [
+    "English Sky",
+    "#D7DEE2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#877936",
+    "#6A451B"
+   ],
+   "Secondary Data (Cool)": [
+    "#5C7495",
+    "#413E27"
+   ],
+   "Tertiary / Support": [
+    "#D6DEE3",
+    "#D7DEE2"
+   ],
+   "Highlight / Accent": [
+    "#B25E27"
+   ],
+   "Backgrounds": [
+    "#D7DEE2",
+    "#F1F3F5"
+   ],
+   "Text / Lines": [
+    "#28201D",
+    "#545045"
+   ]
+  },
+  "diverging": [
+   "#19293B",
+   "#D7DEE2",
+   "#B25E27"
+  ],
+  "blurb": "Constable's Stour idles past meadow gold, elm-shaded greens, and a towering silver-clouded English sky. Warm field hues take the primary series, river and cloud blues give cool balance, and a pale sky wash makes an unobtrusive background."
+ },
+ "the_gleaners": {
+  "title": "The Gleaners",
+  "artist": "Jean-Francois Millet",
+  "year": "1857",
+  "group": "Romanticism & Realism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "muted",
+  "colors": [
+   [
+    "Stubble Gold",
+    "#AF9C69"
+   ],
+   [
+    "Sheaf Umber",
+    "#635334"
+   ],
+   [
+    "Faded Rose",
+    "#6F5158"
+   ],
+   [
+    "Hayrick Sage",
+    "#96998A"
+   ],
+   [
+    "Indigo Hood",
+    "#27212D"
+   ],
+   [
+    "Wheat Chaff",
+    "#D8C4A0"
+   ],
+   [
+    "Field Loam",
+    "#493B2E"
+   ],
+   [
+    "Harvest Haze",
+    "#E8DBC8"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AF9C69",
+    "#635334"
+   ],
+   "Secondary Data (Cool)": [
+    "#96998A",
+    "#27212D"
+   ],
+   "Tertiary / Support": [
+    "#E8DBC8",
+    "#E8DBC8"
+   ],
+   "Highlight / Accent": [
+    "#AC4F2B"
+   ],
+   "Backgrounds": [
+    "#E8DBC8",
+    "#F7F2EC"
+   ],
+   "Text / Lines": [
+    "#251F2B",
+    "#96998A"
+   ]
+  },
+  "diverging": [
+   "#2D2437",
+   "#E8DBC8",
+   "#AC4F2B"
+  ],
+  "blurb": "Three bent figures glean a stubble-gold field beneath a hazy harvest sky, dignity rendered in wheat and loam. Earthen golds encode primary signals, rose and sage add muted contrast, and an indigo-dark hood tone grounds text and outlines."
+ },
+ "ophelia": {
+  "title": "Ophelia",
+  "artist": "John Everett Millais",
+  "year": "1851-1852",
+  "group": "Romanticism & Realism",
+  "museum": "Tate Britain, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Brocade Gold",
+    "#94742F"
+   ],
+   [
+    "Drifting Silk",
+    "#BAA370"
+   ],
+   [
+    "Nettle Green",
+    "#4C7400"
+   ],
+   [
+    "Reed Olive",
+    "#7D8423"
+   ],
+   [
+    "Brook Shadow",
+    "#28231E"
+   ],
+   [
+    "Willow Bough",
+    "#5D451E"
+   ],
+   [
+    "Deep Thicket",
+    "#374D20"
+   ],
+   [
+    "Daisy White",
+    "#F2F1ED"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#94742F",
+    "#BAA370"
+   ],
+   "Secondary Data (Cool)": [
+    "#4C7400",
+    "#7D8423"
+   ],
+   "Tertiary / Support": [
+    "#DEDDD5",
+    "#F2F1ED"
+   ],
+   "Highlight / Accent": [
+    "#C05F0B"
+   ],
+   "Backgrounds": [
+    "#F2F1ED",
+    "#FAFAF9"
+   ],
+   "Text / Lines": [
+    "#26201C",
+    "#5D451E"
+   ]
+  },
+  "diverging": [
+   "#242A16",
+   "#F2F1ED",
+   "#C05F0B"
+  ],
+  "blurb": "Riverbank greens and willow golds close over the pale shimmer of a drowned silk gown, strewn with daisies from Millais's fatal stream. Warm brocade tones carry primary signals while layered greens ground context in dense multi-panel figures."
+ },
+ "lady_of_shalott": {
+  "title": "The Lady of Shalott",
+  "artist": "John William Waterhouse",
+  "year": "1888",
+  "group": "Romanticism & Realism",
+  "museum": "Tate Britain, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Tapestry Gold",
+    "#C17200"
+   ],
+   [
+    "Camelot Red",
+    "#A52E21"
+   ],
+   [
+    "Prow Black",
+    "#242420"
+   ],
+   [
+    "Riverbank Tan",
+    "#AA7B61"
+   ],
+   [
+    "Oaken Hull",
+    "#5B341C"
+   ],
+   [
+    "Auburn Braid",
+    "#9C6029"
+   ],
+   [
+    "Russet Leaf",
+    "#8B473A"
+   ],
+   [
+    "Ivory Gown",
+    "#F4D8BF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C17200",
+    "#A52E21"
+   ],
+   "Secondary Data (Cool)": [
+    "#AA7B61",
+    "#5B341C"
+   ],
+   "Tertiary / Support": [
+    "#FAD6B7",
+    "#F4D8BF"
+   ],
+   "Highlight / Accent": [
+    "#DD5F00"
+   ],
+   "Backgrounds": [
+    "#F4D8BF",
+    "#FBF1E9"
+   ],
+   "Text / Lines": [
+    "#22221E",
+    "#6F462F"
+   ]
+  },
+  "diverging": [
+   "#272A15",
+   "#F4D8BF",
+   "#DD5F00"
+  ],
+  "blurb": "Autumn amber and tapestry crimson smolder against the black river as the Lady looses her chain at dusk. The two glowing warm hues lead primary series; muted reeds and boat-timber browns recede into supporting structure and annotation."
+ },
+ "flaming_june": {
+  "title": "Flaming June",
+  "artist": "Frederic Leighton",
+  "year": "1895",
+  "group": "Romanticism & Realism",
+  "museum": "Museo de Arte de Ponce, Puerto Rico",
+  "mode": "vivid",
+  "colors": [
+   [
+    "June Blaze",
+    "#FC7F00"
+   ],
+   [
+    "Ember Silk",
+    "#B53700"
+   ],
+   [
+    "Slumber Shade",
+    "#311F1F"
+   ],
+   [
+    "Chestnut Hair",
+    "#7B4000"
+   ],
+   [
+    "Crimson Couch",
+    "#782F2D"
+   ],
+   [
+    "Frieze Olive",
+    "#524621"
+   ],
+   [
+    "Antique Gold",
+    "#9A6C2E"
+   ],
+   [
+    "Marble Blush",
+    "#F7D7C2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#FC7F00",
+    "#B53700"
+   ],
+   "Secondary Data (Cool)": [
+    "#7B4000",
+    "#782F2D"
+   ],
+   "Tertiary / Support": [
+    "#FDD5BA",
+    "#F7D7C2"
+   ],
+   "Highlight / Accent": [
+    "#ED5E00"
+   ],
+   "Backgrounds": [
+    "#F7D7C2",
+    "#FCF1EA"
+   ],
+   "Text / Lines": [
+    "#2F1D1D",
+    "#6B4827"
+   ]
+  },
+  "diverging": [
+   "#3B2020",
+   "#F7D7C2",
+   "#ED5E00"
+  ],
+  "blurb": "One incandescent orange gown pours across sun-warmed marble beneath a molten Mediterranean noon. Blazing warm tones command emphasis and primary data; deep siennas and olive shadows steady secondary layers across figure panels."
+ },
+ "the_kiss_hayez": {
+  "title": "The Kiss",
+  "artist": "Francesco Hayez",
+  "year": "1859",
+  "group": "Romanticism & Realism",
+  "museum": "Pinacoteca di Brera, Milan",
+  "mode": "muted",
+  "colors": [
+   [
+    "Russet Cloak",
+    "#6F3720"
+   ],
+   [
+    "Stone Ochre",
+    "#B49E71"
+   ],
+   [
+    "Satin Blue",
+    "#5C7C9C"
+   ],
+   [
+    "Stair Shadow",
+    "#242323"
+   ],
+   [
+    "Castle Gloom",
+    "#3F3E34"
+   ],
+   [
+    "Aged Timber",
+    "#695138"
+   ],
+   [
+    "Ashlar Gray",
+    "#8A846C"
+   ],
+   [
+    "Silk Shimmer",
+    "#D3DFE2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#6F3720",
+    "#B49E71"
+   ],
+   "Secondary Data (Cool)": [
+    "#5C7C9C"
+   ],
+   "Tertiary / Support": [
+    "#D3DFE2",
+    "#D3DFE2"
+   ],
+   "Highlight / Accent": [
+    "#C24E2E"
+   ],
+   "Backgrounds": [
+    "#D3DFE2",
+    "#F0F4F5"
+   ],
+   "Text / Lines": [
+    "#222121",
+    "#3F3E34"
+   ]
+  },
+  "diverging": [
+   "#112A3B",
+   "#D3DFE2",
+   "#C24E2E"
+  ],
+  "blurb": "A powder-blue satin dress catches the light against russet cloak and cold medieval stone. The warm-cool duet separates primary classes at a glance, while ashlar grays and stairwell darks handle grids, text, and quiet context."
+ },
+ "whistlers_mother": {
+  "title": "Whistler's Mother",
+  "artist": "James McNeill Whistler",
+  "year": "1871",
+  "group": "Romanticism & Realism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "muted",
+  "colors": [
+   [
+    "Floorboard Tan",
+    "#BEA375"
+   ],
+   [
+    "Curtain Moss",
+    "#7C7555"
+   ],
+   [
+    "Widow Black",
+    "#25241B"
+   ],
+   [
+    "Studio Wall",
+    "#92948B"
+   ],
+   [
+    "Somber Fold",
+    "#3F3E33"
+   ],
+   [
+    "Lace Cuff",
+    "#CEC6B3"
+   ],
+   [
+    "Wainscot",
+    "#515041"
+   ],
+   [
+    "Muslin White",
+    "#E1DCD6"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#BEA375",
+    "#7C7555"
+   ],
+   "Secondary Data (Cool)": [
+    "#92948B",
+    "#3F3E33"
+   ],
+   "Tertiary / Support": [
+    "#E1DCD5",
+    "#E1DCD6"
+   ],
+   "Highlight / Accent": [
+    "#C06A38"
+   ],
+   "Backgrounds": [
+    "#E1DCD6",
+    "#F5F3F1"
+   ],
+   "Text / Lines": [
+    "#232219",
+    "#525141"
+   ]
+  },
+  "diverging": [
+   "#2A2914",
+   "#E1DCD6",
+   "#C06A38"
+  ],
+  "blurb": "An arrangement in grey and black: widow's dress, muslin cap, and a still studio wall in measured tans and olives. Restrained warm neutrals distinguish primary series without shouting; deep near-blacks anchor text, axes, and gridlines."
+ },
+ "carnation_lily_lily_rose": {
+  "title": "Carnation, Lily, Lily, Rose",
+  "artist": "John Singer Sargent",
+  "year": "1885-1886",
+  "group": "Romanticism & Realism",
+  "museum": "Tate Britain, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Lantern Glow",
+    "#C55C3E"
+   ],
+   [
+    "Paper Blush",
+    "#DD9E88"
+   ],
+   [
+    "Twilight Mauve",
+    "#A47099"
+   ],
+   [
+    "Evening Blue",
+    "#194B6B"
+   ],
+   [
+    "Nightfall",
+    "#1D2525"
+   ],
+   [
+    "Rosewood",
+    "#704039"
+   ],
+   [
+    "Lily Leaf",
+    "#045045"
+   ],
+   [
+    "Pinafore White",
+    "#E7D9E7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C55C3E",
+    "#DD9E88"
+   ],
+   "Secondary Data (Cool)": [
+    "#A47099",
+    "#194B6B"
+   ],
+   "Tertiary / Support": [
+    "#E9D7E9",
+    "#E7D9E7"
+   ],
+   "Highlight / Accent": [
+    "#DA4A2C"
+   ],
+   "Backgrounds": [
+    "#E7D9E7",
+    "#F6F2F6"
+   ],
+   "Text / Lines": [
+    "#1B2322",
+    "#704039"
+   ]
+  },
+  "diverging": [
+   "#352231",
+   "#E7D9E7",
+   "#DA4A2C"
+  ],
+  "blurb": "Paper lanterns bloom orange and blush against a garden sinking into mauve and teal twilight. Lantern warmth flags highlights and primary data, while dusk blues and lily greens supply cool contrast for secondary structure."
+ },
+ "the_ninth_wave": {
+  "title": "The Ninth Wave",
+  "artist": "Ivan Aivazovsky",
+  "year": "1850",
+  "group": "Romanticism & Realism",
+  "museum": "Russian Museum, Saint Petersburg",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Dawn Gold",
+    "#DAB04F"
+   ],
+   [
+    "Amber Haze",
+    "#C8955D"
+   ],
+   [
+    "Deep Swell",
+    "#2A4F44"
+   ],
+   [
+    "Wreck Mahogany",
+    "#733F3C"
+   ],
+   [
+    "Mast Umber",
+    "#4F3A18"
+   ],
+   [
+    "Sunlit Spar",
+    "#B07357"
+   ],
+   [
+    "Brine Bronze",
+    "#816A44"
+   ],
+   [
+    "Foam Cream",
+    "#EDDCAB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#DAB04F",
+    "#C8955D"
+   ],
+   "Secondary Data (Cool)": [
+    "#733F3C",
+    "#4F3A18"
+   ],
+   "Tertiary / Support": [
+    "#ECDCAF",
+    "#EDDCAB"
+   ],
+   "Highlight / Accent": [
+    "#D14524"
+   ],
+   "Backgrounds": [
+    "#EDDCAB",
+    "#F9F3E2"
+   ],
+   "Text / Lines": [
+    "#222124",
+    "#733F3C"
+   ]
+  },
+  "diverging": [
+   "#2B2538",
+   "#EDDCAB",
+   "#D14524"
+  ],
+  "blurb": "Storm-broken dawn light floods a heaving emerald sea, gilding foam, wreckage, and hope in amber. Golds lead as primary series, deep sea-greens and umbers ground structure, and a foam cream keeps backgrounds luminous."
+ },
+ "barge_haulers_on_the_volga": {
+  "title": "Barge Haulers on the Volga",
+  "artist": "Ilya Repin",
+  "year": "1870-1873",
+  "group": "Romanticism & Realism",
+  "museum": "Russian Museum, Saint Petersburg",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Volga Sand",
+    "#EFBB61"
+   ],
+   [
+    "Harness Ochre",
+    "#8B620B"
+   ],
+   [
+    "Summer Sky",
+    "#78C2C6"
+   ],
+   [
+    "River Teal",
+    "#599C98"
+   ],
+   [
+    "Hauler Shadow",
+    "#2E2025"
+   ],
+   [
+    "Barge Timber",
+    "#5B421B"
+   ],
+   [
+    "Shore Dust",
+    "#D7C596"
+   ],
+   [
+    "Sail Ivory",
+    "#E9E3D0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#EFBB61",
+    "#8B620B"
+   ],
+   "Secondary Data (Cool)": [
+    "#78C2C6",
+    "#599C98"
+   ],
+   "Tertiary / Support": [
+    "#E4DDC4",
+    "#E9E3D0"
+   ],
+   "Highlight / Accent": [
+    "#CF7506"
+   ],
+   "Backgrounds": [
+    "#E9E3D0",
+    "#F7F5EF"
+   ],
+   "Text / Lines": [
+    "#2C1E23",
+    "#5B421B"
+   ]
+  },
+  "diverging": [
+   "#032D2F",
+   "#E9E3D0",
+   "#CF7506"
+  ],
+  "blurb": "Sun-bleached sand and a milky Volga sky press down on men the color of tar and worn leather. Warm ochres carry primary emphasis, river teals answer as cool secondaries, and pale shore neutrals recede into clean backgrounds."
+ },
+ "morning_in_a_pine_forest": {
+  "title": "Morning in a Pine Forest",
+  "artist": "Ivan Shishkin",
+  "year": "1889",
+  "group": "Romanticism & Realism",
+  "museum": "Tretyakov Gallery, Moscow",
+  "mode": "muted",
+  "colors": [
+   [
+    "Morning Gold",
+    "#AF9A60"
+   ],
+   [
+    "Bear Fur",
+    "#79633E"
+   ],
+   [
+    "Pine Mist",
+    "#727D6B"
+   ],
+   [
+    "Mossy Trunk",
+    "#504E3E"
+   ],
+   [
+    "Forest Night",
+    "#1F2520"
+   ],
+   [
+    "Fog Silver",
+    "#9DA598"
+   ],
+   [
+    "Bark Umber",
+    "#473D23"
+   ],
+   [
+    "Dawn Cream",
+    "#E8DCC1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AF9A60",
+    "#79633E"
+   ],
+   "Secondary Data (Cool)": [
+    "#727D6B",
+    "#504E3E"
+   ],
+   "Tertiary / Support": [
+    "#E8DCC1",
+    "#E8DCC1"
+   ],
+   "Highlight / Accent": [
+    "#C4813B"
+   ],
+   "Backgrounds": [
+    "#E8DCC1",
+    "#F7F3E9"
+   ],
+   "Text / Lines": [
+    "#1D231E",
+    "#4B5246"
+   ]
+  },
+  "diverging": [
+   "#1F2B19",
+   "#E8DCC1",
+   "#C4813B"
+  ],
+  "blurb": "Gold morning fog sifts through pine crowns onto mossy trunks where bear cubs climb a fallen tree. Muted khakis and forest greens give low-glare categorical contrast, with silvery mist and cream reserved for grids and backgrounds."
+ },
+ "breezing_up": {
+  "title": "Breezing Up (A Fair Wind)",
+  "artist": "Winslow Homer",
+  "year": "1873-1876",
+  "group": "Romanticism & Realism",
+  "museum": "National Gallery of Art, Washington",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Hull Rust",
+    "#763316"
+   ],
+   [
+    "Mast Sienna",
+    "#8B5927"
+   ],
+   [
+    "Rolling Sea",
+    "#2F5245"
+   ],
+   [
+    "Spray Sage",
+    "#6E9480"
+   ],
+   [
+    "Anchor Brown",
+    "#36261A"
+   ],
+   [
+    "Canvas Tan",
+    "#B0986B"
+   ],
+   [
+    "Deck Khaki",
+    "#796F43"
+   ],
+   [
+    "Cloud Peach",
+    "#FBD7AE"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#763316",
+    "#8B5927"
+   ],
+   "Secondary Data (Cool)": [
+    "#2F5245",
+    "#6E9480"
+   ],
+   "Tertiary / Support": [
+    "#F9D7B1",
+    "#FBD7AE"
+   ],
+   "Highlight / Accent": [
+    "#C94A1E"
+   ],
+   "Backgrounds": [
+    "#FBD7AE",
+    "#FEF1E3"
+   ],
+   "Text / Lines": [
+    "#36261A",
+    "#604E24"
+   ]
+  },
+  "diverging": [
+   "#252B17",
+   "#FBD7AE",
+   "#C94A1E"
+  ],
+  "blurb": "A fair wind heels the catboat over green-teal chop, under warm clouds torn open to turquoise. Rusts and siennas flag the primary series, sea greens supply cool contrast, and sail tans with a peach sky soften supporting panels."
+ },
+ "american_gothic": {
+  "title": "American Gothic",
+  "artist": "Grant Wood",
+  "year": "1930",
+  "group": "Modern",
+  "museum": "Art Institute of Chicago",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Harvest Tan",
+    "#CC9C55"
+   ],
+   [
+    "Straw Blond",
+    "#DCC581"
+   ],
+   [
+    "Gothic Green",
+    "#74772A"
+   ],
+   [
+    "Prairie Khaki",
+    "#ADA04A"
+   ],
+   [
+    "Sunday Black",
+    "#222423"
+   ],
+   [
+    "Overall Denim",
+    "#5D7080"
+   ],
+   [
+    "Cameo Brown",
+    "#523919"
+   ],
+   [
+    "Gable Mint",
+    "#D1E3B9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CC9C55",
+    "#DCC581"
+   ],
+   "Secondary Data (Cool)": [
+    "#74772A",
+    "#ADA04A"
+   ],
+   "Tertiary / Support": [
+    "#D0E3B7",
+    "#D1E3B9"
+   ],
+   "Highlight / Accent": [
+    "#BF4E22"
+   ],
+   "Backgrounds": [
+    "#D1E3B9",
+    "#EFF5E7"
+   ],
+   "Text / Lines": [
+    "#202221",
+    "#565128"
+   ]
+  },
+  "diverging": [
+   "#292914",
+   "#D1E3B9",
+   "#BF4E22"
+  ],
+  "blurb": "Stern faces in Sunday black stand before straw-gold boards, olive trees, and a glimpse of denim overalls. Harvest golds head the categorical order, sober greens and denim carry structure, and a pale gable mint keeps backgrounds airy."
+ },
+ "impression_sunrise": {
+  "title": "Impression, Sunrise",
+  "artist": "Claude Monet",
+  "year": "1872",
+  "group": "Impressionism",
+  "museum": "Musee Marmottan Monet, Paris",
+  "mode": "muted",
+  "colors": [
+   [
+    "Sunrise Ember",
+    "#B26746"
+   ],
+   [
+    "Harbor Slate",
+    "#445A64"
+   ],
+   [
+    "Skiff Green",
+    "#293D31"
+   ],
+   [
+    "Fog Gray",
+    "#818476"
+   ],
+   [
+    "Tide Sage",
+    "#8FA597"
+   ],
+   [
+    "Mist Celadon",
+    "#AFC6B7"
+   ],
+   [
+    "Mast Shadow",
+    "#53675A"
+   ],
+   [
+    "Dawn Blush",
+    "#F9D6C0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B26746"
+   ],
+   "Secondary Data (Cool)": [
+    "#445A64"
+   ],
+   "Tertiary / Support": [
+    "#F9D6C0",
+    "#F9D6C0"
+   ],
+   "Highlight / Accent": [
+    "#E2603F"
+   ],
+   "Backgrounds": [
+    "#F9D6C0",
+    "#FDF1E9"
+   ],
+   "Text / Lines": [
+    "#293D31",
+    "#4E5144"
+   ]
+  },
+  "diverging": [
+   "#1E3E37",
+   "#F9D6C0",
+   "#E2603F"
+  ],
+  "blurb": "An orange sun burns through Le Havre's blue-green harbor mist, its reflection stitched across still water. The lone warm ember serves as highlight and primary signal, while layered misty greens and slates order context, gridwork, and backgrounds."
+ },
+ "woman_with_a_parasol": {
+  "title": "Woman with a Parasol",
+  "artist": "Claude Monet",
+  "year": "1875",
+  "group": "Impressionism",
+  "museum": "National Gallery of Art, Washington",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Meadow Olive",
+    "#7F8514"
+   ],
+   [
+    "Parasol Green",
+    "#374600"
+   ],
+   [
+    "Silhouette",
+    "#373A32"
+   ],
+   [
+    "Breeze Blue",
+    "#4E7CA5"
+   ],
+   [
+    "Summer Sky",
+    "#72ADCB"
+   ],
+   [
+    "Windblown Moss",
+    "#696B3B"
+   ],
+   [
+    "Field Khaki",
+    "#A8A272"
+   ],
+   [
+    "Cloud Cream",
+    "#E4DCC9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#7F8514",
+    "#374600"
+   ],
+   "Secondary Data (Cool)": [
+    "#7F8514",
+    "#374600"
+   ],
+   "Tertiary / Support": [
+    "#E6DCC4",
+    "#E4DCC9"
+   ],
+   "Highlight / Accent": [
+    "#D6422E"
+   ],
+   "Backgrounds": [
+    "#E4DCC9",
+    "#F6F3EC"
+   ],
+   "Text / Lines": [
+    "#373A32",
+    "#275475"
+   ]
+  },
+  "diverging": [
+   "#3B3A25",
+   "#E4DCC9",
+   "#D6422E"
+  ],
+  "blurb": "A breezy hilltop of wind-tossed grass beneath a cloud-swept summer sky, a green parasol tilted against the light. Olive greens lead the data series, sky blues carry context, and a deep silhouette tone anchors text over soft cream."
+ },
+ "water_lilies": {
+  "title": "Water Lilies",
+  "artist": "Claude Monet",
+  "year": "1906",
+  "group": "Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "muted",
+  "colors": [
+   [
+    "Lily Pad",
+    "#639465"
+   ],
+   [
+    "Reflected Sky",
+    "#92BFE0"
+   ],
+   [
+    "Deep Water",
+    "#1D4A7C"
+   ],
+   [
+    "Willow Teal",
+    "#386162"
+   ],
+   [
+    "Pond Dusk",
+    "#234154"
+   ],
+   [
+    "Ripple Jade",
+    "#98BEB0"
+   ],
+   [
+    "Cloud Slate",
+    "#7A8595"
+   ],
+   [
+    "Morning Mist",
+    "#D5DFD7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#92BFE0",
+    "#639465"
+   ],
+   "Secondary Data (Cool)": [
+    "#639465",
+    "#92BFE0"
+   ],
+   "Tertiary / Support": [
+    "#D5DFD7",
+    "#D5DFD7"
+   ],
+   "Highlight / Accent": [
+    "#CE6478"
+   ],
+   "Backgrounds": [
+    "#D5DFD7",
+    "#F0F4F1"
+   ],
+   "Text / Lines": [
+    "#1D4A7C",
+    "#2D5658"
+   ]
+  },
+  "diverging": [
+   "#1F4022",
+   "#D5DFD7",
+   "#CE6478"
+  ],
+  "blurb": "Lavender-blue water drifts beneath jade lily pads and faint rose blooms in Monet's pond at Giverny. Cool blues build the axes and context, greens mark living signal, and a blossom-pink accent calls out key points."
+ },
+ "japanese_footbridge": {
+  "title": "The Japanese Footbridge",
+  "artist": "Claude Monet",
+  "year": "1899",
+  "group": "Impressionism",
+  "museum": "National Gallery of Art, Washington",
+  "mode": "muted",
+  "colors": [
+   [
+    "Sunlit Reeds",
+    "#B6CC8C"
+   ],
+   [
+    "Garden Green",
+    "#4B6734"
+   ],
+   [
+    "Bank Umber",
+    "#44372C"
+   ],
+   [
+    "Willow Shade",
+    "#687060"
+   ],
+   [
+    "Water Sage",
+    "#9AAD85"
+   ],
+   [
+    "Bridge Teal",
+    "#6F9C9C"
+   ],
+   [
+    "Deep Foliage",
+    "#344132"
+   ],
+   [
+    "Lily White",
+    "#D8DFD5"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#4B6734",
+    "#B6CC8C"
+   ],
+   "Secondary Data (Cool)": [
+    "#B6CC8C",
+    "#4B6734"
+   ],
+   "Tertiary / Support": [
+    "#D8DFD5",
+    "#D8DFD5"
+   ],
+   "Highlight / Accent": [
+    "#D06B52"
+   ],
+   "Backgrounds": [
+    "#D8DFD5",
+    "#F1F4F0"
+   ],
+   "Text / Lines": [
+    "#44372C",
+    "#4B5343"
+   ]
+  },
+  "diverging": [
+   "#353C27",
+   "#D8DFD5",
+   "#D06B52"
+  ],
+  "blurb": "Monet's blue-green footbridge arcs over a pond thick with sunlit reeds, drifting pads, and white blossoms. Layered greens separate the main series, the bridge's teal adds cool contrast, and dark foliage grounds text and gridlines."
+ },
+ "luncheon_of_the_boating_party": {
+  "title": "Luncheon of the Boating Party",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1880-1881",
+  "group": "Impressionism",
+  "museum": "Phillips Collection, Washington",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Straw Gold",
+    "#D19E43"
+   ],
+   [
+    "Awning Coral",
+    "#C76951"
+   ],
+   [
+    "Arbor Green",
+    "#3C5C3B"
+   ],
+   [
+    "Trellis Sage",
+    "#677D58"
+   ],
+   [
+    "Boater Navy",
+    "#26384B"
+   ],
+   [
+    "Muslin Mauve",
+    "#B889A5"
+   ],
+   [
+    "Cask Russet",
+    "#83503E"
+   ],
+   [
+    "Linen Cream",
+    "#E9DACF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D19E43",
+    "#C76951"
+   ],
+   "Secondary Data (Cool)": [
+    "#3C5C3B",
+    "#677D58"
+   ],
+   "Tertiary / Support": [
+    "#ECDACB",
+    "#E9DACF"
+   ],
+   "Highlight / Accent": [
+    "#D9800F"
+   ],
+   "Backgrounds": [
+    "#E9DACF",
+    "#F7F2EE"
+   ],
+   "Text / Lines": [
+    "#26384B",
+    "#6D435D"
+   ]
+  },
+  "diverging": [
+   "#2A3B29",
+   "#E9DACF",
+   "#D9800F"
+  ],
+  "blurb": "Straw-gold boaters, a coral-striped awning, and white linen glow amid riverside greens at Chatou. Warm gold and coral head the primary series, green and navy supply structure, and mauve and russet round out supporting layers."
+ },
+ "bal_du_moulin_de_la_galette": {
+  "title": "Bal du moulin de la Galette",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1876",
+  "group": "Impressionism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Lamplit Gold",
+    "#B0982A"
+   ],
+   [
+    "Chair Ochre",
+    "#865D2B"
+   ],
+   [
+    "Acacia Green",
+    "#546B16"
+   ],
+   [
+    "Shady Bower",
+    "#255025"
+   ],
+   [
+    "Top Hat Black",
+    "#232426"
+   ],
+   [
+    "Bench Teal",
+    "#1D7189"
+   ],
+   [
+    "Waltz Blue",
+    "#566089"
+   ],
+   [
+    "Gaslight Cream",
+    "#E9DCBD"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B0982A",
+    "#865D2B"
+   ],
+   "Secondary Data (Cool)": [
+    "#546B16",
+    "#255025"
+   ],
+   "Tertiary / Support": [
+    "#ECDBB4",
+    "#E9DCBD"
+   ],
+   "Highlight / Accent": [
+    "#D68A02"
+   ],
+   "Backgrounds": [
+    "#E9DCBD",
+    "#F7F3E8"
+   ],
+   "Text / Lines": [
+    "#212224",
+    "#00586C"
+   ]
+  },
+  "diverging": [
+   "#252A16",
+   "#E9DCBD",
+   "#D68A02"
+  ],
+  "blurb": "Gaslit golds and acacia canopies shimmer over a blue-black crowd waltzing through dappled Montmartre light. Lamplight hues drive primary emphasis, deep greens and teal frame the structure, and a dusk-violet support echoes the dance floor."
+ },
+ "two_sisters_on_the_terrace": {
+  "title": "Two Sisters (On the Terrace)",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1881",
+  "group": "Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Red Hat",
+    "#C1272B"
+   ],
+   [
+    "Yarn Maroon",
+    "#74332F"
+   ],
+   [
+    "Spring Olive",
+    "#838243"
+   ],
+   [
+    "Flannel Indigo",
+    "#3A4585"
+   ],
+   [
+    "Navy Shadow",
+    "#212334"
+   ],
+   [
+    "Seine Blue",
+    "#397492"
+   ],
+   [
+    "Rosy Cheek",
+    "#B27F71"
+   ],
+   [
+    "Blossom Haze",
+    "#D9DEDC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C1272B",
+    "#74332F"
+   ],
+   "Secondary Data (Cool)": [
+    "#838243",
+    "#3A4585"
+   ],
+   "Tertiary / Support": [
+    "#D6DFDB",
+    "#D9DEDC"
+   ],
+   "Highlight / Accent": [
+    "#E8650F"
+   ],
+   "Backgrounds": [
+    "#D9DEDC",
+    "#F2F3F3"
+   ],
+   "Text / Lines": [
+    "#212334",
+    "#115672"
+   ]
+  },
+  "diverging": [
+   "#292914",
+   "#D9DEDC",
+   "#E8650F"
+  ],
+  "blurb": "A vermilion hat blazes over navy flannel, spring blossoms, and the pale ribbon of the Seine at Chatou. Saturated reds carry emphasis and primary signal, indigo and river blue order the context, and a petal-gray field keeps panels airy."
+ },
+ "the_ballet_class": {
+  "title": "The Ballet Class",
+  "artist": "Edgar Degas",
+  "year": "1871-1874",
+  "group": "Impressionism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "muted",
+  "colors": [
+   [
+    "Perrot's Cane",
+    "#5C3F25"
+   ],
+   [
+    "Faded Sash",
+    "#D1C6A6"
+   ],
+   [
+    "Marble Green",
+    "#33573B"
+   ],
+   [
+    "Velvet Ribbon",
+    "#242422"
+   ],
+   [
+    "Master's Suit",
+    "#867B68"
+   ],
+   [
+    "Dusty Tulle",
+    "#AD9E9A"
+   ],
+   [
+    "Wall Shadow",
+    "#48473E"
+   ],
+   [
+    "Tutu White",
+    "#E4DADD"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#5C3F25",
+    "#D1C6A6"
+   ],
+   "Secondary Data (Cool)": [
+    "#33573B"
+   ],
+   "Tertiary / Support": [
+    "#E5DADD",
+    "#E4DADD"
+   ],
+   "Highlight / Accent": [
+    "#AE5B36"
+   ],
+   "Backgrounds": [
+    "#E4DADD",
+    "#F6F2F3"
+   ],
+   "Text / Lines": [
+    "#222220",
+    "#594F3D"
+   ]
+  },
+  "diverging": [
+   "#1B2C1B",
+   "#E4DADD",
+   "#AE5B36"
+  ],
+  "blurb": "Gauzy tutus and emerald sashes drift across warm parquet in the sage-green calm of Degas's rehearsal room. Browns and creams lead the primary series; greens and soft grays hold context, with the palest tulle reserved for backgrounds."
+ },
+ "paris_street_rainy_day": {
+  "title": "Paris Street; Rainy Day",
+  "artist": "Gustave Caillebotte",
+  "year": "1877",
+  "group": "Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "muted",
+  "colors": [
+   [
+    "Facade Rose",
+    "#B28A7F"
+   ],
+   [
+    "Lamppost",
+    "#82A197"
+   ],
+   [
+    "Top Hat",
+    "#3B3932"
+   ],
+   [
+    "Overcast",
+    "#C8C7BB"
+   ],
+   [
+    "Umbrella Slate",
+    "#78828B"
+   ],
+   [
+    "Wet Cobble",
+    "#605850"
+   ],
+   [
+    "Zinc Roof",
+    "#465257"
+   ],
+   [
+    "Limestone",
+    "#E4DDC3"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B28A7F"
+   ],
+   "Secondary Data (Cool)": [
+    "#82A197"
+   ],
+   "Tertiary / Support": [
+    "#E4DDC3",
+    "#E4DDC3"
+   ],
+   "Highlight / Accent": [
+    "#BE6E5A"
+   ],
+   "Backgrounds": [
+    "#E4DDC3",
+    "#F6F3EA"
+   ],
+   "Text / Lines": [
+    "#3B3932",
+    "#515046"
+   ]
+  },
+  "diverging": [
+   "#203F36",
+   "#E4DDC3",
+   "#BE6E5A"
+  ],
+  "blurb": "Zinc rooftops, slate umbrellas, and rain-polished cobbles dissolve into the pearl light of a Paris drizzle. Dusty rose and lamppost green carry the main contrasts; layered gray-blues structure context while limestone cream stays for backgrounds."
+ },
+ "boulevard_montmartre_at_night": {
+  "title": "The Boulevard Montmartre at Night",
+  "artist": "Camille Pissarro",
+  "year": "1897",
+  "group": "Impressionism",
+  "museum": "National Gallery, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gaslight Gold",
+    "#C9A71B"
+   ],
+   [
+    "Shopfront Glow",
+    "#A25C20"
+   ],
+   [
+    "Indigo Night",
+    "#343B65"
+   ],
+   [
+    "Wet Pavement",
+    "#5D6691"
+   ],
+   [
+    "Nocturne",
+    "#262130"
+   ],
+   [
+    "Bare Branch",
+    "#75643E"
+   ],
+   [
+    "Lamplit Ochre",
+    "#977F3F"
+   ],
+   [
+    "Halo Cream",
+    "#EDDCAB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C9A71B",
+    "#A25C20"
+   ],
+   "Secondary Data (Cool)": [
+    "#343B65",
+    "#5D6691"
+   ],
+   "Tertiary / Support": [
+    "#ECDCAF",
+    "#EDDCAB"
+   ],
+   "Highlight / Accent": [
+    "#CE7600"
+   ],
+   "Backgrounds": [
+    "#EDDCAB",
+    "#F9F3E2"
+   ],
+   "Text / Lines": [
+    "#241F2E",
+    "#5E4E2A"
+   ]
+  },
+  "diverging": [
+   "#25263A",
+   "#EDDCAB",
+   "#CE7600"
+  ],
+  "blurb": "Gaslight gold and shopfront embers streak down a wet indigo boulevard in Pissarro's rainy Paris night. Luminous warm hues flag primary signals against deep blues that hold the nocturnal field, with a pale lamp halo as background."
+ },
+ "the_childs_bath": {
+  "title": "The Child's Bath",
+  "artist": "Mary Cassatt",
+  "year": "1893",
+  "group": "Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "muted",
+  "colors": [
+   [
+    "Carpet Madder",
+    "#5D3222"
+   ],
+   [
+    "Flushed Cheek",
+    "#A7877F"
+   ],
+   [
+    "Wardrobe Olive",
+    "#737950"
+   ],
+   [
+    "Dress Navy",
+    "#323F53"
+   ],
+   [
+    "Raven Chignon",
+    "#242A33"
+   ],
+   [
+    "Lilac Stripe",
+    "#808395"
+   ],
+   [
+    "Rosewood",
+    "#69524C"
+   ],
+   [
+    "Porcelain",
+    "#D6DEE4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#5D3222",
+    "#A7877F"
+   ],
+   "Secondary Data (Cool)": [
+    "#737950",
+    "#323F53"
+   ],
+   "Tertiary / Support": [
+    "#D6DEE4",
+    "#D6DEE4"
+   ],
+   "Highlight / Accent": [
+    "#B25A3D"
+   ],
+   "Backgrounds": [
+    "#D6DEE4",
+    "#F1F3F6"
+   ],
+   "Text / Lines": [
+    "#242A33",
+    "#4C4F60"
+   ]
+  },
+  "diverging": [
+   "#2C2A16",
+   "#D6DEE4",
+   "#B25A3D"
+  ],
+  "blurb": "Striped lilac and navy cottons fold around warm skin, a porcelain basin, and a madder-red carpet in Cassatt's tender bath scene. Earthy warms mark primary data; olive and navy give secondary weight while porcelain white keeps backgrounds quiet."
+ },
+ "a_sunday_on_la_grande_jatte": {
+  "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "artist": "Georges Seurat",
+  "year": "1884-1886",
+  "group": "Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Sunlit Lawn",
+    "#BCB245"
+   ],
+   [
+    "Coral Parasol",
+    "#BA6B4D"
+   ],
+   [
+    "Meadow Green",
+    "#7B8D3B"
+   ],
+   [
+    "Jatte Foliage",
+    "#496C4D"
+   ],
+   [
+    "Sunday Suit",
+    "#3B3744"
+   ],
+   [
+    "Violet Shadow",
+    "#7D7BA4"
+   ],
+   [
+    "Bustle Plum",
+    "#814D5C"
+   ],
+   [
+    "Summer Muslin",
+    "#E5DCC9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#BCB245",
+    "#BA6B4D"
+   ],
+   "Secondary Data (Cool)": [
+    "#7B8D3B",
+    "#496C4D"
+   ],
+   "Tertiary / Support": [
+    "#E7DCC4",
+    "#E5DCC9"
+   ],
+   "Highlight / Accent": [
+    "#BD7F00"
+   ],
+   "Backgrounds": [
+    "#E5DCC9",
+    "#F6F3EC"
+   ],
+   "Text / Lines": [
+    "#3B3744",
+    "#4D4C72"
+   ]
+  },
+  "diverging": [
+   "#373B26",
+   "#E5DCC9",
+   "#BD7F00"
+  ],
+  "blurb": "Chartreuse lawns, violet shadows, and coral parasols shimmer in Seurat's pointillist Sunday stillness. Sunlit yellow-greens and warm coral head the categorical series; deep greens and violets recede into structure over a muslin-light background."
+ },
+ "bathers_at_asnieres": {
+  "title": "Bathers at Asnieres",
+  "artist": "Georges Seurat",
+  "year": "1884",
+  "group": "Impressionism",
+  "museum": "National Gallery, London",
+  "mode": "muted",
+  "colors": [
+   [
+    "Bather's Tan",
+    "#9D6C60"
+   ],
+   [
+    "Sage Bank",
+    "#A4B190"
+   ],
+   [
+    "Asnieres Green",
+    "#656F52"
+   ],
+   [
+    "Bowler Black",
+    "#2B2126"
+   ],
+   [
+    "Factory Haze",
+    "#AAB3BC"
+   ],
+   [
+    "Slate Trousers",
+    "#49485A"
+   ],
+   [
+    "Seine Blue",
+    "#7A89A0"
+   ],
+   [
+    "Straw Cream",
+    "#E4DCCE"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9D6C60"
+   ],
+   "Secondary Data (Cool)": [
+    "#A4B190",
+    "#656F52"
+   ],
+   "Tertiary / Support": [
+    "#E4DCCE",
+    "#E4DCCE"
+   ],
+   "Highlight / Accent": [
+    "#C25B3A"
+   ],
+   "Backgrounds": [
+    "#E4DCCE",
+    "#F6F3EE"
+   ],
+   "Text / Lines": [
+    "#291F24",
+    "#485159"
+   ]
+  },
+  "diverging": [
+   "#232A17",
+   "#E4DCCE",
+   "#C25B3A"
+  ],
+  "blurb": "Hazy factory smoke hangs over the pale Seine while sunburnt bathers rest on a sage bank in Seurat's summer torpor. Muted warms and greens lead the data series; river blues and slate supply cool context beneath a straw-cream background."
+ },
+ "starry_night": {
+  "title": "The Starry Night",
+  "artist": "Vincent van Gogh",
+  "year": "1889",
+  "group": "Post-Impressionism",
+  "museum": "Museum of Modern Art, New York",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Star Gold",
+    "#C2A800"
+   ],
+   [
+    "Moon Amber",
+    "#9A7000"
+   ],
+   [
+    "Ultramarine",
+    "#15409D"
+   ],
+   [
+    "Night Swirl",
+    "#2C589C"
+   ],
+   [
+    "Cypress",
+    "#212522"
+   ],
+   [
+    "Alpilles Blue",
+    "#5A83A7"
+   ],
+   [
+    "Olive Grove",
+    "#58663F"
+   ],
+   [
+    "Predawn Haze",
+    "#D0E2C9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C2A800",
+    "#9A7000"
+   ],
+   "Secondary Data (Cool)": [
+    "#15409D",
+    "#2C589C"
+   ],
+   "Tertiary / Support": [
+    "#CDE3C4",
+    "#D0E2C9"
+   ],
+   "Highlight / Accent": [
+    "#C77A00"
+   ],
+   "Backgrounds": [
+    "#D0E2C9",
+    "#EFF5EC"
+   ],
+   "Text / Lines": [
+    "#1F2220",
+    "#265475"
+   ]
+  },
+  "diverging": [
+   "#25263A",
+   "#D0E2C9",
+   "#C77A00"
+  ],
+  "blurb": "A churning midnight sky of ultramarine and slate, lit by stars of burning gold over a sleeping Provençal village. Golds carry primary signals and highlights, while layered night blues give context, structure, and depth across multi-panel figures."
+ },
+ "sunflowers": {
+  "title": "Sunflowers",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "group": "Post-Impressionism",
+  "museum": "National Gallery, London",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Chrome Yellow",
+    "#C7A500"
+   ],
+   [
+    "Vase Ochre",
+    "#997B00"
+   ],
+   [
+    "Stem Green",
+    "#809D0F"
+   ],
+   [
+    "Sepal Olive",
+    "#6E7C27"
+   ],
+   [
+    "Seed Umber",
+    "#403914"
+   ],
+   [
+    "Faded Leaf",
+    "#789069"
+   ],
+   [
+    "Dried Petal",
+    "#C1B44D"
+   ],
+   [
+    "Wall Cream",
+    "#E6DEAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C7A500",
+    "#997B00"
+   ],
+   "Secondary Data (Cool)": [
+    "#809D0F",
+    "#6E7C27"
+   ],
+   "Tertiary / Support": [
+    "#E5DEB0",
+    "#E6DEAC"
+   ],
+   "Highlight / Accent": [
+    "#C97900"
+   ],
+   "Backgrounds": [
+    "#E6DEAC",
+    "#F6F4E2"
+   ],
+   "Text / Lines": [
+    "#403914",
+    "#405633"
+   ]
+  },
+  "diverging": [
+   "#353C17",
+   "#E6DEAC",
+   "#C97900"
+  ],
+  "blurb": "Fourteen blooms of chrome yellow against ochre and straw, sunlight painted with sunlight itself. The near-monochrome golds and stem greens read as an ordered sequence, with dark seed umber anchoring text and pale cream as a calm background."
+ },
+ "cafe_terrace_at_night": {
+  "title": "Cafe Terrace at Night",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "group": "Post-Impressionism",
+  "museum": "Kroller-Muller Museum, Otterlo",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gaslight Gold",
+    "#B29200"
+   ],
+   [
+    "Terrace Amber",
+    "#895E01"
+   ],
+   [
+    "Cobalt Night",
+    "#004796"
+   ],
+   [
+    "Lamplit Olive",
+    "#7E7816"
+   ],
+   [
+    "Alley Shadow",
+    "#212428"
+   ],
+   [
+    "Starlit Slate",
+    "#3B6F8F"
+   ],
+   [
+    "Plane Tree",
+    "#2D4E30"
+   ],
+   [
+    "Table Linen",
+    "#E0DFBA"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B29200",
+    "#895E01"
+   ],
+   "Secondary Data (Cool)": [
+    "#004796",
+    "#7E7816"
+   ],
+   "Tertiary / Support": [
+    "#E0E0B1",
+    "#E0DFBA"
+   ],
+   "Highlight / Accent": [
+    "#C67500"
+   ],
+   "Backgrounds": [
+    "#E0DFBA",
+    "#F4F4E7"
+   ],
+   "Text / Lines": [
+    "#212327",
+    "#1B5574"
+   ]
+  },
+  "diverging": [
+   "#20273B",
+   "#E0DFBA",
+   "#C67500"
+  ],
+  "blurb": "A gaslit awning pours molten gold across the cobblestones while a cobalt sky blooms with stars overhead. Lamp golds mark primary series and callouts; night blues and shadow greens supply cool structure, contrast, and quiet backgrounds."
+ },
+ "irises": {
+  "title": "Irises",
+  "artist": "Vincent van Gogh",
+  "year": "1889",
+  "group": "Post-Impressionism",
+  "museum": "J. Paul Getty Museum, Los Angeles",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Marigold",
+    "#B39300"
+   ],
+   [
+    "Red Earth",
+    "#9C5E39"
+   ],
+   [
+    "Sword Leaf",
+    "#88A642"
+   ],
+   [
+    "Iris Blue",
+    "#1E4FA5"
+   ],
+   [
+    "Indigo Dusk",
+    "#27395A"
+   ],
+   [
+    "Garden Shade",
+    "#416B49"
+   ],
+   [
+    "Teal Blade",
+    "#1D6E7F"
+   ],
+   [
+    "White Petal",
+    "#BEE6D4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B39300",
+    "#9C5E39"
+   ],
+   "Secondary Data (Cool)": [
+    "#88A642",
+    "#1E4FA5"
+   ],
+   "Tertiary / Support": [
+    "#B5E8D2",
+    "#BEE6D4"
+   ],
+   "Highlight / Accent": [
+    "#CA7600"
+   ],
+   "Backgrounds": [
+    "#BEE6D4",
+    "#E8F6F0"
+   ],
+   "Text / Lines": [
+    "#27395A",
+    "#2F5938"
+   ]
+  },
+  "diverging": [
+   "#333D1B",
+   "#BEE6D4",
+   "#CA7600"
+  ],
+  "blurb": "Cobalt irises surge through sword-green leaves, edged by marigold fire and the rust-red earth of Saint-Rémy. Warm golds and terracotta lead primary emphasis, while iris blues and garden greens organize secondary series on a pale mint ground."
+ },
+ "the_bedroom": {
+  "title": "The Bedroom",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "group": "Post-Impressionism",
+  "museum": "Van Gogh Museum, Amsterdam",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Bedframe Gold",
+    "#B78900"
+   ],
+   [
+    "Table Ochre",
+    "#965B00"
+   ],
+   [
+    "Window Lime",
+    "#9D9D18"
+   ],
+   [
+    "Straw Seat",
+    "#94923D"
+   ],
+   [
+    "Shutter Green",
+    "#323C26"
+   ],
+   [
+    "Floorboard",
+    "#916E35"
+   ],
+   [
+    "Door Blue",
+    "#357490"
+   ],
+   [
+    "Pillow Cream",
+    "#D9E0C3"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B78900",
+    "#965B00"
+   ],
+   "Secondary Data (Cool)": [
+    "#9D9D18",
+    "#94923D"
+   ],
+   "Tertiary / Support": [
+    "#D7E1BC",
+    "#D9E0C3"
+   ],
+   "Highlight / Accent": [
+    "#C93A1C"
+   ],
+   "Backgrounds": [
+    "#D9E0C3",
+    "#F2F4EA"
+   ],
+   "Text / Lines": [
+    "#323C26",
+    "#654C24"
+   ]
+  },
+  "diverging": [
+   "#3C3A22",
+   "#D9E0C3",
+   "#C93A1C"
+  ],
+  "blurb": "A butter-yellow bed and rush chairs glow against calm blue walls, green shutters, and a scarlet coverlet in Arles. Furniture golds lead the categorical order, wall blues add cool structure, and the red accent flags key callouts."
+ },
+ "tahitian_women_on_the_beach": {
+  "title": "Tahitian Women on the Beach",
+  "artist": "Paul Gauguin",
+  "year": "1891",
+  "group": "Post-Impressionism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Pareo Red",
+    "#9B0B25"
+   ],
+   [
+    "Pandanus",
+    "#B56F2A"
+   ],
+   [
+    "Lagoon Green",
+    "#376043"
+   ],
+   [
+    "Reef Sage",
+    "#63825F"
+   ],
+   [
+    "Black Pearl",
+    "#252230"
+   ],
+   [
+    "Plum Shadow",
+    "#954E67"
+   ],
+   [
+    "Golden Sand",
+    "#CBA351"
+   ],
+   [
+    "Shell Pink",
+    "#F5D5DE"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9B0B25",
+    "#B56F2A"
+   ],
+   "Secondary Data (Cool)": [
+    "#376043",
+    "#63825F"
+   ],
+   "Tertiary / Support": [
+    "#FBD2DF",
+    "#F5D5DE"
+   ],
+   "Highlight / Accent": [
+    "#D61B2E"
+   ],
+   "Backgrounds": [
+    "#F5D5DE",
+    "#FCF0F3"
+   ],
+   "Text / Lines": [
+    "#23202E",
+    "#783E53"
+   ]
+  },
+  "diverging": [
+   "#182C1E",
+   "#F5D5DE",
+   "#D61B2E"
+  ],
+  "blurb": "A crimson pareo and shell-pink gown rest on golden sand before a band of lagoon green and an ink-dark Pacific. Warm reds and coppers drive primary contrast, cool greens hold secondary context, and the palest pink recedes as background."
+ },
+ "the_card_players": {
+  "title": "The Card Players",
+  "artist": "Paul Cezanne",
+  "year": "1890-1895",
+  "group": "Post-Impressionism",
+  "museum": "Musee d'Orsay, Paris",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Card Table",
+    "#BF670D"
+   ],
+   [
+    "Deep Claret",
+    "#742100"
+   ],
+   [
+    "Ebony Coat",
+    "#2B211F"
+   ],
+   [
+    "Peasant Tan",
+    "#8C6A42"
+   ],
+   [
+    "Briar Brown",
+    "#653C1E"
+   ],
+   [
+    "Weathered Rose",
+    "#93594D"
+   ],
+   [
+    "Café Sienna",
+    "#86461D"
+   ],
+   [
+    "Winning Hand",
+    "#EEDBAB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#BF670D",
+    "#742100"
+   ],
+   "Secondary Data (Cool)": [
+    "#8C6A42",
+    "#653C1E"
+   ],
+   "Tertiary / Support": [
+    "#EDDCAF",
+    "#EEDBAB"
+   ],
+   "Highlight / Accent": [
+    "#D85300"
+   ],
+   "Backgrounds": [
+    "#EEDBAB",
+    "#F9F3E2"
+   ],
+   "Text / Lines": [
+    "#291F1D",
+    "#684A25"
+   ]
+  },
+  "diverging": [
+   "#3A221B",
+   "#EEDBAB",
+   "#D85300"
+  ],
+  "blurb": "Burnt-orange table, wine-dark claret, and patient tobacco browns from Cézanne's absorbed peasant card game. Warm ochres carry the primary series while deep umbers and a weathered rose supply grounded secondary structure."
+ },
+ "mont_sainte_victoire": {
+  "title": "Mont Sainte-Victoire",
+  "artist": "Paul Cezanne",
+  "year": "c. 1904",
+  "group": "Post-Impressionism",
+  "museum": "Philadelphia Museum of Art",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Provence Gold",
+    "#D1A042"
+   ],
+   [
+    "Sunbaked Field",
+    "#B09F68"
+   ],
+   [
+    "Victoire Blue",
+    "#69A0F4"
+   ],
+   [
+    "Pine Canopy",
+    "#3F772A"
+   ],
+   [
+    "Shadow Slate",
+    "#2D3536"
+   ],
+   [
+    "Olive Grove",
+    "#6D754B"
+   ],
+   [
+    "Cobalt Ridge",
+    "#486EA5"
+   ],
+   [
+    "Mistral Sky",
+    "#C1E0FF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D1A042",
+    "#B09F68"
+   ],
+   "Secondary Data (Cool)": [
+    "#69A0F4",
+    "#3F772A"
+   ],
+   "Tertiary / Support": [
+    "#BEE0FF",
+    "#C1E0FF"
+   ],
+   "Highlight / Accent": [
+    "#E67E00"
+   ],
+   "Backgrounds": [
+    "#C1E0FF",
+    "#E9F4FF"
+   ],
+   "Text / Lines": [
+    "#2D3536",
+    "#4C542D"
+   ]
+  },
+  "diverging": [
+   "#2A3448",
+   "#C1E0FF",
+   "#E67E00"
+  ],
+  "blurb": "Ochre fields tessellate beneath the violet-blue mass of Cézanne's mountain and a mistral-scrubbed sky. Gold and khaki lead the categorical set; layered blues and greens give cool structure and an airy background."
+ },
+ "the_basket_of_apples": {
+  "title": "The Basket of Apples",
+  "artist": "Paul Cezanne",
+  "year": "c. 1893",
+  "group": "Post-Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Biscuit Amber",
+    "#A67310"
+   ],
+   [
+    "Russet",
+    "#A34A12"
+   ],
+   [
+    "Green Apple",
+    "#859138"
+   ],
+   [
+    "Olive Shadow",
+    "#6A653C"
+   ],
+   [
+    "Wine Bottle",
+    "#262721"
+   ],
+   [
+    "Wicker Gold",
+    "#D2AB45"
+   ],
+   [
+    "Walnut Table",
+    "#755614"
+   ],
+   [
+    "Pale Linen",
+    "#D5E1C7"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#A67310",
+    "#A34A12"
+   ],
+   "Secondary Data (Cool)": [
+    "#859138",
+    "#6A653C"
+   ],
+   "Tertiary / Support": [
+    "#D3E2C1",
+    "#D5E1C7"
+   ],
+   "Highlight / Accent": [
+    "#D06A00"
+   ],
+   "Backgrounds": [
+    "#D5E1C7",
+    "#F0F4EB"
+   ],
+   "Text / Lines": [
+    "#262721",
+    "#614D23"
+   ]
+  },
+  "diverging": [
+   "#272915",
+   "#D5E1C7",
+   "#D06A00"
+  ],
+  "blurb": "Tumbling russet and green apples, a dark wine bottle, and sun-warmed biscuits against cool white linen. Golds and reds flag the primary series while olive neutrals and pale celadon recede for balanced panels."
+ },
+ "at_the_moulin_rouge": {
+  "title": "At the Moulin Rouge",
+  "artist": "Henri de Toulouse-Lautrec",
+  "year": "1892-1895",
+  "group": "Post-Impressionism",
+  "museum": "Art Institute of Chicago",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gaslight Gold",
+    "#BB8A26"
+   ],
+   [
+    "Copper Chignon",
+    "#964423"
+   ],
+   [
+    "Absinthe",
+    "#228146"
+   ],
+   [
+    "Smoky Olive",
+    "#7F8447"
+   ],
+   [
+    "Top Hat",
+    "#292221"
+   ],
+   [
+    "Mahogany Bar",
+    "#703D28"
+   ],
+   [
+    "Bottle Green",
+    "#3E4B26"
+   ],
+   [
+    "Cabaret Cream",
+    "#E9DDAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#BB8A26",
+    "#964423"
+   ],
+   "Secondary Data (Cool)": [
+    "#228146",
+    "#7F8447"
+   ],
+   "Tertiary / Support": [
+    "#E9DDB0",
+    "#E9DDAC"
+   ],
+   "Highlight / Accent": [
+    "#D27300"
+   ],
+   "Backgrounds": [
+    "#E9DDAC",
+    "#F7F3E2"
+   ],
+   "Text / Lines": [
+    "#27201F",
+    "#6E3E2B"
+   ]
+  },
+  "diverging": [
+   "#182C1D",
+   "#E9DDAC",
+   "#D27300"
+  ],
+  "blurb": "Gaslight gold and absinthe green cut through the smoky mahogany hush of Lautrec's nightclub crowd. Warm mustard and copper lead the data hierarchy; emerald and olive provide legible cool counterpoint across panels."
+ },
+ "the_sleeping_gypsy": {
+  "title": "The Sleeping Gypsy",
+  "artist": "Henri Rousseau",
+  "year": "1897",
+  "group": "Post-Impressionism",
+  "museum": "Museum of Modern Art, New York",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Terracotta Jug",
+    "#783112"
+   ],
+   [
+    "Tawny Lion",
+    "#B37650"
+   ],
+   [
+    "Desert Sky",
+    "#2D97BF"
+   ],
+   [
+    "Prussian Dusk",
+    "#00587C"
+   ],
+   [
+    "Night Shadow",
+    "#27231D"
+   ],
+   [
+    "Oasis Sage",
+    "#617953"
+   ],
+   [
+    "Mane Umber",
+    "#6D5532"
+   ],
+   [
+    "Full Moon",
+    "#D9E0CB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#783112",
+    "#B37650"
+   ],
+   "Secondary Data (Cool)": [
+    "#2D97BF",
+    "#00587C"
+   ],
+   "Tertiary / Support": [
+    "#D7E0C6",
+    "#D9E0CB"
+   ],
+   "Highlight / Accent": [
+    "#C94E24"
+   ],
+   "Backgrounds": [
+    "#D9E0CB",
+    "#F2F4ED"
+   ],
+   "Text / Lines": [
+    "#26221C",
+    "#3F5633"
+   ]
+  },
+  "diverging": [
+   "#092B39",
+   "#D9E0CB",
+   "#C94E24"
+  ],
+  "blurb": "A tawny lion, a striped robe, and a terracotta jug held still under Rousseau's moonlit teal desert night. Sunbaked warms mark key signals, deep Prussian blues carry context, and a moon-pale field keeps backgrounds open."
+ },
+ "the_scream": {
+  "title": "The Scream",
+  "artist": "Edvard Munch",
+  "year": "1893",
+  "group": "Modern",
+  "museum": "National Museum, Oslo",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Blood Sky",
+    "#9E2B16"
+   ],
+   [
+    "Molten Sunset",
+    "#B87120"
+   ],
+   [
+    "Anguish Indigo",
+    "#44435F"
+   ],
+   [
+    "Fjord Blue",
+    "#5B6B96"
+   ],
+   [
+    "Ember Haze",
+    "#9E5740"
+   ],
+   [
+    "Sallow Face",
+    "#8A8055"
+   ],
+   [
+    "Bridge Rail",
+    "#CA6A46"
+   ],
+   [
+    "Peach Dusk",
+    "#FFD4B1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9E2B16",
+    "#B87120"
+   ],
+   "Secondary Data (Cool)": [
+    "#5B6B96",
+    "#9E5740"
+   ],
+   "Tertiary / Support": [
+    "#FFD5B4",
+    "#FFD4B1"
+   ],
+   "Highlight / Accent": [
+    "#CF2E19"
+   ],
+   "Backgrounds": [
+    "#FFD4B1",
+    "#FFF0E4"
+   ],
+   "Text / Lines": [
+    "#44435F",
+    "#684A2B"
+   ]
+  },
+  "diverging": [
+   "#4C332B",
+   "#FFD4B1",
+   "#CF2E19"
+  ],
+  "blurb": "Blood-red waves roil above an indigo fjord as a sallow figure grips the bridge rail in Munch's psychic sunset. Searing warms drive emphasis while restored fjord blues supply the cool axis for clean categorical contrast."
+ },
+ "the_kiss_klimt": {
+  "title": "The Kiss",
+  "artist": "Gustav Klimt",
+  "year": "1907-1908",
+  "group": "Modern",
+  "museum": "Belvedere, Vienna",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Leaf Gold",
+    "#D4AF37"
+   ],
+   [
+    "Mosaic Rust",
+    "#C15932"
+   ],
+   [
+    "Meadow",
+    "#7E9C37"
+   ],
+   [
+    "Violet Bloom",
+    "#8162AC"
+   ],
+   [
+    "Ivy Shadow",
+    "#3C3225"
+   ],
+   [
+    "Aged Bronze",
+    "#876F2A"
+   ],
+   [
+    "Cliff Moss",
+    "#6A9556"
+   ],
+   [
+    "Pale Embrace",
+    "#ECDCAF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D4AF37",
+    "#C15932"
+   ],
+   "Secondary Data (Cool)": [
+    "#7E9C37",
+    "#8162AC"
+   ],
+   "Tertiary / Support": [
+    "#ECDCAF",
+    "#ECDCAF"
+   ],
+   "Highlight / Accent": [
+    "#E07800"
+   ],
+   "Backgrounds": [
+    "#ECDCAF",
+    "#F8F3E3"
+   ],
+   "Text / Lines": [
+    "#3C3225",
+    "#5E4E22"
+   ]
+  },
+  "diverging": [
+   "#313621",
+   "#ECDCAF",
+   "#E07800"
+  ],
+  "blurb": "Molten gold leaf enfolds two lovers kneeling on a cliff of violet and green blossoms. Gilded warm hues carry primary signals and emphasis, while meadow greens and violet hold secondary structure against a soft cream ground."
+ },
+ "adele_bloch_bauer": {
+  "title": "Portrait of Adele Bloch-Bauer I",
+  "artist": "Gustav Klimt",
+  "year": "1907",
+  "group": "Modern",
+  "museum": "Neue Galerie, New York",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gold Tessera",
+    "#EC9901"
+   ],
+   [
+    "Amber Frieze",
+    "#A55B00"
+   ],
+   [
+    "Indigo Tile",
+    "#4B3D94"
+   ],
+   [
+    "Moss Parquet",
+    "#4A5D0D"
+   ],
+   [
+    "Raven Chignon",
+    "#2B2123"
+   ],
+   [
+    "Bronze Swirl",
+    "#814900"
+   ],
+   [
+    "Adele's Cheek",
+    "#956D53"
+   ],
+   [
+    "Porcelain",
+    "#F7D7B9"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#EC9901",
+    "#A55B00"
+   ],
+   "Secondary Data (Cool)": [
+    "#4B3D94",
+    "#4A5D0D"
+   ],
+   "Tertiary / Support": [
+    "#FCD6B2",
+    "#F7D7B9"
+   ],
+   "Highlight / Accent": [
+    "#E26800"
+   ],
+   "Backgrounds": [
+    "#F7D7B9",
+    "#FCF1E7"
+   ],
+   "Text / Lines": [
+    "#291F21",
+    "#6A4926"
+   ]
+  },
+  "diverging": [
+   "#2A2539",
+   "#F7D7B9",
+   "#E26800"
+  ],
+  "blurb": "A shimmering wall of gold engulfs Adele, her raven chignon and jeweled indigo tesserae flashing through the gilded haze. Radiant ambers drive primary emphasis; deep indigo and olive anchor secondary categories on a warm porcelain ground."
+ },
+ "four_trees": {
+  "title": "Four Trees",
+  "artist": "Egon Schiele",
+  "year": "1917",
+  "group": "Modern",
+  "museum": "Belvedere, Vienna",
+  "mode": "muted",
+  "colors": [
+   [
+    "Autumn Crown",
+    "#9E4F3E"
+   ],
+   [
+    "Evening Tan",
+    "#A77F66"
+   ],
+   [
+    "Fir Night",
+    "#1F2C23"
+   ],
+   [
+    "Bark Umber",
+    "#55362F"
+   ],
+   [
+    "Sage Hill",
+    "#535C53"
+   ],
+   [
+    "Pale Horizon",
+    "#B9B19E"
+   ],
+   [
+    "Furrow Gray",
+    "#6E675B"
+   ],
+   [
+    "Sky Blush",
+    "#F7D6C4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9E4F3E",
+    "#A77F66"
+   ],
+   "Secondary Data (Cool)": [
+    "#55362F",
+    "#374038"
+   ],
+   "Tertiary / Support": [
+    "#F7D6C4",
+    "#F7D6C4"
+   ],
+   "Highlight / Accent": [
+    "#C0503C"
+   ],
+   "Backgrounds": [
+    "#F7D6C4",
+    "#FCF1EB"
+   ],
+   "Text / Lines": [
+    "#1F2C23",
+    "#55362F"
+   ]
+  },
+  "diverging": [
+   "#172D20",
+   "#F7D6C4",
+   "#C0503C"
+  ],
+  "blurb": "Four bare chestnut trees stand in silhouette against banded dusk light, their brick-red crowns dissolving into gray-green hills. Muted rust and tan lead the data series while deep fir and bark tones supply line work over a pale blush sky."
+ },
+ "jeanne_hebuterne": {
+  "title": "Jeanne Hebuterne",
+  "artist": "Amedeo Modigliani",
+  "year": "1919",
+  "group": "Modern",
+  "museum": "Metropolitan Museum of Art, New York",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Ochre Chair",
+    "#CA8300"
+   ],
+   [
+    "Straw Gold",
+    "#DEB02A"
+   ],
+   [
+    "Willow Shade",
+    "#868345"
+   ],
+   [
+    "Celadon Mist",
+    "#C4C789"
+   ],
+   [
+    "Ink Skirt",
+    "#242422"
+   ],
+   [
+    "Auburn Hair",
+    "#813604"
+   ],
+   [
+    "Teal Wall",
+    "#6FB4A2"
+   ],
+   [
+    "Mint Cream",
+    "#E3ECC5"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CA8300",
+    "#DEB02A"
+   ],
+   "Secondary Data (Cool)": [
+    "#868345",
+    "#C4C789"
+   ],
+   "Tertiary / Support": [
+    "#D7E2B4",
+    "#E3ECC5"
+   ],
+   "Highlight / Accent": [
+    "#DD6C00"
+   ],
+   "Backgrounds": [
+    "#E3ECC5",
+    "#F5F8EB"
+   ],
+   "Text / Lines": [
+    "#222120",
+    "#6E4229"
+   ]
+  },
+  "diverging": [
+   "#2A2914",
+   "#E3ECC5",
+   "#DD6C00"
+  ],
+  "blurb": "Jeanne's auburn hair and ochre chair glow against tranquil teal walls and her milk-white slip. Warm ambers take primary series and callouts; cool teal and willow greens give context, with a soft mint field for backgrounds."
+ },
+ "senecio": {
+  "title": "Senecio",
+  "artist": "Paul Klee",
+  "year": "1922",
+  "group": "Modern",
+  "museum": "Kunstmuseum Basel",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Vermilion Eye",
+    "#AC280D"
+   ],
+   [
+    "Mask Gold",
+    "#D0AB48"
+   ],
+   [
+    "Plum Patch",
+    "#522C48"
+   ],
+   [
+    "Orange Field",
+    "#C17A3E"
+   ],
+   [
+    "Powder Pink",
+    "#D49899"
+   ],
+   [
+    "Russet Collar",
+    "#A06D49"
+   ],
+   [
+    "Harlequin Rose",
+    "#C06371"
+   ],
+   [
+    "Chalk Face",
+    "#E9DACD"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AC280D",
+    "#D0AB48"
+   ],
+   "Secondary Data (Cool)": [
+    "#D49899",
+    "#D0AB48"
+   ],
+   "Tertiary / Support": [
+    "#ECDAC9",
+    "#E9DACD"
+   ],
+   "Highlight / Accent": [
+    "#D61D08"
+   ],
+   "Backgrounds": [
+    "#E9DACD",
+    "#F7F2EE"
+   ],
+   "Text / Lines": [
+    "#522C48",
+    "#6E4729"
+   ]
+  },
+  "diverging": [
+   "#522C48",
+   "#E9DACD",
+   "#D61D08"
+  ],
+  "blurb": "Klee's aging actor gazes out through vermilion eyes, his round face a mosaic of gold, powder pink, and chalk on a burnt-orange ground. Fiery reds and golds lead the hierarchy while plum and russet hold the dark end of the diverging scale."
+ },
+ "composition_viii": {
+  "title": "Composition VIII",
+  "artist": "Wassily Kandinsky",
+  "year": "1923",
+  "group": "Modern",
+  "museum": "Guggenheim Museum, New York",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Signal Red",
+    "#C50C00"
+   ],
+   [
+    "Point Yellow",
+    "#DFB016"
+   ],
+   [
+    "Halo Purple",
+    "#6B4174"
+   ],
+   [
+    "Olive Plane",
+    "#96966B"
+   ],
+   [
+    "Great Circle",
+    "#2D2527"
+   ],
+   [
+    "Coral Wash",
+    "#D8704E"
+   ],
+   [
+    "Bauhaus Blue",
+    "#65AEBE"
+   ],
+   [
+    "Canvas Cream",
+    "#E4DEBA"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C50C00",
+    "#DFB016"
+   ],
+   "Secondary Data (Cool)": [
+    "#6B4174",
+    "#96966B"
+   ],
+   "Tertiary / Support": [
+    "#E6DEB0",
+    "#E4DEBA"
+   ],
+   "Highlight / Accent": [
+    "#D61F05"
+   ],
+   "Backgrounds": [
+    "#E4DEBA",
+    "#F6F3E7"
+   ],
+   "Text / Lines": [
+    "#2D2527",
+    "#754332"
+   ]
+  },
+  "diverging": [
+   "#322334",
+   "#E4DEBA",
+   "#D61F05"
+  ],
+  "blurb": "Circles, arcs, and beams in signal red, gold, and Bauhaus blue drift across a warm cream field. Saturated primaries mark key measurements, the haloed dark circle anchors extremes, and quiet olive and coral recede as supporting context."
+ },
+ "composition_red_blue_yellow": {
+  "title": "Composition II in Red, Blue, and Yellow",
+  "artist": "Piet Mondrian",
+  "year": "1930",
+  "group": "Modern",
+  "museum": "Kunsthaus Zurich",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Mondrian Red",
+    "#CD000A"
+   ],
+   [
+    "Vermilion",
+    "#FA4343"
+   ],
+   [
+    "Primary Blue",
+    "#005EB0"
+   ],
+   [
+    "Cerulean",
+    "#0084D2"
+   ],
+   [
+    "Grid Black",
+    "#1D1F20"
+   ],
+   [
+    "Corner Yellow",
+    "#E8C51D"
+   ],
+   [
+    "Frame Umber",
+    "#957956"
+   ],
+   [
+    "Canvas White",
+    "#E8E5E2"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CD000A",
+    "#FA4343"
+   ],
+   "Secondary Data (Cool)": [
+    "#005EB0",
+    "#0084D2"
+   ],
+   "Tertiary / Support": [
+    "#E1DCD5",
+    "#E8E5E2"
+   ],
+   "Highlight / Accent": [
+    "#DA0E15"
+   ],
+   "Backgrounds": [
+    "#E8E5E2",
+    "#F7F6F5"
+   ],
+   "Text / Lines": [
+    "#1A2322",
+    "#595022"
+   ]
+  },
+  "diverging": [
+   "#1B283B",
+   "#E8E5E2",
+   "#DA0E15"
+  ],
+  "blurb": "Pure cadmium red, twin primary blues, and one bright yellow square held by a stark black grid on gallery white. Reds drive primary series, blues answer as secondary, and the grid's neutrals supply lines and clean backgrounds."
+ },
+ "dance": {
+  "title": "Dance",
+  "artist": "Henri Matisse",
+  "year": "1910",
+  "group": "Modern",
+  "museum": "Hermitage Museum, Saint Petersburg",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Dancer Red",
+    "#C21C26"
+   ],
+   [
+    "Crimson Whirl",
+    "#910320"
+   ],
+   [
+    "Cobalt Sky",
+    "#1C3D6F"
+   ],
+   [
+    "Dusk Blue",
+    "#4E6B9E"
+   ],
+   [
+    "Midnight",
+    "#1C2434"
+   ],
+   [
+    "Wine Shadow",
+    "#68292F"
+   ],
+   [
+    "Rose Clay",
+    "#92585C"
+   ],
+   [
+    "Hillside Mist",
+    "#DCF5EC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C21C26",
+    "#910320"
+   ],
+   "Secondary Data (Cool)": [
+    "#1C3D6F",
+    "#4E6B9E"
+   ],
+   "Tertiary / Support": [
+    "#A7EADB",
+    "#DCF5EC"
+   ],
+   "Highlight / Accent": [
+    "#DD001D"
+   ],
+   "Backgrounds": [
+    "#DCF5EC",
+    "#E1F8F2"
+   ],
+   "Text / Lines": [
+    "#1C2434",
+    "#652C30"
+   ]
+  },
+  "diverging": [
+   "#20273B",
+   "#DCF5EC",
+   "#DD001D"
+  ],
+  "blurb": "Vermilion dancers whirl against a cobalt night sky above the cool sweep of a hill. Warm reds carry the main signals and highlights, deep blues ground secondary series, and a pale mint field keeps multi-panel figures airy."
+ },
+ "goldfish": {
+  "title": "Goldfish",
+  "artist": "Henri Matisse",
+  "year": "1912",
+  "group": "Modern",
+  "museum": "Pushkin Museum, Moscow",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Goldfish",
+    "#D52500"
+   ],
+   [
+    "Amber Fin",
+    "#D58800"
+   ],
+   [
+    "Lily Pad",
+    "#2BA61D"
+   ],
+   [
+    "Deep Foliage",
+    "#00842F"
+   ],
+   [
+    "Ink Shadow",
+    "#2B2E27"
+   ],
+   [
+    "Blossom Pink",
+    "#C14184"
+   ],
+   [
+    "Table Rose",
+    "#A06360"
+   ],
+   [
+    "Bowl Water",
+    "#D9E1B8"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D52500",
+    "#D58800"
+   ],
+   "Secondary Data (Cool)": [
+    "#2BA61D",
+    "#00842F"
+   ],
+   "Tertiary / Support": [
+    "#D9E1B3",
+    "#D9E1B8"
+   ],
+   "Highlight / Accent": [
+    "#D72006"
+   ],
+   "Backgrounds": [
+    "#D9E1B8",
+    "#F2F4E6"
+   ],
+   "Text / Lines": [
+    "#2B2E27",
+    "#763E58"
+   ]
+  },
+  "diverging": [
+   "#23301E",
+   "#D9E1B8",
+   "#D72006"
+  ],
+  "blurb": "Scarlet fish glow in a glass bowl amid emerald leaves and rose-pink blooms. Fish-warm reds and gold flag primary results, layered greens structure secondary data, and pale bowl-water tones recede into the background."
+ },
+ "large_blue_horses": {
+  "title": "The Large Blue Horses",
+  "artist": "Franz Marc",
+  "year": "1911",
+  "group": "Modern",
+  "museum": "Walker Art Center, Minneapolis",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Crimson Hill",
+    "#F73146"
+   ],
+   [
+    "Meadow Gold",
+    "#DCB04D"
+   ],
+   [
+    "Stallion Blue",
+    "#464F9C"
+   ],
+   [
+    "Lilac Mane",
+    "#8D93DE"
+   ],
+   [
+    "Hoof Black",
+    "#292030"
+   ],
+   [
+    "Pine Slope",
+    "#506A46"
+   ],
+   [
+    "Rose Sky",
+    "#D05E91"
+   ],
+   [
+    "Morning Mist",
+    "#E7D9E4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#F73146",
+    "#DCB04D"
+   ],
+   "Secondary Data (Cool)": [
+    "#464F9C",
+    "#8D93DE"
+   ],
+   "Tertiary / Support": [
+    "#EAD8E6",
+    "#E7D9E4"
+   ],
+   "Highlight / Accent": [
+    "#FC2939"
+   ],
+   "Backgrounds": [
+    "#E7D9E4",
+    "#F7F2F5"
+   ],
+   "Text / Lines": [
+    "#271E2D",
+    "#3D5734"
+   ]
+  },
+  "diverging": [
+   "#26263A",
+   "#E7D9E4",
+   "#FC2939"
+  ],
+  "blurb": "Rounded ultramarine horses graze beneath crimson hills and streaks of gold and pink dawn. Vivid warm hues mark primary effects, the horses' blues and lilacs organize context, and soft mist tones frame multi-panel layouts."
+ },
+ "great_wave": {
+  "title": "The Great Wave off Kanagawa",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1831",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Metropolitan Museum of Art, New York",
+  "mode": "muted",
+  "colors": [
+   [
+    "Boat Timber",
+    "#B6A07E"
+   ],
+   [
+    "Prussian Wave",
+    "#31658A"
+   ],
+   [
+    "Storm Swell",
+    "#2A4054"
+   ],
+   [
+    "Kanagawa Deep",
+    "#002542"
+   ],
+   [
+    "Mist Gray",
+    "#92A2A5"
+   ],
+   [
+    "Slate Spray",
+    "#576D7C"
+   ],
+   [
+    "Sea Foam",
+    "#C2C9BA"
+   ],
+   [
+    "Rice Paper",
+    "#F5EBD1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B6A07E"
+   ],
+   "Secondary Data (Cool)": [
+    "#31658A",
+    "#2A4054"
+   ],
+   "Tertiary / Support": [
+    "#E6DCC3",
+    "#F5EBD1"
+   ],
+   "Highlight / Accent": [
+    "#C06A3B"
+   ],
+   "Backgrounds": [
+    "#F5EBD1",
+    "#FBF8EF"
+   ],
+   "Text / Lines": [
+    "#1C3B5A",
+    "#445255"
+   ]
+  },
+  "diverging": [
+   "#0C3D59",
+   "#F5EBD1",
+   "#C06A3B"
+  ],
+  "blurb": "Prussian-blue water rears into clawed white foam over tan boats and a paper-cream sky. Deepening indigo blues encode ordered series, warm timber accents call out key points, and foam and rice-paper neutrals stay quietly in support."
+ },
+ "red_fuji": {
+  "title": "Fine Wind, Clear Morning",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1831",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Various collections",
+  "mode": "muted",
+  "colors": [
+   [
+    "Fuji Russet",
+    "#C06E56"
+   ],
+   [
+    "Washi Tan",
+    "#C5B494"
+   ],
+   [
+    "Indigo Wind",
+    "#1E4E6D"
+   ],
+   [
+    "Horizon Blue",
+    "#598AA1"
+   ],
+   [
+    "Zenith Navy",
+    "#002643"
+   ],
+   [
+    "Forest Haze",
+    "#96A59D"
+   ],
+   [
+    "Flank Umber",
+    "#7B635C"
+   ],
+   [
+    "Cloud Cream",
+    "#F6F0E4"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C06E56",
+    "#C5B494"
+   ],
+   "Secondary Data (Cool)": [
+    "#1E4E6D",
+    "#598AA1"
+   ],
+   "Tertiary / Support": [
+    "#E2DCD1",
+    "#F6F0E4"
+   ],
+   "Highlight / Accent": [
+    "#D0684A"
+   ],
+   "Backgrounds": [
+    "#F6F0E4",
+    "#FCFAF6"
+   ],
+   "Text / Lines": [
+    "#183B5B",
+    "#45534C"
+   ]
+  },
+  "diverging": [
+   "#033D5A",
+   "#F6F0E4",
+   "#D0684A"
+  ],
+  "blurb": "Fuji's rust-red cone rises into an indigo sky combed with cream mackerel clouds. Warm russet and straw carry primary emphasis, layered morning blues give cool structure, and haze grays keep annotations and backgrounds calm."
+ },
+ "kirifuri_waterfall": {
+  "title": "Kirifuri Waterfall at Kurokami Mountain",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1832",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Various collections",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Crag Gold",
+    "#E9AA53"
+   ],
+   [
+    "Spring Moss",
+    "#C8B669"
+   ],
+   [
+    "Cedar Olive",
+    "#64692E"
+   ],
+   [
+    "Kurokami Teal",
+    "#32745E"
+   ],
+   [
+    "Indigo Plunge",
+    "#103547"
+   ],
+   [
+    "Russet Cliff",
+    "#834E25"
+   ],
+   [
+    "Pilgrim Sage",
+    "#93AA7F"
+   ],
+   [
+    "Mist Peach",
+    "#FED6AF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#E9AA53",
+    "#C8B669"
+   ],
+   "Secondary Data (Cool)": [
+    "#64692E",
+    "#32745E"
+   ],
+   "Tertiary / Support": [
+    "#FCD6B2",
+    "#FED6AF"
+   ],
+   "Highlight / Accent": [
+    "#D67108"
+   ],
+   "Backgrounds": [
+    "#FED6AF",
+    "#FFF1E3"
+   ],
+   "Text / Lines": [
+    "#103547",
+    "#6E4729"
+   ]
+  },
+  "diverging": [
+   "#32331A",
+   "#FED6AF",
+   "#D67108"
+  ],
+  "blurb": "Threads of Prussian-blue water plunge over sunlit ochre rock, hemmed in by mossy greens on Kurokami's slopes. Warm golds flag primary series, layered greens group related panels, and the indigo dark anchors text against a pale mist-peach ground."
+ },
+ "plum_park_in_kameido": {
+  "title": "Plum Park in Kameido",
+  "artist": "Utagawa Hiroshige",
+  "year": "1857",
+  "group": "Japanese Ukiyo-e",
+  "museum": "One Hundred Famous Views of Edo",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Crimson Dusk",
+    "#8F2120"
+   ],
+   [
+    "Rose Horizon",
+    "#CC6E5F"
+   ],
+   [
+    "Garden Teal",
+    "#036E75"
+   ],
+   [
+    "Meadow Green",
+    "#79875E"
+   ],
+   [
+    "Trunk Slate",
+    "#2D3539"
+   ],
+   [
+    "Branch Umber",
+    "#78483F"
+   ],
+   [
+    "Twilight Tan",
+    "#CCA485"
+   ],
+   [
+    "Petal Cream",
+    "#E6DCC6"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#8F2120",
+    "#CC6E5F"
+   ],
+   "Secondary Data (Cool)": [
+    "#036E75",
+    "#79875E"
+   ],
+   "Tertiary / Support": [
+    "#E8DCC0",
+    "#E6DCC6"
+   ],
+   "Highlight / Accent": [
+    "#CC312C"
+   ],
+   "Backgrounds": [
+    "#E6DCC6",
+    "#F6F3EB"
+   ],
+   "Text / Lines": [
+    "#2D3539",
+    "#73433B"
+   ]
+  },
+  "diverging": [
+   "#11393D",
+   "#E6DCC6",
+   "#CC312C"
+  ],
+  "blurb": "A madder-red sky cools to blush above slate plum boughs, white blossoms bursting over the teal garden at Kameido. Warm reds carry the primary signal, deep teal and moss green structure comparisons, and soft creams recede into the background."
+ },
+ "sudden_shower_over_shin_ohashi": {
+  "title": "Sudden Shower over Shin-Ohashi Bridge and Atake",
+  "artist": "Utagawa Hiroshige",
+  "year": "1857",
+  "group": "Japanese Ukiyo-e",
+  "museum": "One Hundred Famous Views of Edo",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Cartouche Red",
+    "#B61D24"
+   ],
+   [
+    "Plank Amber",
+    "#D8A26D"
+   ],
+   [
+    "Straw Cloak",
+    "#A29F44"
+   ],
+   [
+    "Sumida Teal",
+    "#74A7AC"
+   ],
+   [
+    "Thundercloud",
+    "#34323A"
+   ],
+   [
+    "Timber Brown",
+    "#896245"
+   ],
+   [
+    "Atake Olive",
+    "#656E45"
+   ],
+   [
+    "Washi Ivory",
+    "#F3E8D0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#B61D24",
+    "#D8A26D"
+   ],
+   "Secondary Data (Cool)": [
+    "#A29F44",
+    "#74A7AC"
+   ],
+   "Tertiary / Support": [
+    "#E9DCBE",
+    "#F3E8D0"
+   ],
+   "Highlight / Accent": [
+    "#E02A26"
+   ],
+   "Backgrounds": [
+    "#F3E8D0",
+    "#FBF7EF"
+   ],
+   "Text / Lines": [
+    "#34323A",
+    "#6C482C"
+   ]
+  },
+  "diverging": [
+   "#36341F",
+   "#F3E8D0",
+   "#E02A26"
+  ],
+  "blurb": "An ink-black squall breaks over Shin-Ohashi, rain slanting across straw hats, tan planks, and the blue-green Sumida. The cartouche red serves as emphasis, warm timbers lead data series, and rain-cooled teal and olives supply calm mid-tone contrast."
+ },
+ "naruto_whirlpools": {
+  "title": "Awa Province: Naruto Whirlpools",
+  "artist": "Utagawa Hiroshige",
+  "year": "1855",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Views of Famous Places in the Sixty-odd Provinces",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Reef Coral",
+    "#C76550"
+   ],
+   [
+    "Dawn Gold",
+    "#D6B169"
+   ],
+   [
+    "Channel Blue",
+    "#2F6B92"
+   ],
+   [
+    "Celadon Swell",
+    "#8FB897"
+   ],
+   [
+    "Vortex Indigo",
+    "#1C3C55"
+   ],
+   [
+    "Shore Khaki",
+    "#8C8057"
+   ],
+   [
+    "Driftwood Sand",
+    "#CEB28B"
+   ],
+   [
+    "Spindrift",
+    "#F7F0E5"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C76550",
+    "#D6B169"
+   ],
+   "Secondary Data (Cool)": [
+    "#2F6B92",
+    "#8FB897"
+   ],
+   "Tertiary / Support": [
+    "#E5DCCE",
+    "#F7F0E5"
+   ],
+   "Highlight / Accent": [
+    "#DC553E"
+   ],
+   "Backgrounds": [
+    "#F7F0E5",
+    "#FCFAF6"
+   ],
+   "Text / Lines": [
+    "#1C3C55",
+    "#5A5029"
+   ]
+  },
+  "diverging": [
+   "#133D54",
+   "#F7F0E5",
+   "#DC553E"
+  ],
+  "blurb": "Prussian swells coil into a spindrift vortex beneath rose-brown crags and a pale dawn horizon at the Naruto strait. Coral and gold warms mark focal series against deep channel blues; sand neutrals and foam whites handle fills and backgrounds."
+ },
+ "evening_snow_at_kanbara": {
+  "title": "Evening Snow at Kanbara",
+  "artist": "Utagawa Hiroshige",
+  "year": "c. 1833",
+  "group": "Japanese Ukiyo-e",
+  "museum": "The Fifty-three Stations of the Tokaido",
+  "mode": "muted",
+  "colors": [
+   [
+    "Dusk Rose",
+    "#C79E8B"
+   ],
+   [
+    "Thatch Beige",
+    "#C0B294"
+   ],
+   [
+    "Traveler Blue",
+    "#555C74"
+   ],
+   [
+    "Snowdrift",
+    "#E7DCBE"
+   ],
+   [
+    "Night Ink",
+    "#3E3835"
+   ],
+   [
+    "Winter Pine",
+    "#666150"
+   ],
+   [
+    "Evening Gray",
+    "#928C81"
+   ],
+   [
+    "Hushed White",
+    "#F6F0E5"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C79E8B",
+    "#C0B294"
+   ],
+   "Secondary Data (Cool)": [
+    "#555C74"
+   ],
+   "Tertiary / Support": [
+    "#E2DCD1",
+    "#F6F0E5"
+   ],
+   "Highlight / Accent": [
+    "#C0755C"
+   ],
+   "Backgrounds": [
+    "#F6F0E5",
+    "#FCFAF6"
+   ],
+   "Text / Lines": [
+    "#E7DCBE",
+    "#575039"
+   ]
+  },
+  "diverging": [
+   "#32394D",
+   "#F6F0E5",
+   "#C0755C"
+  ],
+  "blurb": "Dusk settles in slate blue and hushed cream over Kanbara, thatched roofs and travelers muffled under fresh evening snow. Muted rose and beige lead the categorical series, cool grays give quiet structure, and a single inky dark carries text and axes."
+ },
+ "three_beauties": {
+  "title": "Three Beauties of the Present Day",
+  "artist": "Kitagawa Utamaro",
+  "year": "c. 1793",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Museum of Fine Arts, Boston",
+  "mode": "muted",
+  "colors": [
+   [
+    "Comb Gold",
+    "#D5B989"
+   ],
+   [
+    "Beni Russet",
+    "#925243"
+   ],
+   [
+    "Mica Ground",
+    "#A8A296"
+   ],
+   [
+    "Silk Greige",
+    "#D0C5B1"
+   ],
+   [
+    "Hair Lacquer",
+    "#343230"
+   ],
+   [
+    "Ash Kimono",
+    "#5F5950"
+   ],
+   [
+    "Fan Umber",
+    "#7A6A55"
+   ],
+   [
+    "Powder Cream",
+    "#E6E1D0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D5B989",
+    "#925243"
+   ],
+   "Secondary Data (Cool)": [
+    "#D0C5B1",
+    "#343230"
+   ],
+   "Tertiary / Support": [
+    "#E1DDCC",
+    "#E6E1D0"
+   ],
+   "Highlight / Accent": [
+    "#C25B44"
+   ],
+   "Backgrounds": [
+    "#E6E1D0",
+    "#F6F5EF"
+   ],
+   "Text / Lines": [
+    "#A8A296",
+    "#584F3E"
+   ]
+  },
+  "diverging": [
+   "#3A321E",
+   "#E6E1D0",
+   "#C25B44"
+  ],
+  "blurb": "Powdered faces and lacquer-black coiffures glow on a shimmering mica ground, warmed by gold combs and brick-red silk. Gold and russet lead the series, layered greiges build quiet hierarchy, and the deep hair-black anchors text in muted figures."
+ },
+ "beauty_looking_back": {
+  "title": "Beauty Looking Back",
+  "artist": "Hishikawa Moronobu",
+  "year": "17th century",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Tokyo National Museum",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Kimono Red",
+    "#AF3120"
+   ],
+   [
+    "Safflower",
+    "#8E3225"
+   ],
+   [
+    "Obi Green",
+    "#566128"
+   ],
+   [
+    "Silk Ground",
+    "#7B714A"
+   ],
+   [
+    "Chignon Black",
+    "#2A2126"
+   ],
+   [
+    "Aged Bronze",
+    "#8A6138"
+   ],
+   [
+    "Plum Blossom",
+    "#9E6165"
+   ],
+   [
+    "Petal Cream",
+    "#FFD3C5"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AF3120",
+    "#8E3225"
+   ],
+   "Secondary Data (Cool)": [
+    "#566128",
+    "#7B714A"
+   ],
+   "Tertiary / Support": [
+    "#FFD1BE",
+    "#FFD3C5"
+   ],
+   "Highlight / Accent": [
+    "#D32519"
+   ],
+   "Backgrounds": [
+    "#FFD3C5",
+    "#FFF0EB"
+   ],
+   "Text / Lines": [
+    "#281F24",
+    "#6B4927"
+   ]
+  },
+  "diverging": [
+   "#292914",
+   "#FFD3C5",
+   "#D32519"
+  ],
+  "blurb": "A vermilion kimono blooms with safflower dye against bare tan silk, anchored by lacquer-black hair. Warm reds carry primary signals and emphasis while olive, silk, and blossom neutrals recede into context and backgrounds."
+ },
+ "jakuchu_rooster": {
+  "title": "Nandina and Rooster",
+  "artist": "Ito Jakuchu",
+  "year": "c. 1761-1765",
+  "group": "Japanese Ukiyo-e",
+  "museum": "Sannomaru Shozokan, Tokyo",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Nandina Red",
+    "#C22D35"
+   ],
+   [
+    "Comb Russet",
+    "#A84A45"
+   ],
+   [
+    "Brocade Teal",
+    "#1E6A80"
+   ],
+   [
+    "Plume Sheen",
+    "#4E94A6"
+   ],
+   [
+    "Ink Feather",
+    "#3A393A"
+   ],
+   [
+    "Gilded Silk",
+    "#A8956B"
+   ],
+   [
+    "Winter Leaf",
+    "#544E25"
+   ],
+   [
+    "Blossom White",
+    "#E1DCD1"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C22D35",
+    "#A84A45"
+   ],
+   "Secondary Data (Cool)": [
+    "#1E6A80",
+    "#4E94A6"
+   ],
+   "Tertiary / Support": [
+    "#E2DCCD",
+    "#E1DCD1"
+   ],
+   "Highlight / Accent": [
+    "#DB0626"
+   ],
+   "Backgrounds": [
+    "#E1DCD1",
+    "#F5F3EF"
+   ],
+   "Text / Lines": [
+    "#3A393A",
+    "#5D4E28"
+   ]
+  },
+  "diverging": [
+   "#1A3D49",
+   "#E1DCD1",
+   "#DB0626"
+  ],
+  "blurb": "Scarlet nandina berries cascade over an ink-black rooster whose plumage flashes teal against gold-toned silk. Reds flag primary series and callouts; deep teals structure secondary data, with olive and silk neutrals holding supports and backgrounds."
+ },
+ "thousand_li_of_rivers_and_mountains": {
+  "title": "A Thousand Li of Rivers and Mountains",
+  "artist": "Wang Ximeng",
+  "year": "1113",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "muted",
+  "colors": [
+   [
+    "Golden Haze",
+    "#928152"
+   ],
+   [
+    "Ochre Shore",
+    "#754C31"
+   ],
+   [
+    "Azurite Peak",
+    "#52809C"
+   ],
+   [
+    "Malachite",
+    "#6B8B72"
+   ],
+   [
+    "Pine Ink",
+    "#3F3927"
+   ],
+   [
+    "Cliff Moss",
+    "#5A5130"
+   ],
+   [
+    "Deep Pool",
+    "#2D4141"
+   ],
+   [
+    "Celadon Mist",
+    "#D4E2C0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#928152",
+    "#754C31"
+   ],
+   "Secondary Data (Cool)": [
+    "#52809C",
+    "#6B8B72"
+   ],
+   "Tertiary / Support": [
+    "#D4E2C0",
+    "#D4E2C0"
+   ],
+   "Highlight / Accent": [
+    "#C08A3E"
+   ],
+   "Backgrounds": [
+    "#D4E2C0",
+    "#F0F5E9"
+   ],
+   "Text / Lines": [
+    "#3F3927",
+    "#5A5130"
+   ]
+  },
+  "diverging": [
+   "#1D3D4B",
+   "#D4E2C0",
+   "#C08A3E"
+  ],
+  "blurb": "Azurite peaks and malachite slopes roll across a thousand li of golden silk haze. Mineral blues and greens anchor the cool series, warm ochres lead primary channels, and a pale celadon wash stays clear for backgrounds."
+ },
+ "along_the_river_qingming": {
+  "title": "Along the River During the Qingming Festival",
+  "artist": "Zhang Zeduan",
+  "year": "12th century",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "muted",
+  "colors": [
+   [
+    "Gate Timber",
+    "#835238"
+   ],
+   [
+    "River Tan",
+    "#987E60"
+   ],
+   [
+    "Roof Umber",
+    "#463625"
+   ],
+   [
+    "Clay Railing",
+    "#B57F62"
+   ],
+   [
+    "Oxcart Brown",
+    "#5E4C3A"
+   ],
+   [
+    "Worn Silk",
+    "#B29D88"
+   ],
+   [
+    "Willow Ink",
+    "#77755A"
+   ],
+   [
+    "Dawn Haze",
+    "#F1D9BB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#835238",
+    "#987E60"
+   ],
+   "Secondary Data (Cool)": [
+    "#987E60",
+    "#835238"
+   ],
+   "Tertiary / Support": [
+    "#F1D9BB",
+    "#F1D9BB"
+   ],
+   "Highlight / Accent": [
+    "#BC4A2E"
+   ],
+   "Backgrounds": [
+    "#F1D9BB",
+    "#FAF2E7"
+   ],
+   "Text / Lines": [
+    "#463625",
+    "#463625"
+   ]
+  },
+  "diverging": [
+   "#463625",
+   "#F1D9BB",
+   "#BC4A2E"
+  ],
+  "blurb": "Sepia ink on worn silk records a bustling gate tower, camel trains, and bare willows along the Bian River. Graded browns rank series by depth in near-monochrome figures, while a vermilion seal red stands ready as the lone deliberate accent."
+ },
+ "dwelling_in_the_fuchun_mountains": {
+  "title": "Dwelling in the Fuchun Mountains",
+  "artist": "Huang Gongwang",
+  "year": "1350",
+  "group": "Chinese Classical",
+  "museum": "National Palace Museum, Taipei",
+  "mode": "muted",
+  "colors": [
+   [
+    "Autumn Clay",
+    "#9B725B"
+   ],
+   [
+    "Sandbar",
+    "#D1B193"
+   ],
+   [
+    "Deep Pine",
+    "#343B32"
+   ],
+   [
+    "Reed Paper",
+    "#C9C495"
+   ],
+   [
+    "Hemp Stroke",
+    "#6F6746"
+   ],
+   [
+    "Charred Ink",
+    "#232517"
+   ],
+   [
+    "River Mist",
+    "#5A6861"
+   ],
+   [
+    "Aged Scroll",
+    "#E4DEBB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9B725B",
+    "#D1B193"
+   ],
+   "Secondary Data (Cool)": [
+    "#6F6746",
+    "#404233"
+   ],
+   "Tertiary / Support": [
+    "#E4DEBB",
+    "#E4DEBB"
+   ],
+   "Highlight / Accent": [
+    "#C25B3F"
+   ],
+   "Backgrounds": [
+    "#E4DEBB",
+    "#F5F3E7"
+   ],
+   "Text / Lines": [
+    "#343B32",
+    "#575032"
+   ]
+  },
+  "diverging": [
+   "#2D3D2B",
+   "#E4DEBB",
+   "#C25B3F"
+  ],
+  "blurb": "Dry hemp-fiber strokes and charred ink settle onto aged paper along the calm Fuchun River. Ink greens and olives separate structural layers, pale paper tones keep panels airy, and a muted clay red is reserved for sparse emphasis."
+ },
+ "nymph_of_the_luo_river": {
+  "title": "Nymph of the Luo River",
+  "artist": "Gu Kaizhi (Song copy)",
+  "year": "Song copy of 4th c. original",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Luo Amber",
+    "#DD8854"
+   ],
+   [
+    "Dragon Sienna",
+    "#9F5A3D"
+   ],
+   [
+    "Ink Tresses",
+    "#4F322D"
+   ],
+   [
+    "Canopy Red",
+    "#7A3B26"
+   ],
+   [
+    "Cloud Rose",
+    "#825952"
+   ],
+   [
+    "Wave Mauve",
+    "#A3776F"
+   ],
+   [
+    "River Silt",
+    "#7D6B51"
+   ],
+   [
+    "Dusk Silk",
+    "#FFD4B0"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#DD8854",
+    "#9F5A3D"
+   ],
+   "Secondary Data (Cool)": [
+    "#7A3B26"
+   ],
+   "Tertiary / Support": [
+    "#FED5B4",
+    "#FFD4B0"
+   ],
+   "Highlight / Accent": [
+    "#E06831"
+   ],
+   "Backgrounds": [
+    "#FFD4B0",
+    "#FFF0E3"
+   ],
+   "Text / Lines": [
+    "#4F322D",
+    "#7A3B26"
+   ]
+  },
+  "diverging": [
+   "#4F322D",
+   "#FFD4B0",
+   "#E06831"
+  ],
+  "blurb": "Amber-toned silk bears the Luo goddess across dragon-drawn waves sketched in warm sienna line. Apricot-to-chestnut steps encode ordered depth on one warm axis, while rose and silt supports keep categorical panels legible."
+ }
+}

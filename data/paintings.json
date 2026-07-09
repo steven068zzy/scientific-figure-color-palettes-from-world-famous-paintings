@@ -1,0 +1,1041 @@
+[
+ {
+  "slug": "mona_lisa",
+  "title": "Mona Lisa",
+  "artist": "Leonardo da Vinci",
+  "year": "c. 1503-1506",
+  "medium": "Oil on poplar panel",
+  "museum": "Louvre, Paris",
+  "wiki": "Mona_Lisa",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "last_supper",
+  "title": "The Last Supper",
+  "artist": "Leonardo da Vinci",
+  "year": "1495-1498",
+  "medium": "Tempera on gesso",
+  "museum": "Santa Maria delle Grazie, Milan",
+  "wiki": "The_Last_Supper_(Leonardo)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "birth_of_venus",
+  "title": "The Birth of Venus",
+  "artist": "Sandro Botticelli",
+  "year": "c. 1485",
+  "medium": "Tempera on canvas",
+  "museum": "Uffizi Gallery, Florence",
+  "wiki": "The_Birth_of_Venus",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "primavera",
+  "title": "Primavera",
+  "artist": "Sandro Botticelli",
+  "year": "c. 1480",
+  "medium": "Tempera on panel",
+  "museum": "Uffizi Gallery, Florence",
+  "wiki": "Primavera_(Botticelli)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "creation_of_adam",
+  "title": "The Creation of Adam",
+  "artist": "Michelangelo",
+  "year": "c. 1512",
+  "medium": "Fresco",
+  "museum": "Sistine Chapel, Vatican",
+  "wiki": "The_Creation_of_Adam",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "school_of_athens",
+  "title": "The School of Athens",
+  "artist": "Raphael",
+  "year": "1509-1511",
+  "medium": "Fresco",
+  "museum": "Apostolic Palace, Vatican",
+  "wiki": "The_School_of_Athens",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "sistine_madonna",
+  "title": "Sistine Madonna",
+  "artist": "Raphael",
+  "year": "1512",
+  "medium": "Oil on canvas",
+  "museum": "Gemaldegalerie Alte Meister, Dresden",
+  "wiki": "Sistine_Madonna",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "venus_of_urbino",
+  "title": "Venus of Urbino",
+  "artist": "Titian",
+  "year": "1534",
+  "medium": "Oil on canvas",
+  "museum": "Uffizi Gallery, Florence",
+  "wiki": "Venus_of_Urbino",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "bacchus_and_ariadne",
+  "title": "Bacchus and Ariadne",
+  "artist": "Titian",
+  "year": "1522-1523",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "Bacchus_and_Ariadne",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "arnolfini_portrait",
+  "title": "The Arnolfini Portrait",
+  "artist": "Jan van Eyck",
+  "year": "1434",
+  "medium": "Oil on oak panel",
+  "museum": "National Gallery, London",
+  "wiki": "Arnolfini_Portrait",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "garden_of_earthly_delights",
+  "title": "The Garden of Earthly Delights",
+  "artist": "Hieronymus Bosch",
+  "year": "1490-1510",
+  "medium": "Oil on oak panel",
+  "museum": "Museo del Prado, Madrid",
+  "wiki": "The_Garden_of_Earthly_Delights",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "hunters_in_the_snow",
+  "title": "The Hunters in the Snow",
+  "artist": "Pieter Bruegel the Elder",
+  "year": "1565",
+  "medium": "Oil on wood panel",
+  "museum": "Kunsthistorisches Museum, Vienna",
+  "wiki": "The_Hunters_in_the_Snow",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "tower_of_babel",
+  "title": "The Tower of Babel",
+  "artist": "Pieter Bruegel the Elder",
+  "year": "1563",
+  "medium": "Oil on panel",
+  "museum": "Kunsthistorisches Museum, Vienna",
+  "wiki": "The_Tower_of_Babel_(Bruegel)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "the_ambassadors",
+  "title": "The Ambassadors",
+  "artist": "Hans Holbein the Younger",
+  "year": "1533",
+  "medium": "Oil on oak panel",
+  "museum": "National Gallery, London",
+  "wiki": "The_Ambassadors_(Holbein)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "young_hare",
+  "title": "Young Hare",
+  "artist": "Albrecht Durer",
+  "year": "1502",
+  "medium": "Watercolour and bodycolour",
+  "museum": "Albertina, Vienna",
+  "wiki": "Young_Hare",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "vertumnus",
+  "title": "Vertumnus",
+  "artist": "Giuseppe Arcimboldo",
+  "year": "1591",
+  "medium": "Oil on panel",
+  "museum": "Skokloster Castle, Sweden",
+  "wiki": "Vertumnus_(painting)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "view_of_toledo",
+  "title": "View of Toledo",
+  "artist": "El Greco",
+  "year": "c. 1600",
+  "medium": "Oil on canvas",
+  "museum": "Metropolitan Museum of Art, New York",
+  "wiki": "View_of_Toledo",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "las_meninas",
+  "title": "Las Meninas",
+  "artist": "Diego Velazquez",
+  "year": "1656",
+  "medium": "Oil on canvas",
+  "museum": "Museo del Prado, Madrid",
+  "wiki": "Las_Meninas",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "calling_of_saint_matthew",
+  "title": "The Calling of Saint Matthew",
+  "artist": "Caravaggio",
+  "year": "1599-1600",
+  "medium": "Oil on canvas",
+  "museum": "San Luigi dei Francesi, Rome",
+  "wiki": "The_Calling_of_St_Matthew_(Caravaggio)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "night_watch",
+  "title": "The Night Watch",
+  "artist": "Rembrandt van Rijn",
+  "year": "1642",
+  "medium": "Oil on canvas",
+  "museum": "Rijksmuseum, Amsterdam",
+  "wiki": "The_Night_Watch",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "girl_with_a_pearl_earring",
+  "title": "Girl with a Pearl Earring",
+  "artist": "Johannes Vermeer",
+  "year": "c. 1665",
+  "medium": "Oil on canvas",
+  "museum": "Mauritshuis, The Hague",
+  "wiki": "Girl_with_a_Pearl_Earring",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "the_milkmaid",
+  "title": "The Milkmaid",
+  "artist": "Johannes Vermeer",
+  "year": "c. 1658-1660",
+  "medium": "Oil on canvas",
+  "museum": "Rijksmuseum, Amsterdam",
+  "wiki": "The_Milkmaid_(Vermeer)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "the_blue_boy",
+  "title": "The Blue Boy",
+  "artist": "Thomas Gainsborough",
+  "year": "c. 1770",
+  "medium": "Oil on canvas",
+  "museum": "Huntington Library, San Marino",
+  "wiki": "The_Blue_Boy",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "the_swing",
+  "title": "The Swing",
+  "artist": "Jean-Honore Fragonard",
+  "year": "1767",
+  "medium": "Oil on canvas",
+  "museum": "Wallace Collection, London",
+  "wiki": "The_Swing_(Fragonard)",
+  "group": "Renaissance & Baroque"
+ },
+ {
+  "slug": "napoleon_crossing_the_alps",
+  "title": "Napoleon Crossing the Alps",
+  "artist": "Jacques-Louis David",
+  "year": "1801",
+  "medium": "Oil on canvas",
+  "museum": "Chateau de Malmaison",
+  "wiki": "Napoleon_Crossing_the_Alps",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "oath_of_the_horatii",
+  "title": "Oath of the Horatii",
+  "artist": "Jacques-Louis David",
+  "year": "1784",
+  "medium": "Oil on canvas",
+  "museum": "Louvre, Paris",
+  "wiki": "Oath_of_the_Horatii",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "grande_odalisque",
+  "title": "Grande Odalisque",
+  "artist": "Jean-Auguste-Dominique Ingres",
+  "year": "1814",
+  "medium": "Oil on canvas",
+  "museum": "Louvre, Paris",
+  "wiki": "Grande_Odalisque",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "liberty_leading_the_people",
+  "title": "Liberty Leading the People",
+  "artist": "Eugene Delacroix",
+  "year": "1830",
+  "medium": "Oil on canvas",
+  "museum": "Louvre, Paris",
+  "wiki": "Liberty_Leading_the_People",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "raft_of_the_medusa",
+  "title": "The Raft of the Medusa",
+  "artist": "Theodore Gericault",
+  "year": "1818-1819",
+  "medium": "Oil on canvas",
+  "museum": "Louvre, Paris",
+  "wiki": "The_Raft_of_the_Medusa",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "third_of_may_1808",
+  "title": "The Third of May 1808",
+  "artist": "Francisco Goya",
+  "year": "1814",
+  "medium": "Oil on canvas",
+  "museum": "Museo del Prado, Madrid",
+  "wiki": "The_Third_of_May_1808",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "the_parasol",
+  "title": "The Parasol",
+  "artist": "Francisco Goya",
+  "year": "1777",
+  "medium": "Oil on linen",
+  "museum": "Museo del Prado, Madrid",
+  "wiki": "The_Parasol",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "wanderer_above_the_sea_of_fog",
+  "title": "Wanderer above the Sea of Fog",
+  "artist": "Caspar David Friedrich",
+  "year": "c. 1818",
+  "medium": "Oil on canvas",
+  "museum": "Kunsthalle Hamburg",
+  "wiki": "Wanderer_above_the_Sea_of_Fog",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "fighting_temeraire",
+  "title": "The Fighting Temeraire",
+  "artist": "J. M. W. Turner",
+  "year": "1839",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "The_Fighting_Temeraire",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "rain_steam_and_speed",
+  "title": "Rain, Steam and Speed",
+  "artist": "J. M. W. Turner",
+  "year": "1844",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "the_hay_wain",
+  "title": "The Hay Wain",
+  "artist": "John Constable",
+  "year": "1821",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "The_Hay_Wain",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "the_gleaners",
+  "title": "The Gleaners",
+  "artist": "Jean-Francois Millet",
+  "year": "1857",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "The_Gleaners",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "ophelia",
+  "title": "Ophelia",
+  "artist": "John Everett Millais",
+  "year": "1851-1852",
+  "medium": "Oil on canvas",
+  "museum": "Tate Britain, London",
+  "wiki": "Ophelia_(painting)",
+  "group": "Romanticism & Realism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg"
+ },
+ {
+  "slug": "lady_of_shalott",
+  "title": "The Lady of Shalott",
+  "artist": "John William Waterhouse",
+  "year": "1888",
+  "medium": "Oil on canvas",
+  "museum": "Tate Britain, London",
+  "wiki": "The_Lady_of_Shalott_(painting)",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "flaming_june",
+  "title": "Flaming June",
+  "artist": "Frederic Leighton",
+  "year": "1895",
+  "medium": "Oil on canvas",
+  "museum": "Museo de Arte de Ponce, Puerto Rico",
+  "wiki": "Flaming_June",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "the_kiss_hayez",
+  "title": "The Kiss",
+  "artist": "Francesco Hayez",
+  "year": "1859",
+  "medium": "Oil on canvas",
+  "museum": "Pinacoteca di Brera, Milan",
+  "wiki": "The_Kiss_(Hayez)",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "whistlers_mother",
+  "title": "Whistler's Mother",
+  "artist": "James McNeill Whistler",
+  "year": "1871",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "Whistler's_Mother",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "carnation_lily_lily_rose",
+  "title": "Carnation, Lily, Lily, Rose",
+  "artist": "John Singer Sargent",
+  "year": "1885-1886",
+  "medium": "Oil on canvas",
+  "museum": "Tate Britain, London",
+  "wiki": "Carnation,_Lily,_Lily,_Rose",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "the_ninth_wave",
+  "title": "The Ninth Wave",
+  "artist": "Ivan Aivazovsky",
+  "year": "1850",
+  "medium": "Oil on canvas",
+  "museum": "Russian Museum, Saint Petersburg",
+  "wiki": "The_Ninth_Wave",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "barge_haulers_on_the_volga",
+  "title": "Barge Haulers on the Volga",
+  "artist": "Ilya Repin",
+  "year": "1870-1873",
+  "medium": "Oil on canvas",
+  "museum": "Russian Museum, Saint Petersburg",
+  "wiki": "Barge_Haulers_on_the_Volga",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "morning_in_a_pine_forest",
+  "title": "Morning in a Pine Forest",
+  "artist": "Ivan Shishkin",
+  "year": "1889",
+  "medium": "Oil on canvas",
+  "museum": "Tretyakov Gallery, Moscow",
+  "wiki": "Morning_in_a_Pine_Forest",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "breezing_up",
+  "title": "Breezing Up (A Fair Wind)",
+  "artist": "Winslow Homer",
+  "year": "1873-1876",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery of Art, Washington",
+  "wiki": "Breezing_Up_(A_Fair_Wind)",
+  "group": "Romanticism & Realism"
+ },
+ {
+  "slug": "american_gothic",
+  "title": "American Gothic",
+  "artist": "Grant Wood",
+  "year": "1930",
+  "medium": "Oil on beaverboard",
+  "museum": "Art Institute of Chicago",
+  "wiki": "American_Gothic",
+  "group": "Modern"
+ },
+ {
+  "slug": "impression_sunrise",
+  "title": "Impression, Sunrise",
+  "artist": "Claude Monet",
+  "year": "1872",
+  "medium": "Oil on canvas",
+  "museum": "Musee Marmottan Monet, Paris",
+  "wiki": "Impression,_Sunrise",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "woman_with_a_parasol",
+  "title": "Woman with a Parasol",
+  "artist": "Claude Monet",
+  "year": "1875",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery of Art, Washington",
+  "wiki": "Woman_with_a_Parasol_%E2%80%93_Madame_Monet_and_Her_Son",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "water_lilies",
+  "title": "Water Lilies",
+  "artist": "Claude Monet",
+  "year": "1906",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "Water_Lilies_(Monet_series)",
+  "group": "Impressionism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg"
+ },
+ {
+  "slug": "japanese_footbridge",
+  "title": "The Japanese Footbridge",
+  "artist": "Claude Monet",
+  "year": "1899",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery of Art, Washington",
+  "wiki": "Water_Lily_Pond_(Monet_series)",
+  "group": "Impressionism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Claude_Monet%2C_The_Japanese_Footbridge%2C_1899%2C_NGA_74796.jpg/1280px-Claude_Monet%2C_The_Japanese_Footbridge%2C_1899%2C_NGA_74796.jpg"
+ },
+ {
+  "slug": "luncheon_of_the_boating_party",
+  "title": "Luncheon of the Boating Party",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1880-1881",
+  "medium": "Oil on canvas",
+  "museum": "Phillips Collection, Washington",
+  "wiki": "Luncheon_of_the_Boating_Party",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "bal_du_moulin_de_la_galette",
+  "title": "Bal du moulin de la Galette",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1876",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "Bal_du_moulin_de_la_Galette",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "two_sisters_on_the_terrace",
+  "title": "Two Sisters (On the Terrace)",
+  "artist": "Pierre-Auguste Renoir",
+  "year": "1881",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "Two_Sisters_(Renoir)",
+  "group": "Impressionism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pierre-Auguste_Renoir_-_Two_Sisters_%28On_the_Terrace%29_-_1933.455_-_Art_Institute_of_Chicago.jpg/1280px-Pierre-Auguste_Renoir_-_Two_Sisters_%28On_the_Terrace%29_-_1933.455_-_Art_Institute_of_Chicago.jpg"
+ },
+ {
+  "slug": "the_ballet_class",
+  "title": "The Ballet Class",
+  "artist": "Edgar Degas",
+  "year": "1871-1874",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "The_Ballet_Class_(Degas,_Mus%C3%A9e_d%27Orsay)",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "paris_street_rainy_day",
+  "title": "Paris Street; Rainy Day",
+  "artist": "Gustave Caillebotte",
+  "year": "1877",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "Paris_Street;_Rainy_Day",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "boulevard_montmartre_at_night",
+  "title": "The Boulevard Montmartre at Night",
+  "artist": "Camille Pissarro",
+  "year": "1897",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "The_Boulevard_Montmartre_at_Night",
+  "group": "Impressionism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg/1280px-Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg"
+ },
+ {
+  "slug": "the_childs_bath",
+  "title": "The Child's Bath",
+  "artist": "Mary Cassatt",
+  "year": "1893",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "The_Child's_Bath",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "a_sunday_on_la_grande_jatte",
+  "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+  "artist": "Georges Seurat",
+  "year": "1884-1886",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "bathers_at_asnieres",
+  "title": "Bathers at Asnieres",
+  "artist": "Georges Seurat",
+  "year": "1884",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "Bathers_at_Asni%C3%A8res",
+  "group": "Impressionism"
+ },
+ {
+  "slug": "starry_night",
+  "title": "The Starry Night",
+  "artist": "Vincent van Gogh",
+  "year": "1889",
+  "medium": "Oil on canvas",
+  "museum": "Museum of Modern Art, New York",
+  "wiki": "The_Starry_Night",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "sunflowers",
+  "title": "Sunflowers",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "medium": "Oil on canvas",
+  "museum": "National Gallery, London",
+  "wiki": "Sunflowers_(Van_Gogh_series)",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "cafe_terrace_at_night",
+  "title": "Cafe Terrace at Night",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "medium": "Oil on canvas",
+  "museum": "Kroller-Muller Museum, Otterlo",
+  "wiki": "Caf%C3%A9_Terrace_at_Night",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "irises",
+  "title": "Irises",
+  "artist": "Vincent van Gogh",
+  "year": "1889",
+  "medium": "Oil on canvas",
+  "museum": "J. Paul Getty Museum, Los Angeles",
+  "wiki": "Irises_(painting)",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "the_bedroom",
+  "title": "The Bedroom",
+  "artist": "Vincent van Gogh",
+  "year": "1888",
+  "medium": "Oil on canvas",
+  "museum": "Van Gogh Museum, Amsterdam",
+  "wiki": "Bedroom_in_Arles",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "tahitian_women_on_the_beach",
+  "title": "Tahitian Women on the Beach",
+  "artist": "Paul Gauguin",
+  "year": "1891",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "Tahitian_Women_on_the_Beach",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "the_card_players",
+  "title": "The Card Players",
+  "artist": "Paul Cezanne",
+  "year": "1890-1895",
+  "medium": "Oil on canvas",
+  "museum": "Musee d'Orsay, Paris",
+  "wiki": "The_Card_Players",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "mont_sainte_victoire",
+  "title": "Mont Sainte-Victoire",
+  "artist": "Paul Cezanne",
+  "year": "c. 1904",
+  "medium": "Oil on canvas",
+  "museum": "Philadelphia Museum of Art",
+  "wiki": "Mont_Sainte-Victoire_(C%C3%A9zanne)",
+  "group": "Post-Impressionism",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg/1280px-Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg"
+ },
+ {
+  "slug": "the_basket_of_apples",
+  "title": "The Basket of Apples",
+  "artist": "Paul Cezanne",
+  "year": "c. 1893",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "The_Basket_of_Apples",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "at_the_moulin_rouge",
+  "title": "At the Moulin Rouge",
+  "artist": "Henri de Toulouse-Lautrec",
+  "year": "1892-1895",
+  "medium": "Oil on canvas",
+  "museum": "Art Institute of Chicago",
+  "wiki": "At_the_Moulin_Rouge",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "the_sleeping_gypsy",
+  "title": "The Sleeping Gypsy",
+  "artist": "Henri Rousseau",
+  "year": "1897",
+  "medium": "Oil on canvas",
+  "museum": "Museum of Modern Art, New York",
+  "wiki": "The_Sleeping_Gypsy",
+  "group": "Post-Impressionism"
+ },
+ {
+  "slug": "the_scream",
+  "title": "The Scream",
+  "artist": "Edvard Munch",
+  "year": "1893",
+  "medium": "Oil, tempera and pastel on cardboard",
+  "museum": "National Museum, Oslo",
+  "wiki": "The_Scream",
+  "group": "Modern"
+ },
+ {
+  "slug": "the_kiss_klimt",
+  "title": "The Kiss",
+  "artist": "Gustav Klimt",
+  "year": "1907-1908",
+  "medium": "Oil and gold leaf on canvas",
+  "museum": "Belvedere, Vienna",
+  "wiki": "The_Kiss_(Klimt)",
+  "group": "Modern"
+ },
+ {
+  "slug": "adele_bloch_bauer",
+  "title": "Portrait of Adele Bloch-Bauer I",
+  "artist": "Gustav Klimt",
+  "year": "1907",
+  "medium": "Oil, silver and gold on canvas",
+  "museum": "Neue Galerie, New York",
+  "wiki": "Portrait_of_Adele_Bloch-Bauer_I",
+  "group": "Modern"
+ },
+ {
+  "slug": "four_trees",
+  "title": "Four Trees",
+  "artist": "Egon Schiele",
+  "year": "1917",
+  "medium": "Oil on canvas",
+  "museum": "Belvedere, Vienna",
+  "wiki": "Four_Trees_(Egon_Schiele)",
+  "group": "Modern",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Egon_Schiele_-_Vier_B%C3%A4ume_-_3917_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Egon_Schiele_-_Vier_B%C3%A4ume_-_3917_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+ },
+ {
+  "slug": "jeanne_hebuterne",
+  "title": "Jeanne Hebuterne",
+  "artist": "Amedeo Modigliani",
+  "year": "1919",
+  "medium": "Oil on canvas",
+  "museum": "Metropolitan Museum of Art, New York",
+  "wiki": "Jeanne_H%C3%A9buterne",
+  "group": "Modern",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg/1280px-Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg"
+ },
+ {
+  "slug": "senecio",
+  "title": "Senecio",
+  "artist": "Paul Klee",
+  "year": "1922",
+  "medium": "Oil on gauze",
+  "museum": "Kunstmuseum Basel",
+  "wiki": "Senecio_(Klee)",
+  "group": "Modern"
+ },
+ {
+  "slug": "composition_viii",
+  "title": "Composition VIII",
+  "artist": "Wassily Kandinsky",
+  "year": "1923",
+  "medium": "Oil on canvas",
+  "museum": "Guggenheim Museum, New York",
+  "wiki": "Composition_VIII",
+  "group": "Modern",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vassily_Kandinsky%2C_1923_-_Composition_8%2C_huile_sur_toile%2C_140_cm_x_201_cm%2C_Mus%C3%A9e_Guggenheim%2C_New_York.jpg/1280px-Vassily_Kandinsky%2C_1923_-_Composition_8%2C_huile_sur_toile%2C_140_cm_x_201_cm%2C_Mus%C3%A9e_Guggenheim%2C_New_York.jpg"
+ },
+ {
+  "slug": "composition_red_blue_yellow",
+  "title": "Composition II in Red, Blue, and Yellow",
+  "artist": "Piet Mondrian",
+  "year": "1930",
+  "medium": "Oil on canvas",
+  "museum": "Kunsthaus Zurich",
+  "wiki": "Composition_II_in_Red,_Blue,_and_Yellow",
+  "group": "Modern",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/1280px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg"
+ },
+ {
+  "slug": "dance",
+  "title": "Dance",
+  "artist": "Henri Matisse",
+  "year": "1910",
+  "medium": "Oil on canvas",
+  "museum": "Hermitage Museum, Saint Petersburg",
+  "wiki": "Dance_(Matisse)",
+  "group": "Modern"
+ },
+ {
+  "slug": "goldfish",
+  "title": "Goldfish",
+  "artist": "Henri Matisse",
+  "year": "1912",
+  "medium": "Oil on canvas",
+  "museum": "Pushkin Museum, Moscow",
+  "wiki": "Goldfish_(Matisse)",
+  "group": "Modern"
+ },
+ {
+  "slug": "large_blue_horses",
+  "title": "The Large Blue Horses",
+  "artist": "Franz Marc",
+  "year": "1911",
+  "medium": "Oil on canvas",
+  "museum": "Walker Art Center, Minneapolis",
+  "wiki": "The_Large_Blue_Horses",
+  "group": "Modern",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Franz_Marc_-_Die_gro%C3%9Fen_blauen_Pferde_1911.jpg/1280px-Franz_Marc_-_Die_gro%C3%9Fen_blauen_Pferde_1911.jpg"
+ },
+ {
+  "slug": "great_wave",
+  "title": "The Great Wave off Kanagawa",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1831",
+  "medium": "Woodblock print",
+  "museum": "Metropolitan Museum of Art, New York",
+  "wiki": "The_Great_Wave_off_Kanagawa",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "red_fuji",
+  "title": "Fine Wind, Clear Morning",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1831",
+  "medium": "Woodblock print",
+  "museum": "Various collections",
+  "wiki": "Fine_Wind,_Clear_Morning",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "kirifuri_waterfall",
+  "title": "Kirifuri Waterfall at Kurokami Mountain",
+  "artist": "Katsushika Hokusai",
+  "year": "c. 1832",
+  "medium": "Woodblock print",
+  "museum": "Various collections",
+  "wiki": "A_Tour_of_the_Waterfalls_of_the_Provinces",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "plum_park_in_kameido",
+  "title": "Plum Park in Kameido",
+  "artist": "Utagawa Hiroshige",
+  "year": "1857",
+  "medium": "Woodblock print",
+  "museum": "One Hundred Famous Views of Edo",
+  "wiki": "Plum_Park_in_Kameido",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "sudden_shower_over_shin_ohashi",
+  "title": "Sudden Shower over Shin-Ohashi Bridge and Atake",
+  "artist": "Utagawa Hiroshige",
+  "year": "1857",
+  "medium": "Woodblock print",
+  "museum": "One Hundred Famous Views of Edo",
+  "wiki": "Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "naruto_whirlpools",
+  "title": "Awa Province: Naruto Whirlpools",
+  "artist": "Utagawa Hiroshige",
+  "year": "1855",
+  "medium": "Woodblock print",
+  "museum": "Views of Famous Places in the Sixty-odd Provinces",
+  "wiki": "Utagawa_Hiroshige",
+  "group": "Japanese Ukiyo-e",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%E5%85%AD%E5%8D%81%E4%BD%99%E5%B7%9E%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E9%98%BF%E6%B3%A2_%E9%B3%B4%E9%96%80%E3%81%AE%E9%A2%A8%E6%B3%A2-Naruto_Whirlpool%2C_Awa_Province%2C_from_the_series_Views_of_Famous_Places_in_the_Sixty-Odd_Provinces_MET_DP122165.jpg/1280px-thumbnail.jpg"
+ },
+ {
+  "slug": "evening_snow_at_kanbara",
+  "title": "Evening Snow at Kanbara",
+  "artist": "Utagawa Hiroshige",
+  "year": "c. 1833",
+  "medium": "Woodblock print",
+  "museum": "The Fifty-three Stations of the Tokaido",
+  "wiki": "The_Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D",
+  "group": "Japanese Ukiyo-e",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E8%92%B2%E5%8E%9F_%E5%A4%9C%E3%81%AE%E9%9B%AA-Evening_Snow_at_Kanbara%2C_from_the_series_%22Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D%22_MET_DP109333.jpg/1280px-%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E8%92%B2%E5%8E%9F_%E5%A4%9C%E3%81%AE%E9%9B%AA-Evening_Snow_at_Kanbara%2C_from_the_series_%22Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D%22_MET_DP109333.jpg"
+ },
+ {
+  "slug": "three_beauties",
+  "title": "Three Beauties of the Present Day",
+  "artist": "Kitagawa Utamaro",
+  "year": "c. 1793",
+  "medium": "Woodblock print",
+  "museum": "Museum of Fine Arts, Boston",
+  "wiki": "Three_Beauties_of_the_Present_Day",
+  "group": "Japanese Ukiyo-e"
+ },
+ {
+  "slug": "beauty_looking_back",
+  "title": "Beauty Looking Back",
+  "artist": "Hishikawa Moronobu",
+  "year": "17th century",
+  "medium": "Ink and color on silk",
+  "museum": "Tokyo National Museum",
+  "wiki": "Hishikawa_Moronobu",
+  "group": "Japanese Ukiyo-e",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hishikawa_Moronobu_-_Beauty_Looking_Back_-_Google_Art_Project.jpg/1280px-Hishikawa_Moronobu_-_Beauty_Looking_Back_-_Google_Art_Project.jpg"
+ },
+ {
+  "slug": "jakuchu_rooster",
+  "title": "Nandina and Rooster",
+  "artist": "Ito Jakuchu",
+  "year": "c. 1761-1765",
+  "medium": "Ink and color on silk",
+  "museum": "Sannomaru Shozokan, Tokyo",
+  "wiki": "It%C5%8D_Jakuch%C5%AB",
+  "group": "Japanese Ukiyo-e",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg"
+ },
+ {
+  "slug": "thousand_li_of_rivers_and_mountains",
+  "title": "A Thousand Li of Rivers and Mountains",
+  "artist": "Wang Ximeng",
+  "year": "1113",
+  "medium": "Ink and color on silk",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "A_Thousand_Li_of_Rivers_and_Mountains",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "along_the_river_qingming",
+  "title": "Along the River During the Qingming Festival",
+  "artist": "Zhang Zeduan",
+  "year": "12th century",
+  "medium": "Ink and color on silk",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "Along_the_River_During_the_Qingming_Festival",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "dwelling_in_the_fuchun_mountains",
+  "title": "Dwelling in the Fuchun Mountains",
+  "artist": "Huang Gongwang",
+  "year": "1350",
+  "medium": "Ink on paper",
+  "museum": "National Palace Museum, Taipei",
+  "wiki": "Dwelling_in_the_Fuchun_Mountains",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "nymph_of_the_luo_river",
+  "title": "Nymph of the Luo River",
+  "artist": "Gu Kaizhi (Song copy)",
+  "year": "Song copy of 4th c. original",
+  "medium": "Ink and color on silk",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "Nymph_of_the_Luo_River",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "night_revels_of_han_xizai",
+  "title": "The Night Revels of Han Xizai",
+  "artist": "Gu Hongzhong (Song copy)",
+  "year": "Song copy of 10th c. original",
+  "medium": "Ink and color on silk",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "The_Night_Revels_of_Han_Xizai",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "five_oxen",
+  "title": "Five Oxen",
+  "artist": "Han Huang",
+  "year": "8th century",
+  "medium": "Ink and color on paper",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "Five_Oxen",
+  "group": "Chinese Classical",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD%2C_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg/3840px-%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD%2C_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg"
+ },
+ {
+  "slug": "bunian_tu",
+  "title": "Emperor Taizong Receiving the Tibetan Envoy",
+  "artist": "Yan Liben",
+  "year": "7th century (Song copy)",
+  "medium": "Ink and color on silk",
+  "museum": "Palace Museum, Beijing",
+  "wiki": "Bunian_Tu",
+  "group": "Chinese Classical"
+ },
+ {
+  "slug": "court_ladies_preparing_silk",
+  "title": "Court Ladies Preparing Newly Woven Silk",
+  "artist": "Zhang Xuan (Huizong copy)",
+  "year": "12th century copy of 8th c. original",
+  "medium": "Ink and color on silk",
+  "museum": "Museum of Fine Arts, Boston",
+  "wiki": "Court_Ladies_Preparing_Newly_Woven_Silk",
+  "group": "Chinese Classical",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Court_Ladies_Preparing_Newly_Woven_Silk_%28%E6%8D%A3%E7%BB%83%E5%9B%BE%29_by_Emperor_Huizong_%281082%E2%80%931135%29.jpg"
+ },
+ {
+  "slug": "court_ladies_adorning_with_flowers",
+  "title": "Court Ladies Adorning Their Hair with Flowers",
+  "artist": "Zhou Fang",
+  "year": "8th century",
+  "medium": "Ink and color on silk",
+  "museum": "Liaoning Provincial Museum",
+  "wiki": "Zhou_Fang_(Tang_dynasty)",
+  "group": "Chinese Classical",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._%2846x180%29_Liaoning_Provincial_Museum%2C_Shenyang..jpg/3840px-Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._%2846x180%29_Liaoning_Provincial_Museum%2C_Shenyang..jpg"
+ },
+ {
+  "slug": "one_hundred_horses",
+  "title": "One Hundred Horses",
+  "artist": "Giuseppe Castiglione (Lang Shining)",
+  "year": "1728",
+  "medium": "Ink and color on silk",
+  "museum": "National Palace Museum, Taipei",
+  "wiki": "One_Hundred_Horses",
+  "group": "Chinese Classical",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/A_Hundred_Steeds.jpg/3840px-A_Hundred_Steeds.jpg"
+ }
+]

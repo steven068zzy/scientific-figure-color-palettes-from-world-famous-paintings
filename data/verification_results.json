@@ -1,0 +1,909 @@
+[
+ {
+  "slug": "mona_lisa",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Leonardo da Vinci died 1519; 16th-century work, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2861 local file depicts the Louvre Mona Lisa exactly.",
+  "image_url": ""
+ },
+ {
+  "slug": "last_supper",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Leonardo da Vinci died 1519; 15th-century mural, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x960 local file depicts the Santa Maria delle Grazie mural (post-restoration) exactly.",
+  "image_url": ""
+ },
+ {
+  "slug": "birth_of_venus",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Botticelli died 1510; 15th-century work, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1206 local file depicts the Uffizi Birth of Venus exactly.",
+  "image_url": ""
+ },
+ {
+  "slug": "primavera",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Botticelli died 1510; 15th-century work, public domain worldwide. Wikipedia dates it late 1470s-early 1480s, so 'c. 1480' is within the accepted range.",
+  "image_ok": true,
+  "image_note": "1920x1261 local file depicts the Uffizi Primavera exactly (not Birth of Venus).",
+  "image_url": ""
+ },
+ {
+  "slug": "creation_of_adam",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Michelangelo died 1564; 16th-century fresco, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x871 local file depicts the Creation of Adam ceiling panel exactly (God and Adam's touching hands).",
+  "image_url": ""
+ },
+ {
+  "slug": "school_of_athens",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Raphael died 1520; 16th-century fresco, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1490 local file depicts the full School of Athens fresco exactly (Plato and Aristotle at center).",
+  "image_url": ""
+ },
+ {
+  "slug": "sistine_madonna",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Raphael died 1520; painting c. 1512-1514, centuries old, PD worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2632 local file correctly shows Raphael's Sistine Madonna with Sixtus, Barbara, and the two putti.",
+  "image_url": ""
+ },
+ {
+  "slug": "venus_of_urbino",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Titian died 1576; PD worldwide. Year 1534 matches Wikipedia (begun 1532/34, sold 1538).",
+  "image_ok": true,
+  "image_note": "1920x1350 local file correctly shows Titian's Venus of Urbino (reclining Venus, dog, maids in background).",
+  "image_url": ""
+ },
+ {
+  "slug": "bacchus_and_ariadne",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Titian died 1576; painting 1522-1523, PD worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1737 local file correctly shows Bacchus leaping from his cheetah-drawn chariot toward Ariadne.",
+  "image_url": ""
+ },
+ {
+  "slug": "arnolfini_portrait",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Jan van Eyck died 1441; painting 1434, PD worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2627 local file correctly shows the Arnolfini couple with convex mirror and dog.",
+  "image_url": ""
+ },
+ {
+  "slug": "garden_of_earthly_delights",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Bosch died 1516; triptych c. 1490-1510, PD worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1093 local file correctly shows the full open triptych (Eden, central garden, Hell panels).",
+  "image_url": ""
+ },
+ {
+  "slug": "hunters_in_the_snow",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Pieter Bruegel the Elder died 1569; painting 1565, PD worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1366 local file correctly shows the hunters descending toward the frozen ponds and winter valley.",
+  "image_url": ""
+ },
+ {
+  "slug": "tower_of_babel",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Bruegel died 1569; 16th-century work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is the Vienna 'Great' Tower of Babel (with Nimrod and stonemasons in the foreground), matching the Kunsthistorisches Museum version dated 1563.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_ambassadors",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Holbein died 1543; 1533 work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg shows the correct Holbein double portrait of Jean de Dinteville and Georges de Selve, including the anamorphic skull. Wikipedia confirms 1533, National Gallery, London.",
+  "image_url": ""
+ },
+ {
+  "slug": "young_hare",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Durer died 1528; 1502 work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is Durer's hare with the '1502' date and AD monogram visible. Wikipedia confirms 1502 watercolour by Albrecht Durer at the Albertina, Vienna; watercolour and bodycolour matches the Albertina description.",
+  "image_url": ""
+ },
+ {
+  "slug": "vertumnus",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Arcimboldo died 1593; c. 1590-1591 work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is Arcimboldo's composite portrait of Emperor Rudolf II as Vertumnus made of fruits, vegetables and flowers. Wikidata (Q16333797) confirms creator Arcimboldo, inception 1591, oil on panel, Skokloster Castle.",
+  "image_url": ""
+ },
+ {
+  "slug": "view_of_toledo",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "El Greco died 1614; c. 1596-1600 work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is El Greco's storm-lit landscape of Toledo. Wikipedia confirms it is held by the Metropolitan Museum of Art, New York; the Met dates it c. 1599-1600 so 'c. 1600' is accurate.",
+  "image_url": ""
+ },
+ {
+  "slug": "las_meninas",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Velazquez died 1660; 1656 work, unambiguously public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is the correct Velazquez group portrait with the Infanta Margarita, meninas, dwarfs, dog, mirror with the royal couple, and the painter at his easel. Wikipedia confirms 1656, Museo del Prado, Madrid.",
+  "image_url": ""
+ },
+ {
+  "slug": "calling_of_saint_matthew",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Caravaggio died 1610; painting completed 1599-1600, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1813 local image correctly depicts Caravaggio's Calling of Saint Matthew (Contarelli Chapel scene with light beam and pointing Christ).",
+  "image_url": ""
+ },
+ {
+  "slug": "night_watch",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Rembrandt died 1669; 1642 painting, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1562 local image correctly depicts The Night Watch (Banninck Cocq and van Ruytenburch militia company). Formally owned by Amsterdam Museum but displayed at the Rijksmuseum, so the stated location is accurate.",
+  "image_url": ""
+ },
+ {
+  "slug": "girl_with_a_pearl_earring",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Vermeer died 1675; c. 1665 painting, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2274 local image correctly depicts Vermeer's Girl with a Pearl Earring; in the Mauritshuis since 1902.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_milkmaid",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Vermeer died 1675; public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2158 local image correctly depicts Vermeer's The Milkmaid. Dating c. 1658-1660 falls within the accepted scholarly range (Rijksmuseum uses c. 1660).",
+  "image_url": ""
+ },
+ {
+  "slug": "the_blue_boy",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Gainsborough died 1788; c. 1770 painting, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "872x1289 local image correctly depicts Gainsborough's The Blue Boy; resolution above threshold and painting clearly shown. Held by The Huntington, San Marino.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_swing",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Fragonard died 1806; 1767 painting, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1487x1920 local image correctly depicts Fragonard's The Swing (Wallace Collection Rococo scene with lady on swing, hidden admirer, and cupid statue).",
+  "image_url": ""
+ },
+ {
+  "slug": "napoleon_crossing_the_alps",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "David died 1825; painted 1801. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2339 px; depicts the Malmaison first version (orange cloak, piebald horse, 'DAVID L'AN IX' signature), matching the stated museum and 1801 date.",
+  "image_url": ""
+ },
+ {
+  "slug": "oath_of_the_horatii",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "David died 1825; painted 1784-1785. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1489 px; correct painting (Louvre original). Wikipedia dates it 1784-1785 but 1784 is the standard date for the Louvre canvas, so no correction needed.",
+  "image_url": ""
+ },
+ {
+  "slug": "grande_odalisque",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Ingres died 1867; painted 1814. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1071 px; correct painting, signed and dated 'INGRES 1814' at lower right.",
+  "image_url": ""
+ },
+ {
+  "slug": "liberty_leading_the_people",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Delacroix died 1863; painted 1830. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1536 px; correct painting, signed 'Eug. Delacroix 1830'. Held at the Louvre, Paris as stated.",
+  "image_url": ""
+ },
+ {
+  "slug": "raft_of_the_medusa",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Gericault died 1824; painted 1818-1819. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1311 px; correct painting, matches the Louvre canvas.",
+  "image_url": ""
+ },
+ {
+  "slug": "third_of_may_1808",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Goya died 1828; completed 1814. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1483 px; correct painting (firing-squad scene, Prado canvas).",
+  "image_url": ""
+ },
+ {
+  "slug": "the_parasol",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Goya died 1828; painted 1777 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1330 local file depicts Goya's El Quitasol tapestry cartoon (woman with fan and dog, boy holding green parasol) — correct.",
+  "image_url": ""
+ },
+ {
+  "slug": "wanderer_above_the_sea_of_fog",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Friedrich died 1840; painted c. 1818 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x2463 local file depicts Friedrich's Wanderer (man in dark coat on rocky summit above fog) — correct.",
+  "image_url": ""
+ },
+ {
+  "slug": "fighting_temeraire",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Turner died 1851 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1426 local file depicts the Temeraire towed by a steam tug at sunset — correct. Year 1839 matches the National Gallery dating (painted 1838-39, exhibited 1839).",
+  "image_url": ""
+ },
+ {
+  "slug": "rain_steam_and_speed",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Turner died 1851; painted 1844 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1433 local file (sourced from Commons National Gallery file) depicts the GWR locomotive crossing Maidenhead Railway Bridge — correct. Full title is 'Rain, Steam and Speed - The Great Western Railway' but the short common name is acceptable.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_hay_wain",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Constable died 1837; painted 1821 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1324 local file depicts Willy Lott's cottage and the hay cart crossing the River Stour — correct.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_gleaners",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Millet died 1875; painted 1857 — public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1437 local file depicts three peasant women gleaning wheat stubble — correct. Wikipedia confirms 1857, Musee d'Orsay.",
+  "image_url": ""
+ },
+ {
+  "slug": "ophelia",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Millais died 1896; painted 1851-52, safely public domain worldwide.",
+  "image_ok": false,
+  "image_note": "Local file paintings/ophelia.jpg is missing. Replacement is the Wikimedia Commons Google Art Project scan, verified HTTP 200 with content-type image/jpeg.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/1280px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg"
+ },
+ {
+  "slug": "lady_of_shalott",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Waterhouse died 1917; painted 1888, safely public domain.",
+  "image_ok": true,
+  "image_note": "Depicts the correct 1888 Tate version: the Lady seated in the boat releasing the chain, candles at the prow.",
+  "image_url": ""
+ },
+ {
+  "slug": "flaming_june",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Leighton died 1896; painted 1895, safely public domain.",
+  "image_ok": true,
+  "image_note": "Depicts the correct painting: sleeping woman in translucent orange gown before a sunlit sea.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_kiss_hayez",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hayez died 1882; painted 1859, safely public domain.",
+  "image_ok": true,
+  "image_note": "Depicts the correct Hayez Il bacio (medieval couple kissing by stone stairs), not the Klimt work of the same title.",
+  "image_url": ""
+ },
+ {
+  "slug": "whistlers_mother",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Whistler died 1903; painted 1871, safely public domain.",
+  "image_ok": true,
+  "image_note": "Depicts the correct Arrangement in Grey and Black No. 1: seated mother in profile in black dress against grey wall.",
+  "image_url": ""
+ },
+ {
+  "slug": "carnation_lily_lily_rose",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Sargent died 1925; painted 1885-86, safely public domain.",
+  "image_ok": true,
+  "image_note": "Depicts the correct painting: two girls lighting paper lanterns among lilies and carnations at dusk.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_ninth_wave",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Aivazovsky died 1900; painted 1850. Safely public domain worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x1290 local image correctly shows the 1850 seascape of survivors clinging to mast wreckage before a towering wave at sunrise."
+ },
+ {
+  "slug": "barge_haulers_on_the_volga",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Repin died 1930 (before 1956); painting completed 1873, long before 1929. Public domain.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x888 local image correctly shows the eleven burlaks hauling the barge; Repin's '1870-73' signature visible lower right."
+ },
+ {
+  "slug": "morning_in_a_pine_forest",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Shishkin died 1898 (collaborator Konstantin Savitsky, who painted the bears, died 1905); painted 1889. Public domain. Note: Wikipedia co-credits Savitsky, but the Tretyakov Gallery's official attribution is Shishkin, so the artist field is left as-is.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x1301 local image correctly shows the four bears on the fallen pine in morning mist."
+ },
+ {
+  "slug": "breezing_up",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Winslow Homer died 1910; painted 1873-1876. Public domain.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x1206 local image correctly shows the catboat 'Gloucester' (name legible on the hull) with a man and three boys, schooner to the right."
+ },
+ {
+  "slug": "american_gothic",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Grant Wood died 1942 (before 1956). Created/first exhibited 1930, i.e. after 1929, so it was under the US 95-year publication term; that term expired and the work entered the US public domain on January 1, 2026. As of mid-2026 it is public domain in the US.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x2317 local image correctly shows the painting itself (farmer with pitchfork and daughter before the Carpenter Gothic house), signed 'GRANT WOOD 1930'."
+ },
+ {
+  "slug": "impression_sunrise",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Monet died 1926; painted 1872. Public domain worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "1920x1489 local image correctly shows the Le Havre harbor sunrise with orange sun and rowboats, signed 'Claude Monet .72'."
+ },
+ {
+  "slug": "woman_with_a_parasol",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Monet died 1926 (<1956); painted 1875, well before 1929, so PD in the US and worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "Local image depicts the correct NGA painting (Woman with a Parasol - Madame Monet and Her Son, 1875), full canvas, good resolution."
+ },
+ {
+  "slug": "water_lilies",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Monet died 1926 (<1956); painted 1906, before 1929, so PD in the US and worldwide.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg",
+  "image_note": "Local file is a museum gallery photo of MoMA's Water Lilies triptych (Reflections of Clouds on the Water-Lily Pond), not the AIC 1906 canvas. Replacement is the AIC painting (accession 1933.1157, signed 'Claude Monet 1906'); URL verified HTTP 200 image/jpeg, 1280x1232."
+ },
+ {
+  "slug": "japanese_footbridge",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Monet died 1926 (<1956); painted 1899, before 1929, so PD in the US and worldwide.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Claude_Monet%2C_The_Japanese_Footbridge%2C_1899%2C_NGA_74796.jpg/1280px-Claude_Monet%2C_The_Japanese_Footbridge%2C_1899%2C_NGA_74796.jpg",
+  "image_note": "Local file missing. Replacement is the NGA 1899 Japanese Footbridge (NGA object 74796, signed '99'); visually confirmed, URL verified HTTP 200 image/jpeg, 1280x1032."
+ },
+ {
+  "slug": "luncheon_of_the_boating_party",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Renoir died 1919 (<1956); painted 1880-1881, before 1929, so PD in the US and worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "Local image depicts the correct Phillips Collection painting, full canvas, good resolution."
+ },
+ {
+  "slug": "bal_du_moulin_de_la_galette",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Renoir died 1919 (<1956); painted 1876, before 1929, so PD in the US and worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "Local image depicts the correct Musee d'Orsay version of Bal du moulin de la Galette, full canvas, good resolution."
+ },
+ {
+  "slug": "two_sisters_on_the_terrace",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Renoir died 1919 (<1956); painted 1881, before 1929, so PD in the US and worldwide.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pierre-Auguste_Renoir_-_Two_Sisters_%28On_the_Terrace%29_-_1933.455_-_Art_Institute_of_Chicago.jpg/1280px-Pierre-Auguste_Renoir_-_Two_Sisters_%28On_the_Terrace%29_-_1933.455_-_Art_Institute_of_Chicago.jpg",
+  "image_note": "Local file missing. Replacement is the AIC painting (accession 1933.455, signed 'Renoir. 81'); visually confirmed, URL verified HTTP 200 image/jpeg, 1280x1589."
+ },
+ {
+  "slug": "the_ballet_class",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Degas died 1917; painted c. 1871-1876, well before 1929. PD worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct Musée d'Orsay version (Jules Perrot with stick, dog, watering can, foreground dancer with green sash and fan), not the Met's The Dance Class. Dating is disputed (Orsay: 1871-1874; Wikipedia: 1874-1876); input matches the museum's dating so no correction.",
+  "image_url": ""
+ },
+ {
+  "slug": "paris_street_rainy_day",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Caillebotte died 1894; painted 1877. PD worldwide.",
+  "image_ok": true,
+  "image_note": "Correct painting; canvas is signed and dated 'G. Caillebotte. 1877'. Held by the Art Institute of Chicago.",
+  "image_url": ""
+ },
+ {
+  "slug": "boulevard_montmartre_at_night",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Pissarro died 1903; painted 1897. PD worldwide.",
+  "image_ok": false,
+  "image_note": "Local file missing. Replacement is a 1280px thumb of the Commons file 'Camille Pissarro, The Boulevard Montmartre at Night, 1897.jpg' (original 5103x4226, from the National Gallery London). Verified via curl: HTTP 200, content-type image/jpeg.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg/1280px-Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg"
+ },
+ {
+  "slug": "the_childs_bath",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Cassatt died 1926; painted 1893. PD worldwide.",
+  "image_ok": true,
+  "image_note": "Correct Cassatt painting (mother washing child's feet in basin); Art Institute of Chicago dates it 1893.",
+  "image_url": ""
+ },
+ {
+  "slug": "a_sunday_on_la_grande_jatte",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Seurat died 1891; painted 1884-1886. PD worldwide.",
+  "image_ok": true,
+  "image_note": "Correct painting; image shows Seurat's painted pointillist border, confirming this is the Art Institute of Chicago original rather than the Met oil study.",
+  "image_url": ""
+ },
+ {
+  "slug": "bathers_at_asnieres",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Seurat died 1891; painted 1884. PD worldwide.",
+  "image_ok": true,
+  "image_note": "Correct painting (signed 'Seurat' lower left; factory skyline of Clichy in background); National Gallery, London.",
+  "image_url": ""
+ },
+ {
+  "slug": "starry_night",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted June 1889; van Gogh died 1890. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct MoMA Starry Night (swirling sky, cypress, village).",
+  "image_url": ""
+ },
+ {
+  "slug": "sunflowers",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted August 1888; van Gogh died 1890. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct National Gallery London version (fourth version, yellow background, 'Vincent' signed on vase), not another painting from the series.",
+  "image_url": ""
+ },
+ {
+  "slug": "cafe_terrace_at_night",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted September 1888; van Gogh died 1890. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct Kroller-Muller Cafe Terrace at Night (Place du Forum, Arles).",
+  "image_url": ""
+ },
+ {
+  "slug": "irises",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted May 1889 at Saint-Remy; van Gogh died 1890. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct Getty Irises (blue irises with one white iris, orange marigolds behind).",
+  "image_url": ""
+ },
+ {
+  "slug": "the_bedroom",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "First version painted October 1888; van Gogh died 1890. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct first (1888) version held by the Van Gogh Museum, distinguishable by the wall portraits; not the Chicago or Orsay repetitions.",
+  "image_url": ""
+ },
+ {
+  "slug": "tahitian_women_on_the_beach",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted 1891; Gauguin died 1903. Public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local image is the correct Musee d'Orsay Femmes de Tahiti (right figure in pink mission dress), not the 1892 Parau Api variant in Dresden.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_card_players",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Cezanne died 1906 (>70 years ago); painted 1890-1895, well before 1929. Public domain worldwide including the US.",
+  "image_ok": true,
+  "image_note": "1920x1575 local image verified as the two-player Musee d'Orsay version (bottle at center, cards held low, wine-red panel), not the similar Courtauld version. Matches metadata exactly.",
+  "image_url": ""
+ },
+ {
+  "slug": "mont_sainte_victoire",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Cezanne died 1906; painted 1902-1904, before 1929. Public domain worldwide including the US.",
+  "image_ok": false,
+  "image_note": "Wrong version from the same series: the local image is Cezanne's c. 1890 Montagne Sainte-Victoire at the Musee d'Orsay (large pine at left, Arc valley viaduct at right; aspect ratio matches the Orsay Google Art Project file exactly), not the Philadelphia Museum of Art c. 1904 painting named in the metadata. Replacement URL is the Philadelphia 1902-04 version (Commons file 'Montagne Sainte-Victoire, par Paul Cezanne 108.jpg'), verified HTTP 200, content-type image/jpeg, 1280x1016.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg/1280px-Montagne_Sainte-Victoire%2C_par_Paul_C%C3%A9zanne_108.jpg"
+ },
+ {
+  "slug": "the_basket_of_apples",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Cezanne died 1906; painted c. 1893, before 1929. Public domain worldwide including the US.",
+  "image_ok": true,
+  "image_note": "1920x1537 local image matches The Basket of Apples (tilted basket, wine bottle, plate of ladyfingers, signed P. Cezanne lower left), Helen Birch Bartlett Memorial Collection, Art Institute of Chicago.",
+  "image_url": ""
+ },
+ {
+  "slug": "at_the_moulin_rouge",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Toulouse-Lautrec died 1901; painted 1892-1895, before 1929. Public domain worldwide including the US.",
+  "image_ok": true,
+  "image_note": "1392x1218 local image matches At the Moulin Rouge at the Art Institute of Chicago, including the green-lit face of May Milton at right and the artist's self-portrait in the background.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_sleeping_gypsy",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Rousseau died 1910; painted 1897, before 1929. Public domain worldwide including the US.",
+  "image_ok": true,
+  "image_note": "1920x1227 local image matches The Sleeping Gypsy (lion, sleeping figure with mandolin and jar, full moon), signed Henri Rousseau lower right; MoMA, New York.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_scream",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Munch died 1944 (before 1956), so EU/life+70 copyright expired in 2015; created 1893, long before 1929, so also US public domain.",
+  "image_ok": true,
+  "image_note": "1920x2383 local image is the 1893 painted version signed 'E Munch 1893' lower left, held by the National Museum (Nasjonalmuseet), Oslo, matching the metadata. Medium wording matches common English descriptions of this version.",
+  "image_url": ""
+ },
+ {
+  "slug": "the_kiss_klimt",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Klimt died 1918; painted 1907-1908, well before 1929 — public domain worldwide including US.",
+  "image_ok": true,
+  "image_note": "Local image depicts Klimt's The Kiss (gold-period embracing couple, Belvedere version) at high resolution."
+ },
+ {
+  "slug": "adele_bloch_bauer",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Klimt died 1918; painted 1907 — public domain worldwide including US.",
+  "image_ok": true,
+  "image_note": "Local image is the correct gold 1907 Portrait of Adele Bloch-Bauer I (not the 1912 second portrait); Klimt signature and '1907' visible."
+ },
+ {
+  "slug": "four_trees",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Schiele died 1918; painted 1917 — public domain worldwide including US.",
+  "image_ok": false,
+  "image_note": "Local file missing. Replacement is the Belvedere's own photo of Vier Baume (inv. 3917), verified HTTP 200 image/jpeg, 1280x1005, visually confirmed (four chestnut trees against layered sunset sky).",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Egon_Schiele_-_Vier_B%C3%A4ume_-_3917_-_%C3%96sterreichische_Galerie_Belvedere.jpg/1280px-Egon_Schiele_-_Vier_B%C3%A4ume_-_3917_-_%C3%96sterreichische_Galerie_Belvedere.jpg"
+ },
+ {
+  "slug": "jeanne_hebuterne",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Modigliani died 1920; painted 1919 — public domain worldwide including US.",
+  "image_ok": false,
+  "image_note": "Local file exists but is only 200x339 px (truly tiny). Replacement is the Met open-access photo (DT2180) of the 1919 Jeanne Hebuterne (acc. 56.184.2), verified HTTP 200 image/jpeg, 1280x1586, visually confirmed (seated in white chemise, arm on chair back).",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg/1280px-Jeanne_H%C3%A9buterne_%281898%E2%80%931920%29_MET_DT2180.jpg"
+ },
+ {
+  "slug": "senecio",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Klee died 1940 (before 1956); painted 1922, before 1929, so also public domain in the US under the 95-year rule.",
+  "image_ok": true,
+  "image_note": "Local image depicts Klee's Senecio (Baldgreis), signed 'KLEE 1922/181', Kunstmuseum Basel. Medium 'oil on gauze' matches the museum's description (oil on chalk-primed gauze on cardboard); not flagged as wrong."
+ },
+ {
+  "slug": "composition_viii",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Kandinsky died 1944 (before 1956); painted July 1923, before 1929, so also public domain in the US under the 95-year rule.",
+  "image_ok": false,
+  "image_note": "Local file missing. Replacement verified HTTP 200 image/jpeg, 1280x887, visually confirmed as Composition VIII (large purple/black circle upper left, intersecting lines and geometric forms), Solomon R. Guggenheim Museum.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vassily_Kandinsky%2C_1923_-_Composition_8%2C_huile_sur_toile%2C_140_cm_x_201_cm%2C_Mus%C3%A9e_Guggenheim%2C_New_York.jpg/1280px-Vassily_Kandinsky%2C_1923_-_Composition_8%2C_huile_sur_toile%2C_140_cm_x_201_cm%2C_Mus%C3%A9e_Guggenheim%2C_New_York.jpg"
+ },
+ {
+  "slug": "composition_red_blue_yellow",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Mondrian died 1944 (PD in life+70 countries since 2015). Created 1930, so subject to the US 95-year publication rule: term expired and the work entered the US public domain on January 1, 2026.",
+  "image_ok": false,
+  "image_note": "Local file is a black-and-white photographic portrait of Piet Mondrian himself, not the painting. Replacement is the Commons image of the actual 1930 canvas (signed PM 30), verified HTTP 200 image/jpeg at 1280px.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg/1280px-Piet_Mondriaan%2C_1930_-_Mondrian_Composition_II_in_Red%2C_Blue%2C_and_Yellow.jpg"
+ },
+ {
+  "slug": "dance",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Matisse died 1954; painted 1910, long out of copyright worldwide.",
+  "image_ok": true,
+  "image_note": "874x575 image correctly shows the 1910 Hermitage version (red dancers on blue and green ground).",
+  "image_url": ""
+ },
+ {
+  "slug": "goldfish",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Matisse died 1954; painted 1912, long out of copyright worldwide.",
+  "image_ok": true,
+  "image_note": "531x800 image correctly shows Goldfish (1912, Pushkin State Museum of Fine Arts).",
+  "image_url": ""
+ },
+ {
+  "slug": "large_blue_horses",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Franz Marc died 1916; painted 1911, public domain worldwide.",
+  "image_ok": false,
+  "image_note": "Local file missing. Replacement from Commons (Die grossen blauen Pferde, 1911) verified HTTP 200 image/jpeg at 1280px and visually confirmed as the Walker Art Center painting; Wikidata Q15461864 confirms Walker Art Center, 1911.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Franz_Marc_-_Die_gro%C3%9Fen_blauen_Pferde_1911.jpg/1280px-Franz_Marc_-_Die_gro%C3%9Fen_blauen_Pferde_1911.jpg"
+ },
+ {
+  "slug": "great_wave",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hokusai died 1849; print published c. 1831, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1291 image correctly shows The Great Wave off Kanagawa with title cartouche and Mount Fuji; the Met holds well-known impressions.",
+  "image_url": ""
+ },
+ {
+  "slug": "red_fuji",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hokusai died 1849; print published c. 1831, public domain worldwide.",
+  "image_ok": true,
+  "image_note": "1920x1324 image correctly shows Fine Wind, Clear Morning (Red Fuji) with its title cartouche; held in multiple collections, so 'Various collections' is accurate.",
+  "image_url": ""
+ },
+ {
+  "slug": "kirifuri_waterfall",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hokusai died 1849; print published c. 1832, long before 1929. Safely public domain worldwide.",
+  "image_ok": true,
+  "image_note": "Local jpg is the correct Hokusai print from A Tour of Waterfalls in Various Provinces; cartouche 下野黒髪山きりふりの滝 visible."
+ },
+ {
+  "slug": "plum_park_in_kameido",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hiroshige died 1858; published 1857. Safely public domain.",
+  "image_ok": true,
+  "image_note": "Local jpg is the correct print (Kameido Umeyashiki, the design Van Gogh copied); series cartouche 名所江戸百景 visible."
+ },
+ {
+  "slug": "sudden_shower_over_shin_ohashi",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hiroshige died 1858; published 1857. Safely public domain.",
+  "image_ok": true,
+  "image_note": "Local jpg is the correct print (大はしあたけの夕立) from One Hundred Famous Views of Edo."
+ },
+ {
+  "slug": "naruto_whirlpools",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hiroshige died 1858; print published 1855. Safely public domain (replacement image is a MET open-access scan).",
+  "image_ok": false,
+  "image_note": "Local jpg is NOT the whirlpool print - it is Kunisada's 1858 memorial portrait of Hiroshige (seated artist in blue robe). Replacement is the MET scan of the actual 1855 print from the Sixty-odd Provinces series; verified HTTP 200, image/jpeg, 1280x1868.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/%E5%85%AD%E5%8D%81%E4%BD%99%E5%B7%9E%E5%90%8D%E6%89%80%E5%9B%B3%E4%BC%9A_%E9%98%BF%E6%B3%A2_%E9%B3%B4%E9%96%80%E3%81%AE%E9%A2%A8%E6%B3%A2-Naruto_Whirlpool%2C_Awa_Province%2C_from_the_series_Views_of_Famous_Places_in_the_Sixty-Odd_Provinces_MET_DP122165.jpg/1280px-thumbnail.jpg"
+ },
+ {
+  "slug": "evening_snow_at_kanbara",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Hiroshige died 1858; print from the Hoeido Tokaido series, c. 1833-34. Safely public domain (replacement image is a MET open-access scan).",
+  "image_ok": false,
+  "image_note": "Local file missing. Replacement is the MET scan of the correct print (蒲原 夜之雪, station 16 of the Hoeido Tokaido); verified HTTP 200, image/jpeg, 1280x851.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E8%92%B2%E5%8E%9F_%E5%A4%9C%E3%81%AE%E9%9B%AA-Evening_Snow_at_Kanbara%2C_from_the_series_%22Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D%22_MET_DP109333.jpg/1280px-%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E8%92%B2%E5%8E%9F_%E5%A4%9C%E3%81%AE%E9%9B%AA-Evening_Snow_at_Kanbara%2C_from_the_series_%22Fifty-three_Stations_of_the_T%C5%8Dkaid%C5%8D%22_MET_DP109333.jpg"
+ },
+ {
+  "slug": "three_beauties",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Utamaro died 1806; print c. 1793. Safely public domain.",
+  "image_ok": true,
+  "image_note": "Local jpg is the correct Utamaro triple-portrait (當時三美人 cartouche visible); matches the MFA Boston impression."
+ },
+ {
+  "slug": "beauty_looking_back",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Moronobu died 1694; late-17th-century work, safely public domain worldwide.",
+  "image_ok": false,
+  "image_note": "Local file is a monochrome woodblock book illustration of a seated man smoking a pipe, not the famous color-on-silk hanging scroll of a woman in a red kimono glancing back. Replacement is the Tokyo National Museum scroll (Google Art Project scan, 1280px thumb), verified HTTP 200 image/jpeg and visually confirmed.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hishikawa_Moronobu_-_Beauty_Looking_Back_-_Google_Art_Project.jpg/1280px-Hishikawa_Moronobu_-_Beauty_Looking_Back_-_Google_Art_Project.jpg"
+ },
+ {
+  "slug": "jakuchu_rooster",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Ito Jakuchu died 1800; 18th-century work, safely public domain.",
+  "image_ok": false,
+  "image_note": "Local file is a portrait of the artist Ito Jakuchu (seated elderly man in a pale green robe), not the painting. Replacement is the actual Nandina and Rooster (Nanten Yukei-zu, Commons title 'Black rooster and nandin') from the Colorful Realm of Living Beings series, Sannomaru Shozokan; Commons dates it c. 1761-1765, matching the metadata. URL verified HTTP 200 image/jpeg and visually confirmed.",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg/1280px-It%C5%8D_Jakuch%C5%AB_-_Black_rooster_and_nandin_%28Colorful_Realm_of_Living_Beings%29.jpg"
+ },
+ {
+  "slug": "thousand_li_of_rivers_and_mountains",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted 1113 by Wang Ximeng (Northern Song); ancient work, public domain.",
+  "image_ok": true,
+  "image_note": "Local image (690x482) shows the opening section of the blue-green handscroll with its inscription; genuine section of the Wang Ximeng scroll. Metadata (1113, ink and color on silk, Palace Museum Beijing) confirmed via Wikipedia."
+ },
+ {
+  "slug": "along_the_river_qingming",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Zhang Zeduan (1085-1145), Northern Song handscroll; public domain.",
+  "image_ok": true,
+  "image_note": "Local image (1920x1375) is the famous city-gate section with camel caravan from the original Song scroll in the Palace Museum, Beijing. Metadata confirmed."
+ },
+ {
+  "slug": "dwelling_in_the_fuchun_mountains",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Huang Gongwang (1269-1354), painted 1348-1350; public domain.",
+  "image_ok": true,
+  "image_note": "Caveat: the local image (1472x787, with the Meijing Shuwu / Pan Jingshu colophon) is the 'Remaining Mountain' (Shengshan) fragment held by the Zhejiang Provincial Museum, Hangzhou - the scroll was burned into two pieces in 1650 and the longer Master Wuyong section is the part in the National Palace Museum, Taipei. Same painting, so kept as OK, but the museum caption applies to the other fragment; consider either noting Zhejiang Provincial Museum or swapping in a Wuyong-scroll section."
+ },
+ {
+  "slug": "nymph_of_the_luo_river",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Song-dynasty copy (12th-13th c.) after a 4th-century Gu Kaizhi composition; public domain.",
+  "image_ok": true,
+  "image_note": "Local image (784x385) shows the goddess departing in the dragon-drawn cloud chariot, a genuine section of the Luoshen Fu scroll; consistent with the Palace Museum, Beijing copy."
+ },
+ {
+  "slug": "night_revels_of_han_xizai",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Attributed to Gu Hongzhong (10th c.); surviving Song-dynasty copy is ~900 years old. Safely public domain worldwide.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "Local jpg (1547x1200) is the first 'listening to the pipa' section of the Palace Museum handscroll - correct painting, good detail view."
+ },
+ {
+  "slug": "five_oxen",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Han Huang died 787 CE; 8th-century work, public domain everywhere.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD%2C_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg/3840px-%D0%A5%D0%B0%D0%BD%D1%8C_%D0%A5%D1%83%D0%B0%D0%BD._%D0%9F%D1%8F%D1%82%D1%8C_%D0%B1%D1%8B%D0%BA%D0%BE%D0%B2._%D0%93%D1%83%D0%B3%D1%83%D0%BD%2C_%D0%9F%D0%B5%D0%BA%D0%B8%D0%BD.1.jpg",
+  "image_note": "Local file missing. URL verified HTTP 200 image/jpeg, 3840x570, painting-only view of all five oxen (Commons file of the Palace Museum scroll; better proportions than the 12558x500 stitched panorama)."
+ },
+ {
+  "slug": "bunian_tu",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Yan Liben died 673 CE; Tang original / Song copy, public domain everywhere.",
+  "image_ok": true,
+  "image_url": "",
+  "image_note": "Local jpg (1500x750) correctly shows Emperor Taizong on a palanquin borne by palace ladies receiving envoy Gar Tongtsen (Ludongzan) - matches the Palace Museum Bunian tu."
+ },
+ {
+  "slug": "court_ladies_preparing_silk",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Zhang Xuan died c. 755; Emperor Huizong (copyist) died 1135. Public domain everywhere.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Court_Ladies_Preparing_Newly_Woven_Silk_%28%E6%8D%A3%E7%BB%83%E5%9B%BE%29_by_Emperor_Huizong_%281082%E2%80%931135%29.jpg",
+  "image_note": "Local file missing. URL verified HTTP 200 image/jpeg, 1873x420, painting-only view of the full MFA Boston scroll (the larger 37500px Commons file is mostly mounting/colophons)."
+ },
+ {
+  "slug": "court_ladies_adorning_with_flowers",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Attributed to Zhou Fang (c. 730-800); Tang or Five Dynasties work, public domain everywhere.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._%2846x180%29_Liaoning_Provincial_Museum%2C_Shenyang..jpg/3840px-Zhou_Fang._Court_Ladies_Wearing_Flowered_Headdresses._%2846x180%29_Liaoning_Provincial_Museum%2C_Shenyang..jpg",
+  "image_note": "Local jpg depicts the WRONG painting: it is Zhou Fang's 'Court Ladies Tuning the Lute and Sipping Tea' (调琴啜茗图, Nelson-Atkins Museum), not 簪花仕女图. Replacement URL verified HTTP 200 image/jpeg, 3840x820, shows the genuine Liaoning Provincial Museum scroll (tall coiffures with hairpin flowers, lapdogs, crane, magnolia)."
+ },
+ {
+  "slug": "one_hundred_horses",
+  "corrections": {},
+  "pd_ok": true,
+  "pd_note": "Painted 1728; Castiglione died 1766. Created well before 1929, public domain everywhere including the US.",
+  "image_ok": false,
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/A_Hundred_Steeds.jpg/3840px-A_Hundred_Steeds.jpg",
+  "image_note": "Local file missing. URL verified HTTP 200 image/jpeg, 3840x469, full-color National Palace Museum Taipei silk handscroll (Commons 'A Hundred Steeds.jpg', object name 'One Hundred Horses', 1728). Avoided the MET monochrome paper draft and the stacked two-row composite file."
+ }
+]
