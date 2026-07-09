@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "masterpalettes"
 version = "1.0.0"
-description = "Scientific figure color palettes extracted from 100 masterpiece paintings"
+description = "Scientific figure color palettes extracted from 102 masterpiece paintings"
 readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "Ziyuan Zhao" }]

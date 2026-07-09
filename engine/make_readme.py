@@ -5,7 +5,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 HEAD = '''# masterpiece-palettes
 
-**Scientific figure color palettes extracted from 100 masterpiece paintings.**
+**Scientific figure color palettes extracted from 102 masterpiece paintings.**
 
 Every palette is machine-extracted from a public-domain masterpiece (K-means in CIELab),
 refined for publication use (chroma boost, lightness spacing, guaranteed ΔE separation
@@ -31,7 +31,7 @@ pip install "git+https://github.com/stevenZYzhao/masterpiece-palettes.git"
 import masterpalettes as mp
 import matplotlib.pyplot as plt
 
-mp.list_palettes()                    # 100 names
+mp.list_palettes()                    # 102 names
 mp.colors("starry_night")            # 8 hex colors in data-plotting order
 mp.roles("starry_night")             # role -> colors (primary/secondary/accent/...)
 
