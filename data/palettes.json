@@ -6994,5 +6994,443 @@
    "#E06831"
   ],
   "blurb": "Amber-toned silk bears the Luo goddess across dragon-drawn waves sketched in warm sienna line. Apricot-to-chestnut steps encode ordered depth on one warm axis, while rose and silt supports keep categorical panels legible."
+ },
+ "night_revels_of_han_xizai": {
+  "title": "The Night Revels of Han Xizai",
+  "artist": "Gu Hongzhong (Song copy)",
+  "year": "Song copy of 10th c. original",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Cinnabar Bed",
+    "#C15227"
+   ],
+   [
+    "Pipa Wood",
+    "#8D5F22"
+   ],
+   [
+    "Gauze Hat",
+    "#26241D"
+   ],
+   [
+    "Scholar Robe",
+    "#5A5124"
+   ],
+   [
+    "Candle Shadow",
+    "#452603"
+   ],
+   [
+    "Banquet Gold",
+    "#D2BF86"
+   ],
+   [
+    "Celadon Sleeve",
+    "#8A8150"
+   ],
+   [
+    "Aged Silk",
+    "#E9DCBB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#C15227",
+    "#8D5F22"
+   ],
+   "Secondary Data (Cool)": [
+    "#5A5124",
+    "#54380B"
+   ],
+   "Tertiary / Support": [
+    "#ECDCB2",
+    "#E9DCBB"
+   ],
+   "Highlight / Accent": [
+    "#D53D13"
+   ],
+   "Backgrounds": [
+    "#E9DCBB",
+    "#F7F3E7"
+   ],
+   "Text / Lines": [
+    "#24211B",
+    "#56441A"
+   ]
+  },
+  "diverging": [
+   "#2D2814",
+   "#E9DCBB",
+   "#D53D13"
+  ],
+  "blurb": "Cinnabar bedscreens and candlelit silk glow against ink-black gauze hats and olive scholar robes in Gu Hongzhong's nocturnal banquet. Warm reds and browns carry primary signals; dark olives and pale silk neutrals set structure and background."
+ },
+ "five_oxen": {
+  "title": "Five Oxen",
+  "artist": "Han Huang",
+  "year": "8th century",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Tawny Coat",
+    "#CA943B"
+   ],
+   [
+    "Russet Hide",
+    "#BD6339"
+   ],
+   [
+    "Hoof Umber",
+    "#422E1D"
+   ],
+   [
+    "Thorn Branch",
+    "#945D16"
+   ],
+   [
+    "Muzzle Shadow",
+    "#6E5532"
+   ],
+   [
+    "Chestnut Ox",
+    "#6B3A02"
+   ],
+   [
+    "Dun Flank",
+    "#7A6350"
+   ],
+   [
+    "Hemp Paper",
+    "#F7D8AC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#CA943B",
+    "#BD6339"
+   ],
+   "Secondary Data (Cool)": [
+    "#6E5532",
+    "#BD6339"
+   ],
+   "Tertiary / Support": [
+    "#F6D9B0",
+    "#F7D8AC"
+   ],
+   "Highlight / Accent": [
+    "#D37202"
+   ],
+   "Backgrounds": [
+    "#F7D8AC",
+    "#FCF1E2"
+   ],
+   "Text / Lines": [
+    "#422E1D",
+    "#6A4926"
+   ]
+  },
+  "diverging": [
+   "#422E1D",
+   "#F7D8AC",
+   "#D37202"
+  ],
+  "blurb": "Tawny gold, russet, and deep umber hides amble across bare hemp paper flecked with crimson collector seals. The two brightest coats lead primary data; darker earths hold contrast roles while the pale paper tone serves as background."
+ },
+ "bunian_tu": {
+  "title": "Emperor Taizong Receiving the Tibetan Envoy",
+  "artist": "Yan Liben",
+  "year": "7th century (Song copy)",
+  "group": "Chinese Classical",
+  "museum": "Palace Museum, Beijing",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Vermilion Robe",
+    "#D72416"
+   ],
+   [
+    "Seal Crimson",
+    "#A40F0C"
+   ],
+   [
+    "Ink Chignon",
+    "#381C11"
+   ],
+   [
+    "Envoy Brocade",
+    "#AE611F"
+   ],
+   [
+    "Banner Rust",
+    "#7A340D"
+   ],
+   [
+    "Palace Fan",
+    "#87905C"
+   ],
+   [
+    "Sedan Wood",
+    "#5A2A12"
+   ],
+   [
+    "Dawn Silk",
+    "#FFD5AF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#D72416",
+    "#A40F0C"
+   ],
+   "Secondary Data (Cool)": [
+    "#7A340D",
+    "#87905C"
+   ],
+   "Tertiary / Support": [
+    "#FDD6B3",
+    "#FFD5AF"
+   ],
+   "Highlight / Accent": [
+    "#F13A0A"
+   ],
+   "Backgrounds": [
+    "#FFD5AF",
+    "#FFF0E3"
+   ],
+   "Text / Lines": [
+    "#361B0F",
+    "#6E4729"
+   ]
+  },
+  "diverging": [
+   "#3D2115",
+   "#FFD5AF",
+   "#F13A0A"
+  ],
+  "blurb": "Blazing vermilion robes, ceremonial fans, and crimson seals press against warm amber silk as Taizong receives the Tibetan envoy. Saturated reds flag key findings; brocade ambers, celadon fans, and peach silk carry context, supports, and background."
+ },
+ "court_ladies_preparing_silk": {
+  "title": "Court Ladies Preparing Newly Woven Silk",
+  "artist": "Zhang Xuan (Huizong copy)",
+  "year": "12th century copy of 8th c. original",
+  "group": "Chinese Classical",
+  "museum": "Museum of Fine Arts, Boston",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Gilded Ground",
+    "#A36921"
+   ],
+   [
+    "Apricot Shawl",
+    "#C49158"
+   ],
+   [
+    "Jade Mat",
+    "#9FB06A"
+   ],
+   [
+    "Indigo Gown",
+    "#67788A"
+   ],
+   [
+    "Charcoal Iron",
+    "#282220"
+   ],
+   [
+    "Mallet Wood",
+    "#683D22"
+   ],
+   [
+    "Honey Weave",
+    "#E4C18D"
+   ],
+   [
+    "Ivory Bolt",
+    "#EEDBAF"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#A36921",
+    "#C49158"
+   ],
+   "Secondary Data (Cool)": [
+    "#9FB06A",
+    "#67788A"
+   ],
+   "Tertiary / Support": [
+    "#EEDBAF",
+    "#EEDBAF"
+   ],
+   "Highlight / Accent": [
+    "#CE6300"
+   ],
+   "Backgrounds": [
+    "#EEDBAF",
+    "#F9F2E3"
+   ],
+   "Text / Lines": [
+    "#26201E",
+    "#673E24"
+   ]
+  },
+  "diverging": [
+   "#2A2914",
+   "#EEDBAF",
+   "#CE6300"
+  ],
+  "blurb": "Gilded silk ground, apricot shawls, a jade-green mat, and slate-indigo gowns surround court ladies pounding newly woven silk. Warm golds head the categorical run; jade and indigo add cool contrast while charcoal and ivory anchor text and background."
+ },
+ "court_ladies_adorning_with_flowers": {
+  "title": "Court Ladies Adorning Their Hair with Flowers",
+  "artist": "Zhou Fang",
+  "year": "8th century",
+  "group": "Chinese Classical",
+  "museum": "Liaoning Provincial Museum",
+  "mode": "vivid",
+  "colors": [
+   [
+    "Scarlet Skirt",
+    "#9E2C1B"
+   ],
+   [
+    "Amber Gauze",
+    "#7A4A02"
+   ],
+   [
+    "Raven Chignon",
+    "#292315"
+   ],
+   [
+    "Magnolia Bark",
+    "#9C7448"
+   ],
+   [
+    "Sable Pup",
+    "#4F361A"
+   ],
+   [
+    "Bare Shoulder",
+    "#DEB181"
+   ],
+   [
+    "Crane Quill",
+    "#524834"
+   ],
+   [
+    "Pale Blossom",
+    "#F1DAAC"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#9E2C1B",
+    "#7A4A02"
+   ],
+   "Secondary Data (Cool)": [
+    "#9C7448",
+    "#4F361A"
+   ],
+   "Tertiary / Support": [
+    "#F0DBAF",
+    "#F1DAAC"
+   ],
+   "Highlight / Accent": [
+    "#D43A20"
+   ],
+   "Backgrounds": [
+    "#F1DAAC",
+    "#FAF2E2"
+   ],
+   "Text / Lines": [
+    "#272113",
+    "#6A4926"
+   ]
+  },
+  "diverging": [
+   "#2F2714",
+   "#F1DAAC",
+   "#D43A20"
+  ],
+  "blurb": "Scarlet skirts under sheer amber gauze, towering raven chignons crowned with peonies, a crane and a lapdog on warm umber silk. Reds and golds carry primary emphasis; deep browns, olive, and powdered creams supply darks, supports, and background."
+ },
+ "one_hundred_horses": {
+  "title": "One Hundred Horses",
+  "artist": "Giuseppe Castiglione (Lang Shining)",
+  "year": "1728",
+  "group": "Chinese Classical",
+  "museum": "National Palace Museum, Taipei",
+  "mode": "muted",
+  "colors": [
+   [
+    "Palomino",
+    "#AE9770"
+   ],
+   [
+    "Bay Stallion",
+    "#7E5A3F"
+   ],
+   [
+    "River Pine",
+    "#566038"
+   ],
+   [
+    "Misty Peak",
+    "#77828A"
+   ],
+   [
+    "Gnarled Trunk",
+    "#3F382D"
+   ],
+   [
+    "Dapple Gray",
+    "#888073"
+   ],
+   [
+    "Roan Coat",
+    "#6A6256"
+   ],
+   [
+    "Silk Haze",
+    "#ECDBBB"
+   ]
+  ],
+  "roles": {
+   "Primary Data (Warm)": [
+    "#AE9770",
+    "#7E5A3F"
+   ],
+   "Secondary Data (Cool)": [
+    "#AE9770",
+    "#7E5A3F"
+   ],
+   "Tertiary / Support": [
+    "#ECDBBB",
+    "#ECDBBB"
+   ],
+   "Highlight / Accent": [
+    "#C05A21"
+   ],
+   "Backgrounds": [
+    "#ECDBBB",
+    "#F8F2E7"
+   ],
+   "Text / Lines": [
+    "#566038",
+    "#566038"
+   ]
+  },
+  "diverging": [
+   "#423824",
+   "#ECDBBB",
+   "#C05A21"
+  ],
+  "blurb": "Palomino gold, bay brown, and dapple gray coats graze along pine banks and misted blue peaks in Castiglione's silk panorama. Muted warm hides distinguish primary categories; green and slate cools give gentle contrast against a pale silk haze background."
  }
 }
