@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "masterpalettes"
+version = "1.0.0"
+description = "Scientific figure color palettes extracted from 100 masterpiece paintings"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Ziyuan Zhao" }]
+requires-python = ">=3.8"
+keywords = ["matplotlib", "color", "palette", "colormap", "scientific-visualization", "art"]
+classifiers = [
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Visualization",
+  "Programming Language :: Python :: 3",
+]
+
+[project.optional-dependencies]
+mpl = ["matplotlib>=3.3"]
+
+[project.urls]
+Homepage = "https://github.com/stevenZYzhao/masterpiece-palettes"
+
+[tool.setuptools]
+packages = ["masterpalettes"]
+
+[tool.setuptools.package-data]
+masterpalettes = ["data/*.json"]

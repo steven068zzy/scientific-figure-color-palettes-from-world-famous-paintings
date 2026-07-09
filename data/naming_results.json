@@ -1,0 +1,3938 @@
+[
+ {
+  "slug": "calling_of_saint_matthew",
+  "colors": [
+   {
+    "name": "Divine Beam",
+    "hex": "#EDAB62"
+   },
+   {
+    "name": "Velvet Gold",
+    "hex": "#C89A55"
+   },
+   {
+    "name": "Tavern Shadow",
+    "hex": "#262320"
+   },
+   {
+    "name": "Coin Brass",
+    "hex": "#9A814E"
+   },
+   {
+    "name": "Oak Table",
+    "hex": "#513910"
+   },
+   {
+    "name": "Roman Red",
+    "hex": "#96452A"
+   },
+   {
+    "name": "Doublet Olive",
+    "hex": "#6E5823"
+   },
+   {
+    "name": "Windowlight",
+    "hex": "#E7DDB2"
+   }
+  ],
+  "accent_hex": "#D5701F",
+  "blurb": "A blade of golden light cuts the tavern gloom, striking ochre sleeves, scattered coins, and rust-red velvet amid deep brown shadow. Radiant golds carry primary signals and emphasis; earthen darks and olive supports structure axes, labels, and background.",
+  "palette_poor": false,
+  "notes": "Deepened slot 2 (#CDA562 to #C89A55) to separate it from the primary gold, and enriched the rust red (#8C482B to #96452A) so the sixth categorical color reads clearly. Accent kept: the saturated orange pops against the chiaroscuro earths."
+ },
+ {
+  "slug": "night_watch",
+  "colors": [
+   {
+    "name": "Militia Gold",
+    "hex": "#D19927"
+   },
+   {
+    "name": "Captain's Sash",
+    "hex": "#902B00"
+   },
+   {
+    "name": "Gunpowder",
+    "hex": "#292319"
+   },
+   {
+    "name": "Drummer Bronze",
+    "hex": "#874F00"
+   },
+   {
+    "name": "Musket Umber",
+    "hex": "#5C3400"
+   },
+   {
+    "name": "Buff Leather",
+    "hex": "#7A5E3B"
+   },
+   {
+    "name": "Aged Varnish",
+    "hex": "#9B7B36"
+   },
+   {
+    "name": "Lace Collar",
+    "hex": "#F3DAAC"
+   }
+  ],
+  "accent_hex": "#D77000",
+  "blurb": "Torch-gold uniforms and a crimson sash surge out of Rembrandt's cavernous brown night. Gold and rust lead the headline series, layered umbers and buff leather supply context, and a parchment-pale ground keeps multi-panel figures luminous.",
+  "palette_poor": false,
+  "notes": "Lightened slot 6 (#6E522F to #7A5E3B) to keep it distinguishable from the two saturated dark browns beside it in the categorical set. Everything else, including the excellent gold and sash red, kept verbatim."
+ },
+ {
+  "slug": "girl_with_a_pearl_earring",
+  "colors": [
+   {
+    "name": "Jacket Gold",
+    "hex": "#DBB176"
+   },
+   {
+    "name": "Shadow Ochre",
+    "hex": "#A28963"
+   },
+   {
+    "name": "Turban Blue",
+    "hex": "#62829B"
+   },
+   {
+    "name": "Ultramarine",
+    "hex": "#33485F"
+   },
+   {
+    "name": "Black Ground",
+    "hex": "#2A2318"
+   },
+   {
+    "name": "Walnut Glaze",
+    "hex": "#524228"
+   },
+   {
+    "name": "Pearl Gray",
+    "hex": "#A0AFB9"
+   },
+   {
+    "name": "Ivory Glow",
+    "hex": "#EDDAC7"
+   }
+  ],
+  "accent_hex": "#C1793A",
+  "blurb": "A lapis turban and glowing ochre jacket turn toward the light, crowned by a single drop of pearl against the void. Warm golds flag primary results, the twin blues answer as cool secondaries, and pearl gray softens gridlines over an ivory field.",
+  "palette_poor": false,
+  "notes": "Enriched both blues toward Vermeer's actual ultramarine (slot 3 #708491 to #62829B, slot 4 #394957 to #33485F); the extraction had grayed them out. Accent nudged from #BD7D45 to a slightly more saturated #C1793A so it pops as a callout."
+ },
+ {
+  "slug": "the_milkmaid",
+  "colors": [
+   {
+    "name": "Bodice Gold",
+    "hex": "#C39F58"
+   },
+   {
+    "name": "Bread Crust",
+    "hex": "#785D40"
+   },
+   {
+    "name": "Apron Blue",
+    "hex": "#31506F"
+   },
+   {
+    "name": "Kitchen Dark",
+    "hex": "#202426"
+   },
+   {
+    "name": "Pewter Shade",
+    "hex": "#5D5649"
+   },
+   {
+    "name": "Daylight Wall",
+    "hex": "#9F9884"
+   },
+   {
+    "name": "Clay Jug",
+    "hex": "#5C3833"
+   },
+   {
+    "name": "Fresh Milk",
+    "hex": "#E2DDC7"
+   }
+  ],
+  "accent_hex": "#C4813F",
+  "blurb": "Lead-tin yellow bodice, ultramarine apron, and a quiet ribbon of milk poured in cool morning light. Warm bread-and-gold hues head the categorical series, apron blue provides contrast, and plaster neutrals keep panels calm and legible.",
+  "palette_poor": false,
+  "notes": "Brightened the muddy primary gold (#B3996C to #C39F58) toward the bodice's lead-tin yellow, enriched the apron blue (#33495E to #31506F), and warmed the earthenware slot (#513734 to #5C3833). Accent saturated slightly (#B38152 to #C4813F)."
+ },
+ {
+  "slug": "the_blue_boy",
+  "colors": [
+   {
+    "name": "Russet Moor",
+    "hex": "#52391C"
+   },
+   {
+    "name": "Sandy Path",
+    "hex": "#897554"
+   },
+   {
+    "name": "Blue Satin",
+    "hex": "#4B7090"
+   },
+   {
+    "name": "Cobalt Shade",
+    "hex": "#25455C"
+   },
+   {
+    "name": "Black Plume",
+    "hex": "#1B252D"
+   },
+   {
+    "name": "Olive Dusk",
+    "hex": "#47473E"
+   },
+   {
+    "name": "Silver Sky",
+    "hex": "#869AA3"
+   },
+   {
+    "name": "Rosy Lace",
+    "hex": "#F3D8C1"
+   }
+  ],
+  "accent_hex": "#B26840",
+  "blurb": "Shimmering steel-blue satin stands against a russet moor and a brooding silver sky. Satin blues and earthy warms divide the categorical load, the black plume grounds text and lines, and pale lace recedes softly into the background.",
+  "palette_poor": false,
+  "notes": "Enriched the satin pair (#516D81 to #4B7090, #274150 to #25455C) since the extraction undersold the suit's shimmer, which is the painting's whole point. Accent raised from a dull #926241 to #B26840 so the warm callout actually pops against the blues."
+ },
+ {
+  "slug": "the_swing",
+  "colors": [
+   {
+    "name": "Bough Brown",
+    "hex": "#7D5546"
+   },
+   {
+    "name": "Petticoat Pink",
+    "hex": "#C69488"
+   },
+   {
+    "name": "Sage Leaf",
+    "hex": "#828A75"
+   },
+   {
+    "name": "Thicket Dark",
+    "hex": "#222420"
+   },
+   {
+    "name": "Ivy Shadow",
+    "hex": "#4F5C53"
+   },
+   {
+    "name": "Misty Sky",
+    "hex": "#9DB8C4"
+   },
+   {
+    "name": "Secret Garden",
+    "hex": "#384038"
+   },
+   {
+    "name": "Blossom Cream",
+    "hex": "#E6DBCC"
+   }
+  ],
+  "accent_hex": "#C4614E",
+  "blurb": "A froth of petticoat pink sails through sage shadows and misty garden light, watched from the secret thicket below. The rosy warm pair spotlights primary data, layered greens build context and structure, and blossom cream backs every panel.",
+  "palette_poor": false,
+  "notes": "The extraction caught the garden but muddied the iconic dress; rosied slot 2 (#B49684 to #C69488) and warmed slot 1 (#755344 to #7D5546) to echo it, cooled the sky slot (#A1B9BB to #9DB8C4). Replaced the drab #94604D accent with a saturated coral-rose #C4614E drawn from the dress shadows."
+ },
+ {
+  "slug": "mona_lisa",
+  "colors": [
+   {
+    "name": "Gioconda Gold",
+    "hex": "#C48E1E"
+   },
+   {
+    "name": "Sleeve Amber",
+    "hex": "#92601A"
+   },
+   {
+    "name": "Valley Sage",
+    "hex": "#AAAF64"
+   },
+   {
+    "name": "Hillside Olive",
+    "hex": "#637131"
+   },
+   {
+    "name": "Midnight Silk",
+    "hex": "#2A1F35"
+   },
+   {
+    "name": "Earthen Road",
+    "hex": "#6A3A2A"
+   },
+   {
+    "name": "Poplar Shade",
+    "hex": "#4B522B"
+   },
+   {
+    "name": "Ivory Smile",
+    "hex": "#F2DAAC"
+   }
+  ],
+  "accent_hex": "#D47200",
+  "blurb": "Amber sfumato light settles over a smoky green river valley behind the world's most guarded smile. Warm golds carry primary signals, valley greens supply cool context, and a midnight silk dark anchors text and gridlines.",
+  "palette_poor": false,
+  "notes": "Brightened the lead gold (#B9851F to #C48E1E) for cleaner separation from the amber second slot; all other hexes verbatim."
+ },
+ {
+  "slug": "last_supper",
+  "colors": [
+   {
+    "name": "Refectory Rose",
+    "hex": "#D0A082"
+   },
+   {
+    "name": "Walnut Beam",
+    "hex": "#52381F"
+   },
+   {
+    "name": "Cenacolo Dark",
+    "hex": "#2F201A"
+   },
+   {
+    "name": "Faded Fresco",
+    "hex": "#91745D"
+   },
+   {
+    "name": "Slate Robe",
+    "hex": "#5D6377"
+   },
+   {
+    "name": "Linen Ash",
+    "hex": "#AB9B8D"
+   },
+   {
+    "name": "Umber Wall",
+    "hex": "#584B41"
+   },
+   {
+    "name": "Milan Plaster",
+    "hex": "#E4DBD7"
+   }
+  ],
+  "accent_hex": "#C4653C",
+  "blurb": "Faded plaster, walnut shadow, and a last breath of warm terracotta cling to Leonardo's refectory wall. Muted warm tones lead the data story while slate and linen grays recede into structure for restrained, print-safe figures.",
+  "palette_poor": false,
+  "notes": "Extraction is faithful to the degraded mural. Enriched the gray slate toward the robe blues (#64646E to #5D6377) and saturated the accent from #BC7C5D so the callout actually pops."
+ },
+ {
+  "slug": "birth_of_venus",
+  "colors": [
+   {
+    "name": "Venus Gold",
+    "hex": "#C0831D"
+   },
+   {
+    "name": "Honeyed Shell",
+    "hex": "#D6AD56"
+   },
+   {
+    "name": "Sea Foam",
+    "hex": "#C4CD9E"
+   },
+   {
+    "name": "Myrtle Green",
+    "hex": "#889263"
+   },
+   {
+    "name": "Laurel Night",
+    "hex": "#282518"
+   },
+   {
+    "name": "Olive Shore",
+    "hex": "#535128"
+   },
+   {
+    "name": "Auburn Wing",
+    "hex": "#A65629"
+   },
+   {
+    "name": "Dawn Ivory",
+    "hex": "#E5DDBC"
+   }
+  ],
+  "accent_hex": "#D96E00",
+  "blurb": "Wind-blown gold falls over a pale seafoam gulf as laurel greens darken the shore of Venus's arrival. Radiant golds head the series order, sea greens hold the cool half, and a foam-light ivory keeps multi-panel layouts airy.",
+  "palette_poor": false,
+  "notes": "Cooled slot 3 toward true seafoam (#CAC994 to #C4CD9E) so the cool pair reads green against the golds; rest verbatim."
+ },
+ {
+  "slug": "primavera",
+  "colors": [
+   {
+    "name": "Venus Scarlet",
+    "hex": "#A62714"
+   },
+   {
+    "name": "Medici Orange",
+    "hex": "#D09758"
+   },
+   {
+    "name": "Grove Green",
+    "hex": "#33402A"
+   },
+   {
+    "name": "Zephyr Blue",
+    "hex": "#7C8FA3"
+   },
+   {
+    "name": "Shadow Bough",
+    "hex": "#5E321D"
+   },
+   {
+    "name": "Graces' Veil",
+    "hex": "#D1AE89"
+   },
+   {
+    "name": "Orchard Bark",
+    "hex": "#784A29"
+   },
+   {
+    "name": "Flora Cream",
+    "hex": "#F2DAB2"
+   }
+  ],
+  "accent_hex": "#D42414",
+  "blurb": "A scarlet mantle and ripening Medici oranges glow out of a midnight grove carpeted with five hundred flowers. Red and gold lead as warm signals, grove green and Zephyr's gray-blue cool the field, and Flora's cream lights the background.",
+  "palette_poor": false,
+  "notes": "Extraction was brown-clustered with no cool hue and three near-identical tans. Retuned slot 3 to the grove's dark laurel green (#272225 to #33402A) and slot 4 to Zephyrus's blue-gray flesh and drapery (#B68262 to #7C8FA3), both hues genuinely present in the painting, so the six categorical colors now separate cleanly. Not flagged poor since the fix stays true to the canvas."
+ },
+ {
+  "slug": "creation_of_adam",
+  "colors": [
+   {
+    "name": "Sistine Ochre",
+    "hex": "#8F6A16"
+   },
+   {
+    "name": "Adam's Clay",
+    "hex": "#CFA45E"
+   },
+   {
+    "name": "Sash Green",
+    "hex": "#7A955A"
+   },
+   {
+    "name": "Empyrean Teal",
+    "hex": "#519BAB"
+   },
+   {
+    "name": "First Shadow",
+    "hex": "#2E2117"
+   },
+   {
+    "name": "Mantle Russet",
+    "hex": "#6D3920"
+   },
+   {
+    "name": "Vault Olive",
+    "hex": "#544521"
+   },
+   {
+    "name": "Genesis Cream",
+    "hex": "#E7DCC1"
+   }
+  ],
+  "accent_hex": "#C26A00",
+  "blurb": "Clay-warm bodies and a dusty rose mantle drift through teal heaven, two fingertips apart on Sistine plaster. Ochre and clay mark primary series, sash green and empyrean teal answer them coolly, and plaster cream steadies the page.",
+  "palette_poor": false,
+  "notes": "Brightened the muddy lead gold (#7A5A13 to #8F6A16) and lifted the accent (#A35B00 to #C26A00) for a livelier callout; strong extraction otherwise."
+ },
+ {
+  "slug": "school_of_athens",
+  "colors": [
+   {
+    "name": "Stanza Gold",
+    "hex": "#CE9147"
+   },
+   {
+    "name": "Athens Bronze",
+    "hex": "#6F3E0B"
+   },
+   {
+    "name": "Zenith Blue",
+    "hex": "#84A5CD"
+   },
+   {
+    "name": "Aegean Azure",
+    "hex": "#5882A3"
+   },
+   {
+    "name": "Niche Shadow",
+    "hex": "#262322"
+   },
+   {
+    "name": "Pantheon Stone",
+    "hex": "#8C7C54"
+   },
+   {
+    "name": "Scholar Sepia",
+    "hex": "#674F2E"
+   },
+   {
+    "name": "Parchment",
+    "hex": "#E8DDB4"
+   }
+  ],
+  "accent_hex": "#D5711E",
+  "blurb": "Amber robes descend marble steps beneath coffered vaults that open onto a clear Athenian sky. Warm golds flag the leading series, arched blues give measured cool counterpoint, and parchment neutrals carry grids and backgrounds.",
+  "palette_poor": false,
+  "notes": "Extraction already balanced between warm robes and architectural blues; all hexes kept verbatim."
+ },
+ {
+  "slug": "tower_of_babel",
+  "colors": [
+   {
+    "name": "Babel Brick",
+    "hex": "#B85D1E"
+   },
+   {
+    "name": "Masonry Gold",
+    "hex": "#C3953A"
+   },
+   {
+    "name": "Flemish Plain",
+    "hex": "#8B945B"
+   },
+   {
+    "name": "Field Green",
+    "hex": "#3C5531"
+   },
+   {
+    "name": "Vault Shadow",
+    "hex": "#2A2310"
+   },
+   {
+    "name": "Harbor Teal",
+    "hex": "#73BBB9"
+   },
+   {
+    "name": "Scaffold Olive",
+    "hex": "#6D591F"
+   },
+   {
+    "name": "Pale Horizon",
+    "hex": "#EAE2C7"
+   }
+  ],
+  "accent_hex": "#CE4B03",
+  "blurb": "Rust-red brick ramps spiral over golden Flemish stonework while a teal harbor stretches beyond the unfinished tower. Warm masonry tones flag primary series; sea greens and field darks supply cool structure for multi-panel figures.",
+  "palette_poor": false,
+  "notes": "Extraction is excellent: brick orange, ochre stone, landscape greens, and the distinctive harbor teal all present. No hex changes needed."
+ },
+ {
+  "slug": "the_ambassadors",
+  "colors": [
+   {
+    "name": "Astrolabe Gold",
+    "hex": "#A27622"
+   },
+   {
+    "name": "Satin Crimson",
+    "hex": "#8E2823"
+   },
+   {
+    "name": "Damask Green",
+    "hex": "#2F4400"
+   },
+   {
+    "name": "Curtain Moss",
+    "hex": "#5F6E34"
+   },
+   {
+    "name": "Scholar Black",
+    "hex": "#272320"
+   },
+   {
+    "name": "Cosmati Stone",
+    "hex": "#8C7850"
+   },
+   {
+    "name": "Lute Brown",
+    "hex": "#503A18"
+   },
+   {
+    "name": "Ermine Cream",
+    "hex": "#E6DCC6"
+   }
+  ],
+  "accent_hex": "#BE6700",
+  "blurb": "Gold instruments and pink-crimson satin glow against the deep green damask behind Holbein's two envoys. The gilded warm pair drives primary emphasis while curtain greens and scholarly darks structure secondary panels and gridlines.",
+  "palette_poor": false,
+  "notes": "Brightened the crimson (#822621 to #8E2823) to match the luminous satin sleeves and lift it as a categorical color; all else verbatim."
+ },
+ {
+  "slug": "young_hare",
+  "colors": [
+   {
+    "name": "Sunlit Fur",
+    "hex": "#AA9276"
+   },
+   {
+    "name": "Burrow Umber",
+    "hex": "#52412F"
+   },
+   {
+    "name": "Watchful Eye",
+    "hex": "#2D2117"
+   },
+   {
+    "name": "Whisker Buff",
+    "hex": "#D2C5B2"
+   },
+   {
+    "name": "Cast Shadow",
+    "hex": "#6E685F"
+   },
+   {
+    "name": "Downy Taupe",
+    "hex": "#927B69"
+   },
+   {
+    "name": "Warren Dun",
+    "hex": "#6F6154"
+   },
+   {
+    "name": "Vellum",
+    "hex": "#E8DBC7"
+   }
+  ],
+  "accent_hex": "#C17A45",
+  "blurb": "Every watercolor hair of the crouching hare, from russet ear to buff belly, rests on warm blank vellum. Soft browns grade the primary series and grays hold supporting roles, giving muted figures quiet, print-safe contrast.",
+  "palette_poor": false,
+  "notes": "Warmed slot 6 (#8E7E71 to #927B69) so it reads apart from the gray shadow beside it, and replaced the dull accent with a saturated russet (#C17A45) drawn from the ear and muzzle fur. Monochrome by design; faithful to the drawing."
+ },
+ {
+  "slug": "vertumnus",
+  "colors": [
+   {
+    "name": "Apple Cheek",
+    "hex": "#B4442D"
+   },
+   {
+    "name": "Wheat Gold",
+    "hex": "#C49B4B"
+   },
+   {
+    "name": "Gourd Green",
+    "hex": "#60A455"
+   },
+   {
+    "name": "Cabbage Leaf",
+    "hex": "#A8BA6E"
+   },
+   {
+    "name": "Harvest Night",
+    "hex": "#2C2A24"
+   },
+   {
+    "name": "Artichoke",
+    "hex": "#49692F"
+   },
+   {
+    "name": "Onion Skin",
+    "hex": "#763A2C"
+   },
+   {
+    "name": "Pear Blossom",
+    "hex": "#DFDEC9"
+   }
+  ],
+  "accent_hex": "#CC331E",
+  "blurb": "Rudolf II blooms out of the dark as apples, wheat, gourds, and roses composed into an emperor's face. Ripe reds and golds head the categorical order while leafy greens and vegetable darks fill secondary and structural roles.",
+  "palette_poor": false,
+  "notes": "Brightened the slightly muddy gold (#BA9552 to #C49B4B) toward the ripe wheat of his beard; the cherry-red accent already pops."
+ },
+ {
+  "slug": "view_of_toledo",
+  "colors": [
+   {
+    "name": "Lightning Sage",
+    "hex": "#909D5C"
+   },
+   {
+    "name": "Toledo Green",
+    "hex": "#425827"
+   },
+   {
+    "name": "Thunderhead",
+    "hex": "#1E2522"
+   },
+   {
+    "name": "Tagus Teal",
+    "hex": "#47838E"
+   },
+   {
+    "name": "Cloud Break",
+    "hex": "#90BABC"
+   },
+   {
+    "name": "Rampart Olive",
+    "hex": "#3F3F2C"
+   },
+   {
+    "name": "Slate Spire",
+    "hex": "#515F5C"
+   },
+   {
+    "name": "Moonlit Mist",
+    "hex": "#D3E0D9"
+   }
+  ],
+  "accent_hex": "#D4694F",
+  "blurb": "Storm light whips across Toledo, flashing acid greens and steel teals beneath a bruised thunderhead sky. Lit hillside hues carry the leading series while slate and rampart darks give cool structure to dense multi-panel layouts.",
+  "palette_poor": false,
+  "notes": "Enriched the sky teal (#4F858C to #47838E) for a steelier El Greco blue and saturated the salmon accent (#CF715E to #D4694F) so the lone warm callout pops against an all-cool palette."
+ },
+ {
+  "slug": "las_meninas",
+  "colors": [
+   {
+    "name": "Alcazar Glow",
+    "hex": "#C57D48"
+   },
+   {
+    "name": "Easel Umber",
+    "hex": "#623000"
+   },
+   {
+    "name": "Studio Shadow",
+    "hex": "#28231D"
+   },
+   {
+    "name": "Gilt Frame",
+    "hex": "#78592D"
+   },
+   {
+    "name": "Mastiff Tan",
+    "hex": "#B79A6A"
+   },
+   {
+    "name": "Santiago Red",
+    "hex": "#9B3A2C"
+   },
+   {
+    "name": "Walnut Door",
+    "hex": "#503A10"
+   },
+   {
+    "name": "Infanta Ivory",
+    "hex": "#F4D9AC"
+   }
+  ],
+  "accent_hex": "#DA6D31",
+  "blurb": "Amber palace light falls through velvet gloom onto the Infanta's ivory gown, with one flash of Santiago red at the painter's chest. Glowing warm browns lead the data hierarchy while deep studio shadows anchor text, lines, and background structure.",
+  "palette_poor": false,
+  "notes": "The extraction stacked three near-identical siennas; shifted slot 6 (#925B2A to #9B3A2C) to the painting's real red accents (Cross of Santiago, corsage ribbons, the bucaro cup), which fixes categorical separation while staying true to the canvas."
+ },
+ {
+  "slug": "sistine_madonna",
+  "colors": [
+   {
+    "name": "Papal Gold",
+    "hex": "#C68B29"
+   },
+   {
+    "name": "Madonna Red",
+    "hex": "#852316"
+   },
+   {
+    "name": "Curtain Green",
+    "hex": "#3E672B"
+   },
+   {
+    "name": "Velvet Fold",
+    "hex": "#274424"
+   },
+   {
+    "name": "Iron Ring",
+    "hex": "#24241F"
+   },
+   {
+    "name": "Bronze Cope",
+    "hex": "#9A6827"
+   },
+   {
+    "name": "Mantle Blue",
+    "hex": "#5C7A99"
+   },
+   {
+    "name": "Cherub Cream",
+    "hex": "#F1DBAB"
+   }
+  ],
+  "accent_hex": "#D86F00",
+  "blurb": "Emerald curtains draw back on papal gold, Madonna red, and clouds dissolving into cherub faces. Warm golds and reds carry primary signals, while curtain greens and the mantle's slate blue give cool structure and support.",
+  "palette_poor": false,
+  "notes": "Swapped the grayish sage support (#8D875D) for the Madonna's iconic slate-blue mantle (#5C7A99): the extraction had three near-greens and no blue, and the mantle is the painting's signature cool. All other hexes verbatim."
+ },
+ {
+  "slug": "venus_of_urbino",
+  "colors": [
+   {
+    "name": "Venetian Red",
+    "hex": "#940000"
+   },
+   {
+    "name": "Titian Gold",
+    "hex": "#D38218"
+   },
+   {
+    "name": "Dusk Window",
+    "hex": "#42427A"
+   },
+   {
+    "name": "Twilight Blue",
+    "hex": "#5C678D"
+   },
+   {
+    "name": "Velvet Shadow",
+    "hex": "#252327"
+   },
+   {
+    "name": "Cassone Brown",
+    "hex": "#824B20"
+   },
+   {
+    "name": "Venus Glow",
+    "hex": "#AE7C50"
+   },
+   {
+    "name": "Linen White",
+    "hex": "#F4E5D4"
+   }
+  ],
+  "accent_hex": "#D71A0E",
+  "blurb": "Crimson daybed and Titian-gold hair burn against dark velvet and a slate-blue dusk at the window. Saturated warm reds and golds flag primary data, while the twilight blues recede into context and secondary structure.",
+  "palette_poor": false,
+  "notes": "Enriched the duller indigo #434369 to #42427A so the cool pair holds its own against the strong reds. Accent kept: the vivid red pops cleanly above the deep couch crimson."
+ },
+ {
+  "slug": "bacchus_and_ariadne",
+  "colors": [
+   {
+    "name": "Satyr Russet",
+    "hex": "#935633"
+   },
+   {
+    "name": "Cheetah Gold",
+    "hex": "#BA925E"
+   },
+   {
+    "name": "Ultramarine",
+    "hex": "#1C4A84"
+   },
+   {
+    "name": "Aegean Blue",
+    "hex": "#527AB5"
+   },
+   {
+    "name": "Grove Umber",
+    "hex": "#342716"
+   },
+   {
+    "name": "Naxos Sea",
+    "hex": "#357691"
+   },
+   {
+    "name": "Cloud Drift",
+    "hex": "#83B1D7"
+   },
+   {
+    "name": "Shore Cream",
+    "hex": "#E1DEBF"
+   }
+  ],
+  "accent_hex": "#C8442B",
+  "blurb": "Titian's lavish ultramarine sky crashes into sun-bronzed revelers, cheetah gold, and the wine-dark grove of Naxos. Warm russets lead the eye as primary series, while layered blues from lapis to cloud set cool context.",
+  "palette_poor": false,
+  "notes": "Palette hexes verbatim: the lapis-to-cloud blue ladder is excellent. Accent warmed and saturated from #B15027 to #C8442B, taking Ariadne's vermillion sash as the true callout against all that blue."
+ },
+ {
+  "slug": "arnolfini_portrait",
+  "colors": [
+   {
+    "name": "Red Canopy",
+    "hex": "#93412B"
+   },
+   {
+    "name": "Tabard Plum",
+    "hex": "#61301F"
+   },
+   {
+    "name": "Gown Emerald",
+    "hex": "#35510A"
+   },
+   {
+    "name": "Olive Train",
+    "hex": "#5E6F2F"
+   },
+   {
+    "name": "Black Felt",
+    "hex": "#23241D"
+   },
+   {
+    "name": "Sleeve Teal",
+    "hex": "#00546B"
+   },
+   {
+    "name": "Aged Brass",
+    "hex": "#604E2A"
+   },
+   {
+    "name": "Veil Ivory",
+    "hex": "#F3D9B7"
+   }
+  ],
+  "accent_hex": "#C9581C",
+  "blurb": "A viridian bridal gown, madder-red canopy, and brass chandelier glow inside van Eyck's amber-lit chamber. Reds and plums mark primary emphasis, while the gown's greens and a teal sleeve carry cool secondary structure.",
+  "palette_poor": false,
+  "notes": "Lifted the murky gown green #2E4500 to #35510A so the cool pair separates from the near-black dark. Accent shifted from #BE442B to #C9581C, the oranges on the windowsill, keeping it distinct from the Red Canopy primary."
+ },
+ {
+  "slug": "garden_of_earthly_delights",
+  "colors": [
+   {
+    "name": "Eden Ochre",
+    "hex": "#BD8D38"
+   },
+   {
+    "name": "Hellfire Rust",
+    "hex": "#86450F"
+   },
+   {
+    "name": "Acid Meadow",
+    "hex": "#B5B030"
+   },
+   {
+    "name": "Orchard Olive",
+    "hex": "#686800"
+   },
+   {
+    "name": "Owl Night",
+    "hex": "#242421"
+   },
+   {
+    "name": "Thicket Green",
+    "hex": "#4E6541"
+   },
+   {
+    "name": "Fountain Teal",
+    "hex": "#5BA098"
+   },
+   {
+    "name": "Pale Revelers",
+    "hex": "#DFDFB9"
+   }
+  ],
+  "accent_hex": "#D0342C",
+  "blurb": "Acid-green meadows and alchemical teal pools teem with pale revelers beneath Eden's ochre hills. Golds and russets serve as warm primary channels, with chartreuse and olive greens supplying cool categorical contrast.",
+  "palette_poor": false,
+  "notes": "Hexes verbatim; the green-heavy read is faithful to Bosch's garden. Accent changed from orange #CF750E to strawberry red #D0342C, the painting's giant strawberries, which pops harder against the chartreuse field."
+ },
+ {
+  "slug": "hunters_in_the_snow",
+  "colors": [
+   {
+    "name": "Hearth Ember",
+    "hex": "#7C3F00"
+   },
+   {
+    "name": "Thatch Gold",
+    "hex": "#B5914C"
+   },
+   {
+    "name": "Frozen Pond",
+    "hex": "#576E45"
+   },
+   {
+    "name": "Winter Sky",
+    "hex": "#85A48B"
+   },
+   {
+    "name": "Crow Black",
+    "hex": "#232423"
+   },
+   {
+    "name": "Timber Brown",
+    "hex": "#623F20"
+   },
+   {
+    "name": "Bramble Olive",
+    "hex": "#3D4018"
+   },
+   {
+    "name": "First Snow",
+    "hex": "#ECE0BF"
+   }
+  ],
+  "accent_hex": "#C25200",
+  "blurb": "Weary hunters and crow-black trees trudge across cream snow toward a frozen green-glass sky. Earthy embers and thatch golds carry the warm primary series, while pond and sky greens hold the cold contextual ground.",
+  "palette_poor": false,
+  "notes": "Cooled the pale green #869F75 to #85A48B to match Bruegel's icy blue-green sky and separate it from the warmer Frozen Pond. Accent brightened from #B74C00 to #C25200, echoing the blazing inn fire at left."
+ },
+ {
+  "slug": "the_parasol",
+  "colors": [
+   {
+    "name": "Maja Gold",
+    "hex": "#CEA106"
+   },
+   {
+    "name": "Majo Umber",
+    "hex": "#915D00"
+   },
+   {
+    "name": "Parasol Green",
+    "hex": "#7B7D51"
+   },
+   {
+    "name": "Grove Shade",
+    "hex": "#32431D"
+   },
+   {
+    "name": "Lapdog Black",
+    "hex": "#2B2121"
+   },
+   {
+    "name": "Madrid Sky",
+    "hex": "#6B9ABD"
+   },
+   {
+    "name": "Tawny Wall",
+    "hex": "#6A4217"
+   },
+   {
+    "name": "Sunlit Cream",
+    "hex": "#E0DEC8"
+   }
+  ],
+  "accent_hex": "#D37300",
+  "blurb": "A maja's golden skirt and jade parasol glow beneath a clear Madrid sky in Goya's sunlit tapestry cartoon. Rich golds lead the categorical series, foliage greens and sky blue cool the mid-range, and a pale cream ground keeps panels airy.",
+  "palette_poor": false,
+  "notes": "Extraction is faithful and well structured; all hexes kept verbatim. Accent already a saturated Goya orange that pops against the golds and sky blue."
+ },
+ {
+  "slug": "wanderer_above_the_sea_of_fog",
+  "colors": [
+   {
+    "name": "Crag Umber",
+    "hex": "#635A46"
+   },
+   {
+    "name": "Coat Olive",
+    "hex": "#443D2B"
+   },
+   {
+    "name": "Fog Silver",
+    "hex": "#C5C6D1"
+   },
+   {
+    "name": "Mist Slate",
+    "hex": "#7D828C"
+   },
+   {
+    "name": "Summit Shadow",
+    "hex": "#2E261C"
+   },
+   {
+    "name": "Distant Fir",
+    "hex": "#465556"
+   },
+   {
+    "name": "Morning Haze",
+    "hex": "#ACA39A"
+   },
+   {
+    "name": "Sky Veil",
+    "hex": "#E1DCDB"
+   }
+  ],
+  "accent_hex": "#B77A3C",
+  "blurb": "Olive crags rise through a silver-lavender sea of fog, all restraint and Romantic distance. Earthy warm tones mark primary data, fog slates and firs carry cool context, and the pale veil sits back as a quiet figure background.",
+  "palette_poor": false,
+  "notes": "Swapped slots 3 and 5: the near-black rock now anchors the dark slot and the lavender fog joins the slate as the cool pair, matching the role structure. Accent lifted from dull #83684D to an amber drawn from the wanderer's windblown hair so callouts actually pop against the muted grays."
+ },
+ {
+  "slug": "fighting_temeraire",
+  "colors": [
+   {
+    "name": "Sunset Gold",
+    "hex": "#6E4F13"
+   },
+   {
+    "name": "Ghost Sail",
+    "hex": "#DAC495"
+   },
+   {
+    "name": "Moonrise Blue",
+    "hex": "#8798AD"
+   },
+   {
+    "name": "Tug Iron",
+    "hex": "#706A61"
+   },
+   {
+    "name": "Funnel Smoke",
+    "hex": "#443630"
+   },
+   {
+    "name": "Thames Haze",
+    "hex": "#AFA084"
+   },
+   {
+    "name": "Old Oak",
+    "hex": "#746244"
+   },
+   {
+    "name": "Dusk Cream",
+    "hex": "#E4DCCA"
+   }
+  ],
+  "accent_hex": "#C2571E",
+  "blurb": "A ghostly warship drifts on molten gold water while funnel smoke and a pale moonrise blue close the sky. Sunset golds carry emphasis and primary series; grays, blues, and old-oak browns structure secondary panels, axes, and grids.",
+  "palette_poor": false,
+  "notes": "Reordered so the moonlit blue-gray and tug iron form the cool pair and the smoke brown sits in the dark slot. Brightened the muddy #563E0F gold, blued the weak #9099A3 sky, deepened the tan haze for separation from Ghost Sail, and replaced the dull accent with the painting's red-orange sun."
+ },
+ {
+  "slug": "rain_steam_and_speed",
+  "colors": [
+   {
+    "name": "Golden Steam",
+    "hex": "#D9C392"
+   },
+   {
+    "name": "Ochre Drift",
+    "hex": "#AE9459"
+   },
+   {
+    "name": "Rain Veil",
+    "hex": "#7A9295"
+   },
+   {
+    "name": "Towpath Olive",
+    "hex": "#5C4D20"
+   },
+   {
+    "name": "Engine Iron",
+    "hex": "#403126"
+   },
+   {
+    "name": "Bridge Shadow",
+    "hex": "#796E53"
+   },
+   {
+    "name": "Maidenhead",
+    "hex": "#6E513A"
+   },
+   {
+    "name": "Vapor Cream",
+    "hex": "#E4DDC7"
+   }
+  ],
+  "accent_hex": "#C0752F",
+  "blurb": "Golden steam and driving rain dissolve Maidenhead's brick viaduct into luminous ochre haze. Warm mist tones head the categorical ramp, a rain-slate teal supplies the lone cool counterweight, and engine-iron darks anchor text and lines.",
+  "palette_poor": false,
+  "notes": "Moved the rain-teal into the cool slot and the locomotive dark into slot 5. Deepened #B5A57B to a richer ochre so the warm pair no longer reads as near-duplicates, cooled the teal slightly, lightened the dark olive off the engine brown, and warmed the accent toward the firebox glow."
+ },
+ {
+  "slug": "the_hay_wain",
+  "colors": [
+   {
+    "name": "Meadow Gold",
+    "hex": "#877936"
+   },
+   {
+    "name": "Wain Timber",
+    "hex": "#6A451B"
+   },
+   {
+    "name": "Stour Blue",
+    "hex": "#5C7495"
+   },
+   {
+    "name": "Elm Shade",
+    "hex": "#413E27"
+   },
+   {
+    "name": "Millpond Dark",
+    "hex": "#2A221F"
+   },
+   {
+    "name": "Thatch Gray",
+    "hex": "#767065"
+   },
+   {
+    "name": "Cloud Silver",
+    "hex": "#A3ACB5"
+   },
+   {
+    "name": "English Sky",
+    "hex": "#D7DEE2"
+   }
+  ],
+  "accent_hex": "#B25E27",
+  "blurb": "Constable's Stour idles past meadow gold, elm-shaded greens, and a towering silver-clouded English sky. Warm field hues take the primary series, river and cloud blues give cool balance, and a pale sky wash makes an unobtrusive background.",
+  "palette_poor": false,
+  "notes": "Structure already correct. Brightened the muddy meadow olive-gold, enriched the slate river blue, and turned the accent toward the famous red harness touches so highlights pop against green and blue."
+ },
+ {
+  "slug": "the_gleaners",
+  "colors": [
+   {
+    "name": "Stubble Gold",
+    "hex": "#AF9C69"
+   },
+   {
+    "name": "Sheaf Umber",
+    "hex": "#635334"
+   },
+   {
+    "name": "Faded Rose",
+    "hex": "#6F5158"
+   },
+   {
+    "name": "Hayrick Sage",
+    "hex": "#96998A"
+   },
+   {
+    "name": "Indigo Hood",
+    "hex": "#27212D"
+   },
+   {
+    "name": "Wheat Chaff",
+    "hex": "#D8C4A0"
+   },
+   {
+    "name": "Field Loam",
+    "hex": "#493B2E"
+   },
+   {
+    "name": "Harvest Haze",
+    "hex": "#E8DBC8"
+   }
+  ],
+  "accent_hex": "#AC4F2B",
+  "blurb": "Three bent figures glean a stubble-gold field beneath a hazy harvest sky, dignity rendered in wheat and loam. Earthen golds encode primary signals, rose and sage add muted contrast, and an indigo-dark hood tone grounds text and outlines.",
+  "palette_poor": false,
+  "notes": "Reordered so the mauve-rose and sage form the cool pair and the near-black indigo of the caps and shadows takes the dark slot. Warmed the stubble gold slightly, shifted the gray-mauve toward the middle gleaner's faded rose sleeve for separation from Sheaf Umber, and set the accent to a brick red echoing her cap."
+ },
+ {
+  "slug": "ophelia",
+  "colors": [
+   {
+    "name": "Brocade Gold",
+    "hex": "#94742F"
+   },
+   {
+    "name": "Drifting Silk",
+    "hex": "#BAA370"
+   },
+   {
+    "name": "Nettle Green",
+    "hex": "#4C7400"
+   },
+   {
+    "name": "Reed Olive",
+    "hex": "#7D8423"
+   },
+   {
+    "name": "Brook Shadow",
+    "hex": "#28231E"
+   },
+   {
+    "name": "Willow Bough",
+    "hex": "#5D451E"
+   },
+   {
+    "name": "Deep Thicket",
+    "hex": "#374D20"
+   },
+   {
+    "name": "Daisy White",
+    "hex": "#F2F1ED"
+   }
+  ],
+  "accent_hex": "#C05F0B",
+  "blurb": "Riverbank greens and willow golds close over the pale shimmer of a drowned silk gown, strewn with daisies from Millais's fatal stream. Warm brocade tones carry primary signals while layered greens ground context in dense multi-panel figures.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #886B33 to #94742F to lift a muddy gold and separate it from the dark Willow Bough. Accent raised from #A16016 to a robin-breast #C05F0B so it pops against the greens."
+ },
+ {
+  "slug": "lady_of_shalott",
+  "colors": [
+   {
+    "name": "Tapestry Gold",
+    "hex": "#C17200"
+   },
+   {
+    "name": "Camelot Red",
+    "hex": "#A52E21"
+   },
+   {
+    "name": "Prow Black",
+    "hex": "#242420"
+   },
+   {
+    "name": "Riverbank Tan",
+    "hex": "#AA7B61"
+   },
+   {
+    "name": "Oaken Hull",
+    "hex": "#5B341C"
+   },
+   {
+    "name": "Auburn Braid",
+    "hex": "#9C6029"
+   },
+   {
+    "name": "Russet Leaf",
+    "hex": "#8B473A"
+   },
+   {
+    "name": "Ivory Gown",
+    "hex": "#F4D8BF"
+   }
+  ],
+  "accent_hex": "#DD5F00",
+  "blurb": "Autumn amber and tapestry crimson smolder against the black river as the Lady looses her chain at dusk. The two glowing warm hues lead primary series; muted reeds and boat-timber browns recede into supporting structure and annotation.",
+  "palette_poor": false,
+  "notes": "Enriched slot 2 from #9B3026 to #A52E21 to give the tapestry red more life and clearer separation from the Russet Leaf support. Painting has no true cool hue, so slot 3 is the dark river black; the warm monochrome is faithful to Waterhouse."
+ },
+ {
+  "slug": "flaming_june",
+  "colors": [
+   {
+    "name": "June Blaze",
+    "hex": "#FC7F00"
+   },
+   {
+    "name": "Ember Silk",
+    "hex": "#B53700"
+   },
+   {
+    "name": "Slumber Shade",
+    "hex": "#311F1F"
+   },
+   {
+    "name": "Chestnut Hair",
+    "hex": "#7B4000"
+   },
+   {
+    "name": "Crimson Couch",
+    "hex": "#782F2D"
+   },
+   {
+    "name": "Frieze Olive",
+    "hex": "#524621"
+   },
+   {
+    "name": "Antique Gold",
+    "hex": "#9A6C2E"
+   },
+   {
+    "name": "Marble Blush",
+    "hex": "#F7D7C2"
+   }
+  ],
+  "accent_hex": "#ED5E00",
+  "blurb": "One incandescent orange gown pours across sun-warmed marble beneath a molten Mediterranean noon. Blazing warm tones command emphasis and primary data; deep siennas and olive shadows steady secondary layers across figure panels.",
+  "palette_poor": false,
+  "notes": "No hex changes needed; the extraction already captures the gown's blaze and the supporting sienna and olive depths. Accent kept as-is."
+ },
+ {
+  "slug": "the_kiss_hayez",
+  "colors": [
+   {
+    "name": "Russet Cloak",
+    "hex": "#6F3720"
+   },
+   {
+    "name": "Stone Ochre",
+    "hex": "#B49E71"
+   },
+   {
+    "name": "Satin Blue",
+    "hex": "#5C7C9C"
+   },
+   {
+    "name": "Stair Shadow",
+    "hex": "#242323"
+   },
+   {
+    "name": "Castle Gloom",
+    "hex": "#3F3E34"
+   },
+   {
+    "name": "Aged Timber",
+    "hex": "#695138"
+   },
+   {
+    "name": "Ashlar Gray",
+    "hex": "#8A846C"
+   },
+   {
+    "name": "Silk Shimmer",
+    "hex": "#D3DFE2"
+   }
+  ],
+  "accent_hex": "#C24E2E",
+  "blurb": "A powder-blue satin dress catches the light against russet cloak and cold medieval stone. The warm-cool duet separates primary classes at a glance, while ashlar grays and stairwell darks handle grids, text, and quiet context.",
+  "palette_poor": false,
+  "notes": "Enriched slot 3 from #64798B to #5C7C9C so the signature satin dress reads as true blue rather than gray. Accent warmed and saturated from #A6573D to #C24E2E, echoing his red hose, to pop against the muted scheme."
+ },
+ {
+  "slug": "whistlers_mother",
+  "colors": [
+   {
+    "name": "Floorboard Tan",
+    "hex": "#BEA375"
+   },
+   {
+    "name": "Curtain Moss",
+    "hex": "#7C7555"
+   },
+   {
+    "name": "Widow Black",
+    "hex": "#25241B"
+   },
+   {
+    "name": "Studio Wall",
+    "hex": "#92948B"
+   },
+   {
+    "name": "Somber Fold",
+    "hex": "#3F3E33"
+   },
+   {
+    "name": "Lace Cuff",
+    "hex": "#CEC6B3"
+   },
+   {
+    "name": "Wainscot",
+    "hex": "#515041"
+   },
+   {
+    "name": "Muslin White",
+    "hex": "#E1DCD6"
+   }
+  ],
+  "accent_hex": "#C06A38",
+  "blurb": "An arrangement in grey and black: widow's dress, muslin cap, and a still studio wall in measured tans and olives. Restrained warm neutrals distinguish primary series without shouting; deep near-blacks anchor text, axes, and gridlines.",
+  "palette_poor": false,
+  "notes": "Nudged slot 4 from #8F8E7D to #92948B, slightly lighter and cooler, to separate the wall gray from the Curtain Moss olive in categorical use. Accent lifted from a dull #B38152 to #C06A38 for a warmer, more saturated callout that still suits Whistler's reserve."
+ },
+ {
+  "slug": "carnation_lily_lily_rose",
+  "colors": [
+   {
+    "name": "Lantern Glow",
+    "hex": "#C55C3E"
+   },
+   {
+    "name": "Paper Blush",
+    "hex": "#DD9E88"
+   },
+   {
+    "name": "Twilight Mauve",
+    "hex": "#A47099"
+   },
+   {
+    "name": "Evening Blue",
+    "hex": "#194B6B"
+   },
+   {
+    "name": "Nightfall",
+    "hex": "#1D2525"
+   },
+   {
+    "name": "Rosewood",
+    "hex": "#704039"
+   },
+   {
+    "name": "Lily Leaf",
+    "hex": "#045045"
+   },
+   {
+    "name": "Pinafore White",
+    "hex": "#E7D9E7"
+   }
+  ],
+  "accent_hex": "#DA4A2C",
+  "blurb": "Paper lanterns bloom orange and blush against a garden sinking into mauve and teal twilight. Lantern warmth flags highlights and primary data, while dusk blues and lily greens supply cool contrast for secondary structure.",
+  "palette_poor": false,
+  "notes": "No changes; the warm lantern pair against mauve, deep blue, and teal is the strongest extraction in this batch, and the accent already pops."
+ },
+ {
+  "slug": "the_ballet_class",
+  "colors": [
+   {
+    "name": "Perrot's Cane",
+    "hex": "#5C3F25"
+   },
+   {
+    "name": "Faded Sash",
+    "hex": "#D1C6A6"
+   },
+   {
+    "name": "Marble Green",
+    "hex": "#33573B"
+   },
+   {
+    "name": "Velvet Ribbon",
+    "hex": "#242422"
+   },
+   {
+    "name": "Master's Suit",
+    "hex": "#867B68"
+   },
+   {
+    "name": "Dusty Tulle",
+    "hex": "#AD9E9A"
+   },
+   {
+    "name": "Wall Shadow",
+    "hex": "#48473E"
+   },
+   {
+    "name": "Tutu White",
+    "hex": "#E4DADD"
+   }
+  ],
+  "accent_hex": "#AE5B36",
+  "blurb": "Gauzy tutus and emerald sashes drift across warm parquet in the sage-green calm of Degas's rehearsal room. Browns and creams lead the primary series; greens and soft grays hold context, with the palest tulle reserved for backgrounds.",
+  "palette_poor": false,
+  "notes": "Enriched the dark green (#2F422F -> #33573B) toward the emerald sashes and marble pilasters so it separates cleanly from the near-black slot; warmed the accent toward the red fan and hair ribbon (#946143 -> #AE5B36)."
+ },
+ {
+  "slug": "paris_street_rainy_day",
+  "colors": [
+   {
+    "name": "Facade Rose",
+    "hex": "#B28A7F"
+   },
+   {
+    "name": "Lamppost",
+    "hex": "#82A197"
+   },
+   {
+    "name": "Top Hat",
+    "hex": "#3B3932"
+   },
+   {
+    "name": "Overcast",
+    "hex": "#C8C7BB"
+   },
+   {
+    "name": "Umbrella Slate",
+    "hex": "#78828B"
+   },
+   {
+    "name": "Wet Cobble",
+    "hex": "#605850"
+   },
+   {
+    "name": "Zinc Roof",
+    "hex": "#465257"
+   },
+   {
+    "name": "Limestone",
+    "hex": "#E4DDC3"
+   }
+  ],
+  "accent_hex": "#BE6E5A",
+  "blurb": "Zinc rooftops, slate umbrellas, and rain-polished cobbles dissolve into the pearl light of a Paris drizzle. Dusty rose and lamppost green carry the main contrasts; layered gray-blues structure context while limestone cream stays for backgrounds.",
+  "palette_poor": false,
+  "notes": "Palette hexes kept verbatim, a faithful read of Caillebotte's rain-muted street; only the accent was saturated slightly (#B67E6F -> #BE6E5A) so the warm callout pops against the gray-blues without breaking the drizzle mood."
+ },
+ {
+  "slug": "boulevard_montmartre_at_night",
+  "colors": [
+   {
+    "name": "Gaslight Gold",
+    "hex": "#C9A71B"
+   },
+   {
+    "name": "Shopfront Glow",
+    "hex": "#A25C20"
+   },
+   {
+    "name": "Indigo Night",
+    "hex": "#343B65"
+   },
+   {
+    "name": "Wet Pavement",
+    "hex": "#5D6691"
+   },
+   {
+    "name": "Nocturne",
+    "hex": "#262130"
+   },
+   {
+    "name": "Bare Branch",
+    "hex": "#75643E"
+   },
+   {
+    "name": "Lamplit Ochre",
+    "hex": "#977F3F"
+   },
+   {
+    "name": "Halo Cream",
+    "hex": "#EDDCAB"
+   }
+  ],
+  "accent_hex": "#CE7600",
+  "blurb": "Gaslight gold and shopfront embers streak down a wet indigo boulevard in Pissarro's rainy Paris night. Luminous warm hues flag primary signals against deep blues that hold the nocturnal field, with a pale lamp halo as background.",
+  "palette_poor": false,
+  "notes": "No changes needed; the gold-against-indigo extraction nails the painting and the saturated orange accent already pops."
+ },
+ {
+  "slug": "the_childs_bath",
+  "colors": [
+   {
+    "name": "Carpet Madder",
+    "hex": "#5D3222"
+   },
+   {
+    "name": "Flushed Cheek",
+    "hex": "#A7877F"
+   },
+   {
+    "name": "Wardrobe Olive",
+    "hex": "#737950"
+   },
+   {
+    "name": "Dress Navy",
+    "hex": "#323F53"
+   },
+   {
+    "name": "Raven Chignon",
+    "hex": "#242A33"
+   },
+   {
+    "name": "Lilac Stripe",
+    "hex": "#808395"
+   },
+   {
+    "name": "Rosewood",
+    "hex": "#69524C"
+   },
+   {
+    "name": "Porcelain",
+    "hex": "#D6DEE4"
+   }
+  ],
+  "accent_hex": "#B25A3D",
+  "blurb": "Striped lilac and navy cottons fold around warm skin, a porcelain basin, and a madder-red carpet in Cassatt's tender bath scene. Earthy warms mark primary data; olive and navy give secondary weight while porcelain white keeps backgrounds quiet.",
+  "palette_poor": false,
+  "notes": "Nudged the khaki toward the green painted chest behind the figures (#777356 -> #737950) to separate it from the brown Rosewood slot; enriched the accent toward the carpet's burnt orange (#9D5C47 -> #B25A3D)."
+ },
+ {
+  "slug": "a_sunday_on_la_grande_jatte",
+  "colors": [
+   {
+    "name": "Sunlit Lawn",
+    "hex": "#BCB245"
+   },
+   {
+    "name": "Coral Parasol",
+    "hex": "#BA6B4D"
+   },
+   {
+    "name": "Meadow Green",
+    "hex": "#7B8D3B"
+   },
+   {
+    "name": "Jatte Foliage",
+    "hex": "#496C4D"
+   },
+   {
+    "name": "Sunday Suit",
+    "hex": "#3B3744"
+   },
+   {
+    "name": "Violet Shadow",
+    "hex": "#7D7BA4"
+   },
+   {
+    "name": "Bustle Plum",
+    "hex": "#814D5C"
+   },
+   {
+    "name": "Summer Muslin",
+    "hex": "#E5DCC9"
+   }
+  ],
+  "accent_hex": "#BD7F00",
+  "blurb": "Chartreuse lawns, violet shadows, and coral parasols shimmer in Seurat's pointillist Sunday stillness. Sunlit yellow-greens and warm coral head the categorical series; deep greens and violets recede into structure over a muslin-light background.",
+  "palette_poor": false,
+  "notes": "Kept all hexes verbatim; the extraction captures Seurat's complementary lawn-green vs violet-shadow logic well and the amber accent already reads as a strong callout."
+ },
+ {
+  "slug": "bathers_at_asnieres",
+  "colors": [
+   {
+    "name": "Bather's Tan",
+    "hex": "#9D6C60"
+   },
+   {
+    "name": "Sage Bank",
+    "hex": "#A4B190"
+   },
+   {
+    "name": "Asnieres Green",
+    "hex": "#656F52"
+   },
+   {
+    "name": "Bowler Black",
+    "hex": "#2B2126"
+   },
+   {
+    "name": "Factory Haze",
+    "hex": "#AAB3BC"
+   },
+   {
+    "name": "Slate Trousers",
+    "hex": "#49485A"
+   },
+   {
+    "name": "Seine Blue",
+    "hex": "#7A89A0"
+   },
+   {
+    "name": "Straw Cream",
+    "hex": "#E4DCCE"
+   }
+  ],
+  "accent_hex": "#C25B3A",
+  "blurb": "Hazy factory smoke hangs over the pale Seine while sunburnt bathers rest on a sage bank in Seurat's summer torpor. Muted warms and greens lead the data series; river blues and slate supply cool context beneath a straw-cream background.",
+  "palette_poor": false,
+  "notes": "Warmed the first slot slightly toward the bathers' sunburnt skin (#976C65 -> #9D6C60) and pushed the accent to the famous orange-red bathing cap (#A2675C -> #C25B3A), the painting's one true saturated punch."
+ },
+ {
+  "slug": "the_ninth_wave",
+  "colors": [
+   {
+    "name": "Dawn Gold",
+    "hex": "#DAB04F"
+   },
+   {
+    "name": "Amber Haze",
+    "hex": "#C8955D"
+   },
+   {
+    "name": "Deep Swell",
+    "hex": "#2A4F44"
+   },
+   {
+    "name": "Wreck Mahogany",
+    "hex": "#733F3C"
+   },
+   {
+    "name": "Mast Umber",
+    "hex": "#4F3A18"
+   },
+   {
+    "name": "Sunlit Spar",
+    "hex": "#B07357"
+   },
+   {
+    "name": "Brine Bronze",
+    "hex": "#816A44"
+   },
+   {
+    "name": "Foam Cream",
+    "hex": "#EDDCAB"
+   }
+  ],
+  "accent_hex": "#D14524",
+  "blurb": "Storm-broken dawn light floods a heaving emerald sea, gilding foam, wreckage, and hope in amber. Golds lead as primary series, deep sea-greens and umbers ground structure, and a foam cream keeps backgrounds luminous.",
+  "palette_poor": false,
+  "notes": "Extraction was all-warm and missed the iconic emerald wave; replaced the redundant near-black slot 3 with the sea's deep green (#2A4F44) for a true cool anchor. Accent shifted to the survivors' red flag vermillion, which pops harder against the golds than the old orange."
+ },
+ {
+  "slug": "barge_haulers_on_the_volga",
+  "colors": [
+   {
+    "name": "Volga Sand",
+    "hex": "#EFBB61"
+   },
+   {
+    "name": "Harness Ochre",
+    "hex": "#8B620B"
+   },
+   {
+    "name": "Summer Sky",
+    "hex": "#78C2C6"
+   },
+   {
+    "name": "River Teal",
+    "hex": "#599C98"
+   },
+   {
+    "name": "Hauler Shadow",
+    "hex": "#2E2025"
+   },
+   {
+    "name": "Barge Timber",
+    "hex": "#5B421B"
+   },
+   {
+    "name": "Shore Dust",
+    "hex": "#D7C596"
+   },
+   {
+    "name": "Sail Ivory",
+    "hex": "#E9E3D0"
+   }
+  ],
+  "accent_hex": "#CF7506",
+  "blurb": "Sun-bleached sand and a milky Volga sky press down on men the color of tar and worn leather. Warm ochres carry primary emphasis, river teals answer as cool secondaries, and pale shore neutrals recede into clean backgrounds.",
+  "palette_poor": false,
+  "notes": "Faithful extraction with a real warm-cool axis; left untouched."
+ },
+ {
+  "slug": "morning_in_a_pine_forest",
+  "colors": [
+   {
+    "name": "Morning Gold",
+    "hex": "#AF9A60"
+   },
+   {
+    "name": "Bear Fur",
+    "hex": "#79633E"
+   },
+   {
+    "name": "Pine Mist",
+    "hex": "#727D6B"
+   },
+   {
+    "name": "Mossy Trunk",
+    "hex": "#504E3E"
+   },
+   {
+    "name": "Forest Night",
+    "hex": "#1F2520"
+   },
+   {
+    "name": "Fog Silver",
+    "hex": "#9DA598"
+   },
+   {
+    "name": "Bark Umber",
+    "hex": "#473D23"
+   },
+   {
+    "name": "Dawn Cream",
+    "hex": "#E8DCC1"
+   }
+  ],
+  "accent_hex": "#C4813B",
+  "blurb": "Gold morning fog sifts through pine crowns onto mossy trunks where bear cubs climb a fallen tree. Muted khakis and forest greens give low-glare categorical contrast, with silvery mist and cream reserved for grids and backgrounds.",
+  "palette_poor": false,
+  "notes": "Muted extraction suits the misty forest; only the accent was saturated slightly so it still reads as a callout."
+ },
+ {
+  "slug": "breezing_up",
+  "colors": [
+   {
+    "name": "Hull Rust",
+    "hex": "#763316"
+   },
+   {
+    "name": "Mast Sienna",
+    "hex": "#8B5927"
+   },
+   {
+    "name": "Rolling Sea",
+    "hex": "#2F5245"
+   },
+   {
+    "name": "Spray Sage",
+    "hex": "#6E9480"
+   },
+   {
+    "name": "Anchor Brown",
+    "hex": "#36261A"
+   },
+   {
+    "name": "Canvas Tan",
+    "hex": "#B0986B"
+   },
+   {
+    "name": "Deck Khaki",
+    "hex": "#796F43"
+   },
+   {
+    "name": "Cloud Peach",
+    "hex": "#FBD7AE"
+   }
+  ],
+  "accent_hex": "#C94A1E",
+  "blurb": "A fair wind heels the catboat over green-teal chop, under warm clouds torn open to turquoise. Rusts and siennas flag the primary series, sea greens supply cool contrast, and sail tans with a peach sky soften supporting panels.",
+  "palette_poor": false,
+  "notes": "The cool pair read as land-olive rather than Homer's teal sea; retuned slots 3-4 toward the actual water greens (#2F5245, #6E9480) and saturated the accent to the boy's orange shirt."
+ },
+ {
+  "slug": "american_gothic",
+  "colors": [
+   {
+    "name": "Harvest Tan",
+    "hex": "#CC9C55"
+   },
+   {
+    "name": "Straw Blond",
+    "hex": "#DCC581"
+   },
+   {
+    "name": "Gothic Green",
+    "hex": "#74772A"
+   },
+   {
+    "name": "Prairie Khaki",
+    "hex": "#ADA04A"
+   },
+   {
+    "name": "Sunday Black",
+    "hex": "#222423"
+   },
+   {
+    "name": "Overall Denim",
+    "hex": "#5D7080"
+   },
+   {
+    "name": "Cameo Brown",
+    "hex": "#523919"
+   },
+   {
+    "name": "Gable Mint",
+    "hex": "#D1E3B9"
+   }
+  ],
+  "accent_hex": "#BF4E22",
+  "blurb": "Stern faces in Sunday black stand before straw-gold boards, olive trees, and a glimpse of denim overalls. Harvest golds head the categorical order, sober greens and denim carry structure, and a pale gable mint keeps backgrounds airy.",
+  "palette_poor": false,
+  "notes": "Extraction had six warm-olive colors and zero cool anchor; swapped the redundant gray-olive slot 6 for the farmer's denim overalls (#5D7080) and lifted slot 4's khaki for separation. Accent moved to the background barn red, which pops cleaner against the golds than orange."
+ },
+ {
+  "slug": "impression_sunrise",
+  "colors": [
+   {
+    "name": "Sunrise Ember",
+    "hex": "#B26746"
+   },
+   {
+    "name": "Harbor Slate",
+    "hex": "#445A64"
+   },
+   {
+    "name": "Skiff Green",
+    "hex": "#293D31"
+   },
+   {
+    "name": "Fog Gray",
+    "hex": "#818476"
+   },
+   {
+    "name": "Tide Sage",
+    "hex": "#8FA597"
+   },
+   {
+    "name": "Mist Celadon",
+    "hex": "#AFC6B7"
+   },
+   {
+    "name": "Mast Shadow",
+    "hex": "#53675A"
+   },
+   {
+    "name": "Dawn Blush",
+    "hex": "#F9D6C0"
+   }
+  ],
+  "accent_hex": "#E2603F",
+  "blurb": "An orange sun burns through Le Havre's blue-green harbor mist, its reflection stitched across still water. The lone warm ember serves as highlight and primary signal, while layered misty greens and slates order context, gridwork, and backgrounds.",
+  "palette_poor": false,
+  "notes": "Enriched the muddy terracotta primary (#9A664C to #B26746), nudged slot 2 toward the painting's blue-violet mist (#445A64) since the extraction skewed all-green, and raised the accent to the sun's true vermillion, the one saturated note Monet allowed."
+ },
+ {
+  "slug": "woman_with_a_parasol",
+  "colors": [
+   {
+    "name": "Meadow Olive",
+    "hex": "#7F8514"
+   },
+   {
+    "name": "Parasol Green",
+    "hex": "#374600"
+   },
+   {
+    "name": "Silhouette",
+    "hex": "#373A32"
+   },
+   {
+    "name": "Breeze Blue",
+    "hex": "#4E7CA5"
+   },
+   {
+    "name": "Summer Sky",
+    "hex": "#72ADCB"
+   },
+   {
+    "name": "Windblown Moss",
+    "hex": "#696B3B"
+   },
+   {
+    "name": "Field Khaki",
+    "hex": "#A8A272"
+   },
+   {
+    "name": "Cloud Cream",
+    "hex": "#E4DCC9"
+   }
+  ],
+  "accent_hex": "#D6422E",
+  "blurb": "A breezy hilltop of wind-tossed grass beneath a cloud-swept summer sky, a green parasol tilted against the light. Olive greens lead the data series, sky blues carry context, and a deep silhouette tone anchors text over soft cream.",
+  "palette_poor": false,
+  "notes": "Brightened the muddy chartreuse (#787C10 to #7F8514) and enriched the steel blue (#50799D to #4E7CA5). Note: this extraction placed the dark at slot 3 rather than slot 5; kept the extracted order to preserve strip role assignments."
+ },
+ {
+  "slug": "water_lilies",
+  "colors": [
+   {
+    "name": "Lily Pad",
+    "hex": "#639465"
+   },
+   {
+    "name": "Reflected Sky",
+    "hex": "#92BFE0"
+   },
+   {
+    "name": "Deep Water",
+    "hex": "#1D4A7C"
+   },
+   {
+    "name": "Willow Teal",
+    "hex": "#386162"
+   },
+   {
+    "name": "Pond Dusk",
+    "hex": "#234154"
+   },
+   {
+    "name": "Ripple Jade",
+    "hex": "#98BEB0"
+   },
+   {
+    "name": "Cloud Slate",
+    "hex": "#7A8595"
+   },
+   {
+    "name": "Morning Mist",
+    "hex": "#D5DFD7"
+   }
+  ],
+  "accent_hex": "#CE6478",
+  "blurb": "Lavender-blue water drifts beneath jade lily pads and faint rose blooms in Monet's pond at Giverny. Cool blues build the axes and context, greens mark living signal, and a blossom-pink accent calls out key points.",
+  "palette_poor": false,
+  "notes": "Enriched #183B5E to #1D4A7C so it separates from the dark slot, nudged #70858D toward the pond's lavender-gray (#7A8595), and shifted the accent from dull terracotta to the rose of the actual blossoms (#CE6478)."
+ },
+ {
+  "slug": "japanese_footbridge",
+  "colors": [
+   {
+    "name": "Sunlit Reeds",
+    "hex": "#B6CC8C"
+   },
+   {
+    "name": "Garden Green",
+    "hex": "#4B6734"
+   },
+   {
+    "name": "Bank Umber",
+    "hex": "#44372C"
+   },
+   {
+    "name": "Willow Shade",
+    "hex": "#687060"
+   },
+   {
+    "name": "Water Sage",
+    "hex": "#9AAD85"
+   },
+   {
+    "name": "Bridge Teal",
+    "hex": "#6F9C9C"
+   },
+   {
+    "name": "Deep Foliage",
+    "hex": "#344132"
+   },
+   {
+    "name": "Lily White",
+    "hex": "#D8DFD5"
+   }
+  ],
+  "accent_hex": "#D06B52",
+  "blurb": "Monet's blue-green footbridge arcs over a pond thick with sunlit reeds, drifting pads, and white blossoms. Layered greens separate the main series, the bridge's teal adds cool contrast, and dark foliage grounds text and gridlines.",
+  "palette_poor": false,
+  "notes": "Enriched the bridge teal (#749594 to #6F9C9C) so the painting's icon reads clearly among the greens; saturated the accent slightly (#CC7360 to #D06B52). Dark sits at slot 3 in this extraction; order preserved as given."
+ },
+ {
+  "slug": "luncheon_of_the_boating_party",
+  "colors": [
+   {
+    "name": "Straw Gold",
+    "hex": "#D19E43"
+   },
+   {
+    "name": "Awning Coral",
+    "hex": "#C76951"
+   },
+   {
+    "name": "Arbor Green",
+    "hex": "#3C5C3B"
+   },
+   {
+    "name": "Trellis Sage",
+    "hex": "#677D58"
+   },
+   {
+    "name": "Boater Navy",
+    "hex": "#26384B"
+   },
+   {
+    "name": "Muslin Mauve",
+    "hex": "#B889A5"
+   },
+   {
+    "name": "Cask Russet",
+    "hex": "#83503E"
+   },
+   {
+    "name": "Linen Cream",
+    "hex": "#E9DACF"
+   }
+  ],
+  "accent_hex": "#D9800F",
+  "blurb": "Straw-gold boaters, a coral-striped awning, and white linen glow amid riverside greens at Chatou. Warm gold and coral head the primary series, green and navy supply structure, and mauve and russet round out supporting layers.",
+  "palette_poor": false,
+  "notes": "Brightened the hat gold (#C79947 to #D19E43) to match the sunlit straw boaters and warmed the amber accent (#CD7613 to #D9800F) for stronger pop."
+ },
+ {
+  "slug": "bal_du_moulin_de_la_galette",
+  "colors": [
+   {
+    "name": "Lamplit Gold",
+    "hex": "#B0982A"
+   },
+   {
+    "name": "Chair Ochre",
+    "hex": "#865D2B"
+   },
+   {
+    "name": "Acacia Green",
+    "hex": "#546B16"
+   },
+   {
+    "name": "Shady Bower",
+    "hex": "#255025"
+   },
+   {
+    "name": "Top Hat Black",
+    "hex": "#232426"
+   },
+   {
+    "name": "Bench Teal",
+    "hex": "#1D7189"
+   },
+   {
+    "name": "Waltz Blue",
+    "hex": "#566089"
+   },
+   {
+    "name": "Gaslight Cream",
+    "hex": "#E9DCBD"
+   }
+  ],
+  "accent_hex": "#D68A02",
+  "blurb": "Gaslit golds and acacia canopies shimmer over a blue-black crowd waltzing through dappled Montmartre light. Lamplight hues drive primary emphasis, deep greens and teal frame the structure, and a dusk-violet support echoes the dance floor.",
+  "palette_poor": false,
+  "notes": "Replaced the redundant second brown (#5C4223, nearly identical to #865D2B) with the painting's signature blue-violet crowd tone (#566089), which the extraction had missed entirely. Brightened the gold and teal slightly and warmed the amber accent."
+ },
+ {
+  "slug": "two_sisters_on_the_terrace",
+  "colors": [
+   {
+    "name": "Red Hat",
+    "hex": "#C1272B"
+   },
+   {
+    "name": "Yarn Maroon",
+    "hex": "#74332F"
+   },
+   {
+    "name": "Spring Olive",
+    "hex": "#838243"
+   },
+   {
+    "name": "Flannel Indigo",
+    "hex": "#3A4585"
+   },
+   {
+    "name": "Navy Shadow",
+    "hex": "#212334"
+   },
+   {
+    "name": "Seine Blue",
+    "hex": "#397492"
+   },
+   {
+    "name": "Rosy Cheek",
+    "hex": "#B27F71"
+   },
+   {
+    "name": "Blossom Haze",
+    "hex": "#D9DEDC"
+   }
+  ],
+  "accent_hex": "#E8650F",
+  "blurb": "A vermilion hat blazes over navy flannel, spring blossoms, and the pale ribbon of the Seine at Chatou. Saturated reds carry emphasis and primary signal, indigo and river blue order the context, and a petal-gray field keeps panels airy.",
+  "palette_poor": false,
+  "notes": "Saturated the iconic hat red (#B42A2C to #C1272B) and enriched the indigo dress (#384378 to #3A4585). Moved the accent from red (#D71924), which would have collided with the Red Hat primary, to the vivid orange of the yarn balls in the basket (#E8650F)."
+ },
+ {
+  "slug": "napoleon_crossing_the_alps",
+  "colors": [
+   {
+    "name": "Cloak Gold",
+    "hex": "#D3A837"
+   },
+   {
+    "name": "Bridle Bronze",
+    "hex": "#AE7E40"
+   },
+   {
+    "name": "Uniform Blue",
+    "hex": "#33518D"
+   },
+   {
+    "name": "Granite Olive",
+    "hex": "#958A57"
+   },
+   {
+    "name": "Bicorne Plum",
+    "hex": "#371A28"
+   },
+   {
+    "name": "Marengo Cream",
+    "hex": "#CFB88B"
+   },
+   {
+    "name": "Boot Chestnut",
+    "hex": "#5F3122"
+   },
+   {
+    "name": "Alpine Snow",
+    "hex": "#EBDDAC"
+   }
+  ],
+  "accent_hex": "#CF7500",
+  "blurb": "A windswept golden cloak blazes over storm-gray granite while the young general, cobalt-clad on a rearing charger, points toward the pass. Gold and bronze lead the data hierarchy; uniform blue, olive, and stone neutrals carry context and background.",
+  "palette_poor": false,
+  "notes": "Extraction missed the painting's signature cobalt uniform and stacked three near-identical browns. Dropped redundant #72532A, promoted the uniform blue (#33518D) into the cool pair, moved the dark bicorne plum to slot 5 and the horse-coat cream to support. Accent orange kept."
+ },
+ {
+  "slug": "oath_of_the_horatii",
+  "colors": [
+   {
+    "name": "Roman Red",
+    "hex": "#B14E25"
+   },
+   {
+    "name": "Oath Russet",
+    "hex": "#682C0A"
+   },
+   {
+    "name": "Sword Steel",
+    "hex": "#6E7681"
+   },
+   {
+    "name": "Arcade Umber",
+    "hex": "#5A4A24"
+   },
+   {
+    "name": "Vault Black",
+    "hex": "#27231C"
+   },
+   {
+    "name": "Camilla Tan",
+    "hex": "#C99B60"
+   },
+   {
+    "name": "Column Olive",
+    "hex": "#9A875A"
+   },
+   {
+    "name": "Travertine",
+    "hex": "#E6DCC4"
+   }
+  ],
+  "accent_hex": "#C63B12",
+  "blurb": "Terracotta cloaks and outstretched swords catch a single shaft of light inside a shadowed Roman arcade. The reds command primary emphasis while steel, umber, and travertine neutrals frame secondary series, grids, and backgrounds.",
+  "palette_poor": false,
+  "notes": "Introduced the gleaming sword/armor steel (#6E7681) as a true cool, dropped redundant brown #77511B, moved the near-black to slot 5, and lifted the dark olive slightly for categorical separation."
+ },
+ {
+  "slug": "grande_odalisque",
+  "colors": [
+   {
+    "name": "Odalisque Gold",
+    "hex": "#C09A12"
+   },
+   {
+    "name": "Hookah Brass",
+    "hex": "#806020"
+   },
+   {
+    "name": "Damask Blue",
+    "hex": "#1F4A7E"
+   },
+   {
+    "name": "Lapis Mist",
+    "hex": "#6A89B2"
+   },
+   {
+    "name": "Boudoir Night",
+    "hex": "#2A2D36"
+   },
+   {
+    "name": "Fan Umber",
+    "hex": "#634D2B"
+   },
+   {
+    "name": "Sultana Skin",
+    "hex": "#B69874"
+   },
+   {
+    "name": "Pearl Linen",
+    "hex": "#E5DCCC"
+   }
+  ],
+  "accent_hex": "#CF7500",
+  "blurb": "Cool damask blues and a mustard silk drape wrap the odalisque's pearl-lit skin in Ingres's languid harem light. Golds flag primary signals, blues give balanced categorical contrast, and linen neutrals recede into backgrounds.",
+  "palette_poor": false,
+  "notes": "Structurally the best extraction of the set. Brightened the slightly muddy silk gold and enriched the curtain blue; everything else kept verbatim."
+ },
+ {
+  "slug": "liberty_leading_the_people",
+  "colors": [
+   {
+    "name": "Tricolore Red",
+    "hex": "#CB4D33"
+   },
+   {
+    "name": "Musket Brown",
+    "hex": "#5F4426"
+   },
+   {
+    "name": "Liberty Blue",
+    "hex": "#558DD4"
+   },
+   {
+    "name": "Smoke Slate",
+    "hex": "#4E6791"
+   },
+   {
+    "name": "Powder Black",
+    "hex": "#282221"
+   },
+   {
+    "name": "Coat Navy",
+    "hex": "#233E64"
+   },
+   {
+    "name": "Rubble Tan",
+    "hex": "#AA8B68"
+   },
+   {
+    "name": "Dawn Haze",
+    "hex": "#E4E1CF"
+   }
+  ],
+  "accent_hex": "#DE3620",
+  "blurb": "The tricolor snaps above the barricade, flag red and sky blue cutting through powder smoke and rubble browns. Revolutionary red marks primary emphasis; blues and smoke neutrals order secondary series, structure, and light.",
+  "palette_poor": false,
+  "notes": "Faithful extraction with real hue variety and a correct dark in slot 5; all hexes kept verbatim. Accent red already sings."
+ },
+ {
+  "slug": "raft_of_the_medusa",
+  "colors": [
+   {
+    "name": "Raft Timber",
+    "hex": "#693D25"
+   },
+   {
+    "name": "Castaway Flesh",
+    "hex": "#DCAF8C"
+   },
+   {
+    "name": "Storm Brine",
+    "hex": "#3F4B4A"
+   },
+   {
+    "name": "Sea Slate",
+    "hex": "#5C6660"
+   },
+   {
+    "name": "Abyss Umber",
+    "hex": "#331F12"
+   },
+   {
+    "name": "Canvas Gray",
+    "hex": "#C2B8A4"
+   },
+   {
+    "name": "Sunburnt Tan",
+    "hex": "#997B60"
+   },
+   {
+    "name": "Horizon Light",
+    "hex": "#F0DABB"
+   }
+  ],
+  "accent_hex": "#BC5B32",
+  "blurb": "Bruised sea-greens, storm-blackened timber, and the pallor of castaway flesh strain toward a thin light on the horizon. Muted warm tones carry the main signals while brine slates and canvas grays supply low-key context for dense figures.",
+  "palette_poor": false,
+  "notes": "Extraction held two indistinguishable near-blacks (#282221 vs #331F12) and no trace of the green-gray sea that fills half the canvas. Replaced the duplicates with two brine slates for the cool pair; warmed the dull sienna accent so it pops."
+ },
+ {
+  "slug": "third_of_may_1808",
+  "colors": [
+   {
+    "name": "Lantern Ochre",
+    "hex": "#D39B52"
+   },
+   {
+    "name": "Madrid Gold",
+    "hex": "#8F5C16"
+   },
+   {
+    "name": "Greatcoat Gray",
+    "hex": "#6F6F63"
+   },
+   {
+    "name": "Bitter Olive",
+    "hex": "#61703F"
+   },
+   {
+    "name": "Night Black",
+    "hex": "#27231D"
+   },
+   {
+    "name": "Dried Blood",
+    "hex": "#7A2A1C"
+   },
+   {
+    "name": "Hillside Sand",
+    "hex": "#D2B183"
+   },
+   {
+    "name": "Shirt Cream",
+    "hex": "#F0DAB8"
+   }
+  ],
+  "accent_hex": "#D1731F",
+  "blurb": "A lantern's cream glare rips the Madrid night, lighting the martyr's shirt, ochre earth, and blood pooled at the firing line. Warm ochres drive primary emphasis; gray, olive, and night black set the somber ground for multi-panel figures.",
+  "palette_poor": false,
+  "notes": "Dominant ochre/black/cream hues were right, but four near-identical browns made the categorical set unusable. Swapped three redundant browns for hues genuinely in the canvas: the soldiers' greatcoat gray, the kneeling man's olive breeches, and the dried-blood red; moved night black to the dark slot."
+ },
+ {
+  "slug": "starry_night",
+  "colors": [
+   {
+    "name": "Star Gold",
+    "hex": "#C2A800"
+   },
+   {
+    "name": "Moon Amber",
+    "hex": "#9A7000"
+   },
+   {
+    "name": "Ultramarine",
+    "hex": "#15409D"
+   },
+   {
+    "name": "Night Swirl",
+    "hex": "#2C589C"
+   },
+   {
+    "name": "Cypress",
+    "hex": "#212522"
+   },
+   {
+    "name": "Alpilles Blue",
+    "hex": "#5A83A7"
+   },
+   {
+    "name": "Olive Grove",
+    "hex": "#58663F"
+   },
+   {
+    "name": "Predawn Haze",
+    "hex": "#D0E2C9"
+   }
+  ],
+  "accent_hex": "#C77A00",
+  "blurb": "A churning midnight sky of ultramarine and slate, lit by stars of burning gold over a sleeping Provençal village. Golds carry primary signals and highlights, while layered night blues give context, structure, and depth across multi-panel figures.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #AE9C00 to #C2A800 so the star gold reads luminous rather than olive; all other hexes verbatim."
+ },
+ {
+  "slug": "sunflowers",
+  "colors": [
+   {
+    "name": "Chrome Yellow",
+    "hex": "#C7A500"
+   },
+   {
+    "name": "Vase Ochre",
+    "hex": "#997B00"
+   },
+   {
+    "name": "Stem Green",
+    "hex": "#809D0F"
+   },
+   {
+    "name": "Sepal Olive",
+    "hex": "#6E7C27"
+   },
+   {
+    "name": "Seed Umber",
+    "hex": "#403914"
+   },
+   {
+    "name": "Faded Leaf",
+    "hex": "#789069"
+   },
+   {
+    "name": "Dried Petal",
+    "hex": "#C1B44D"
+   },
+   {
+    "name": "Wall Cream",
+    "hex": "#E6DEAC"
+   }
+  ],
+  "accent_hex": "#C97900",
+  "blurb": "Fourteen blooms of chrome yellow against ochre and straw, sunlight painted with sunlight itself. The near-monochrome golds and stem greens read as an ordered sequence, with dark seed umber anchoring text and pale cream as a calm background.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #B59F00 to #C7A500 to capture the chrome-yellow blaze and separate it from the duller petal straw in slot 7. The palette is intentionally near-monochrome because the painting is yellow-on-yellow; not a failure."
+ },
+ {
+  "slug": "cafe_terrace_at_night",
+  "colors": [
+   {
+    "name": "Gaslight Gold",
+    "hex": "#B29200"
+   },
+   {
+    "name": "Terrace Amber",
+    "hex": "#895E01"
+   },
+   {
+    "name": "Cobalt Night",
+    "hex": "#004796"
+   },
+   {
+    "name": "Lamplit Olive",
+    "hex": "#7E7816"
+   },
+   {
+    "name": "Alley Shadow",
+    "hex": "#212428"
+   },
+   {
+    "name": "Starlit Slate",
+    "hex": "#3B6F8F"
+   },
+   {
+    "name": "Plane Tree",
+    "hex": "#2D4E30"
+   },
+   {
+    "name": "Table Linen",
+    "hex": "#E0DFBA"
+   }
+  ],
+  "accent_hex": "#C67500",
+  "blurb": "A gaslit awning pours molten gold across the cobblestones while a cobalt sky blooms with stars overhead. Lamp golds mark primary series and callouts; night blues and shadow greens supply cool structure, contrast, and quiet backgrounds.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #A08600 to #B29200 so the awning glow pops against the olive in slot 4; all other hexes verbatim."
+ },
+ {
+  "slug": "irises",
+  "colors": [
+   {
+    "name": "Marigold",
+    "hex": "#B39300"
+   },
+   {
+    "name": "Red Earth",
+    "hex": "#9C5E39"
+   },
+   {
+    "name": "Sword Leaf",
+    "hex": "#88A642"
+   },
+   {
+    "name": "Iris Blue",
+    "hex": "#1E4FA5"
+   },
+   {
+    "name": "Indigo Dusk",
+    "hex": "#27395A"
+   },
+   {
+    "name": "Garden Shade",
+    "hex": "#416B49"
+   },
+   {
+    "name": "Teal Blade",
+    "hex": "#1D6E7F"
+   },
+   {
+    "name": "White Petal",
+    "hex": "#BEE6D4"
+   }
+  ],
+  "accent_hex": "#CA7600",
+  "blurb": "Cobalt irises surge through sword-green leaves, edged by marigold fire and the rust-red earth of Saint-Rémy. Warm golds and terracotta lead primary emphasis, while iris blues and garden greens organize secondary series on a pale mint ground.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #A48800 to #B39300 for the marigold patch and enriched slot 4 from #1C4B92 to #1E4FA5 so the iris blue sings the way the flowers do; slot 8 nods to the painting's lone white iris."
+ },
+ {
+  "slug": "the_bedroom",
+  "colors": [
+   {
+    "name": "Bedframe Gold",
+    "hex": "#B78900"
+   },
+   {
+    "name": "Table Ochre",
+    "hex": "#965B00"
+   },
+   {
+    "name": "Window Lime",
+    "hex": "#9D9D18"
+   },
+   {
+    "name": "Straw Seat",
+    "hex": "#94923D"
+   },
+   {
+    "name": "Shutter Green",
+    "hex": "#323C26"
+   },
+   {
+    "name": "Floorboard",
+    "hex": "#916E35"
+   },
+   {
+    "name": "Door Blue",
+    "hex": "#357490"
+   },
+   {
+    "name": "Pillow Cream",
+    "hex": "#D9E0C3"
+   }
+  ],
+  "accent_hex": "#C93A1C",
+  "blurb": "A butter-yellow bed and rush chairs glow against calm blue walls, green shutters, and a scarlet coverlet in Arles. Furniture golds lead the categorical order, wall blues add cool structure, and the red accent flags key callouts.",
+  "palette_poor": false,
+  "notes": "Brightened slot 1 from #A37E00 to #B78900 to match the bed's warm yellow, and moved the accent from #C76B00 orange to #C93A1C scarlet — the painting's iconic red coverlet, which pops harder against this yellow-olive-blue palette than another orange would."
+ },
+ {
+  "slug": "tahitian_women_on_the_beach",
+  "colors": [
+   {
+    "name": "Pareo Red",
+    "hex": "#9B0B25"
+   },
+   {
+    "name": "Pandanus",
+    "hex": "#B56F2A"
+   },
+   {
+    "name": "Lagoon Green",
+    "hex": "#376043"
+   },
+   {
+    "name": "Reef Sage",
+    "hex": "#63825F"
+   },
+   {
+    "name": "Black Pearl",
+    "hex": "#252230"
+   },
+   {
+    "name": "Plum Shadow",
+    "hex": "#954E67"
+   },
+   {
+    "name": "Golden Sand",
+    "hex": "#CBA351"
+   },
+   {
+    "name": "Shell Pink",
+    "hex": "#F5D5DE"
+   }
+  ],
+  "accent_hex": "#D61B2E",
+  "blurb": "A crimson pareo and shell-pink gown rest on golden sand before a band of lagoon green and an ink-dark Pacific. Warm reds and coppers drive primary contrast, cool greens hold secondary context, and the palest pink recedes as background.",
+  "palette_poor": false,
+  "notes": "All hexes verbatim — a beautifully balanced extraction. Slot 2 is named for the orange pandanus fronds the seated woman is plaiting; slot 5 for the Tahitian black pearl of hair and sea."
+ },
+ {
+  "slug": "the_kiss_klimt",
+  "colors": [
+   {
+    "name": "Leaf Gold",
+    "hex": "#D4AF37"
+   },
+   {
+    "name": "Mosaic Rust",
+    "hex": "#C15932"
+   },
+   {
+    "name": "Meadow",
+    "hex": "#7E9C37"
+   },
+   {
+    "name": "Violet Bloom",
+    "hex": "#8162AC"
+   },
+   {
+    "name": "Ivy Shadow",
+    "hex": "#3C3225"
+   },
+   {
+    "name": "Aged Bronze",
+    "hex": "#876F2A"
+   },
+   {
+    "name": "Cliff Moss",
+    "hex": "#6A9556"
+   },
+   {
+    "name": "Pale Embrace",
+    "hex": "#ECDCAF"
+   }
+  ],
+  "accent_hex": "#E07800",
+  "blurb": "Molten gold leaf enfolds two lovers kneeling on a cliff of violet and green blossoms. Gilded warm hues carry primary signals and emphasis, while meadow greens and violet hold secondary structure against a soft cream ground.",
+  "palette_poor": false,
+  "notes": "Brightened the lead gold toward true gold leaf (#CCAD25 to #D4AF37), shifted the second green cooler (#719150 to #6A9556) to separate it from the yellow-green Meadow, and heated the accent to #E07800 so it pops against the gold field."
+ },
+ {
+  "slug": "adele_bloch_bauer",
+  "colors": [
+   {
+    "name": "Gold Tessera",
+    "hex": "#EC9901"
+   },
+   {
+    "name": "Amber Frieze",
+    "hex": "#A55B00"
+   },
+   {
+    "name": "Indigo Tile",
+    "hex": "#4B3D94"
+   },
+   {
+    "name": "Moss Parquet",
+    "hex": "#4A5D0D"
+   },
+   {
+    "name": "Raven Chignon",
+    "hex": "#2B2123"
+   },
+   {
+    "name": "Bronze Swirl",
+    "hex": "#814900"
+   },
+   {
+    "name": "Adele's Cheek",
+    "hex": "#956D53"
+   },
+   {
+    "name": "Porcelain",
+    "hex": "#F7D7B9"
+   }
+  ],
+  "accent_hex": "#E26800",
+  "blurb": "A shimmering wall of gold engulfs Adele, her raven chignon and jeweled indigo tesserae flashing through the gilded haze. Radiant ambers drive primary emphasis; deep indigo and olive anchor secondary categories on a warm porcelain ground.",
+  "palette_poor": false,
+  "notes": "Enriched the dress-tile indigo (#483C84 to #4B3D94) and lifted the floor olive out of near-black (#3D4C07 to #4A5D0D) so both read cleanly as categorical colors; accent kept."
+ },
+ {
+  "slug": "four_trees",
+  "colors": [
+   {
+    "name": "Autumn Crown",
+    "hex": "#9E4F3E"
+   },
+   {
+    "name": "Evening Tan",
+    "hex": "#A77F66"
+   },
+   {
+    "name": "Fir Night",
+    "hex": "#1F2C23"
+   },
+   {
+    "name": "Bark Umber",
+    "hex": "#55362F"
+   },
+   {
+    "name": "Sage Hill",
+    "hex": "#535C53"
+   },
+   {
+    "name": "Pale Horizon",
+    "hex": "#B9B19E"
+   },
+   {
+    "name": "Furrow Gray",
+    "hex": "#6E675B"
+   },
+   {
+    "name": "Sky Blush",
+    "hex": "#F7D6C4"
+   }
+  ],
+  "accent_hex": "#C0503C",
+  "blurb": "Four bare chestnut trees stand in silhouette against banded dusk light, their brick-red crowns dissolving into gray-green hills. Muted rust and tan lead the data series while deep fir and bark tones supply line work over a pale blush sky.",
+  "palette_poor": false,
+  "notes": "Muted mode is true to Schiele's dusk; enriched the brick red slightly (#955244 to #9E4F3E) for legibility and brightened the accent to the small red sun's glow (#A85545 to #C0503C)."
+ },
+ {
+  "slug": "jeanne_hebuterne",
+  "colors": [
+   {
+    "name": "Ochre Chair",
+    "hex": "#CA8300"
+   },
+   {
+    "name": "Straw Gold",
+    "hex": "#DEB02A"
+   },
+   {
+    "name": "Willow Shade",
+    "hex": "#868345"
+   },
+   {
+    "name": "Celadon Mist",
+    "hex": "#C4C789"
+   },
+   {
+    "name": "Ink Skirt",
+    "hex": "#242422"
+   },
+   {
+    "name": "Auburn Hair",
+    "hex": "#813604"
+   },
+   {
+    "name": "Teal Wall",
+    "hex": "#6FB4A2"
+   },
+   {
+    "name": "Mint Cream",
+    "hex": "#E3ECC5"
+   }
+  ],
+  "accent_hex": "#DD6C00",
+  "blurb": "Jeanne's auburn hair and ochre chair glow against tranquil teal walls and her milk-white slip. Warm ambers take primary series and callouts; cool teal and willow greens give context, with a soft mint field for backgrounds.",
+  "palette_poor": false,
+  "notes": "Enriched the teal wall slightly (#77B5A4 to #6FB4A2) so the cool support holds its own beside the ambers; everything else verbatim."
+ },
+ {
+  "slug": "senecio",
+  "colors": [
+   {
+    "name": "Vermilion Eye",
+    "hex": "#AC280D"
+   },
+   {
+    "name": "Mask Gold",
+    "hex": "#D0AB48"
+   },
+   {
+    "name": "Plum Patch",
+    "hex": "#522C48"
+   },
+   {
+    "name": "Orange Field",
+    "hex": "#C17A3E"
+   },
+   {
+    "name": "Powder Pink",
+    "hex": "#D49899"
+   },
+   {
+    "name": "Russet Collar",
+    "hex": "#A06D49"
+   },
+   {
+    "name": "Harlequin Rose",
+    "hex": "#C06371"
+   },
+   {
+    "name": "Chalk Face",
+    "hex": "#E9DACD"
+   }
+  ],
+  "accent_hex": "#D61D08",
+  "blurb": "Klee's aging actor gazes out through vermilion eyes, his round face a mosaic of gold, powder pink, and chalk on a burnt-orange ground. Fiery reds and golds lead the hierarchy while plum and russet hold the dark end of the diverging scale.",
+  "palette_poor": false,
+  "notes": "Extraction is faithful and well separated; left all hexes and the vermilion accent unchanged."
+ },
+ {
+  "slug": "composition_viii",
+  "colors": [
+   {
+    "name": "Signal Red",
+    "hex": "#C50C00"
+   },
+   {
+    "name": "Point Yellow",
+    "hex": "#DFB016"
+   },
+   {
+    "name": "Halo Purple",
+    "hex": "#6B4174"
+   },
+   {
+    "name": "Olive Plane",
+    "hex": "#96966B"
+   },
+   {
+    "name": "Great Circle",
+    "hex": "#2D2527"
+   },
+   {
+    "name": "Coral Wash",
+    "hex": "#D8704E"
+   },
+   {
+    "name": "Bauhaus Blue",
+    "hex": "#65AEBE"
+   },
+   {
+    "name": "Canvas Cream",
+    "hex": "#E4DEBA"
+   }
+  ],
+  "accent_hex": "#D61F05",
+  "blurb": "Circles, arcs, and beams in signal red, gold, and Bauhaus blue drift across a warm cream field. Saturated primaries mark key measurements, the haloed dark circle anchors extremes, and quiet olive and coral recede as supporting context.",
+  "palette_poor": false,
+  "notes": "Kandinsky's geometry extracts cleanly into a high-contrast categorical set; no adjustments needed."
+ },
+ {
+  "slug": "composition_red_blue_yellow",
+  "colors": [
+   {
+    "name": "Mondrian Red",
+    "hex": "#CD000A"
+   },
+   {
+    "name": "Vermilion",
+    "hex": "#FA4343"
+   },
+   {
+    "name": "Primary Blue",
+    "hex": "#005EB0"
+   },
+   {
+    "name": "Cerulean",
+    "hex": "#0084D2"
+   },
+   {
+    "name": "Grid Black",
+    "hex": "#1D1F20"
+   },
+   {
+    "name": "Corner Yellow",
+    "hex": "#E8C51D"
+   },
+   {
+    "name": "Frame Umber",
+    "hex": "#957956"
+   },
+   {
+    "name": "Canvas White",
+    "hex": "#E8E5E2"
+   }
+  ],
+  "accent_hex": "#DA0E15",
+  "blurb": "Pure cadmium red, twin primary blues, and one bright yellow square held by a stark black grid on gallery white. Reds drive primary series, blues answer as secondary, and the grid's neutrals supply lines and clean backgrounds.",
+  "palette_poor": false,
+  "notes": "Brightened the extracted olive-yellow (#CBB724 -> #E8C51D) to match Mondrian's cadmium square, and neutralized the greenish black (#1C2624 -> #1D1F20) to his true grid black."
+ },
+ {
+  "slug": "dance",
+  "colors": [
+   {
+    "name": "Dancer Red",
+    "hex": "#C21C26"
+   },
+   {
+    "name": "Crimson Whirl",
+    "hex": "#910320"
+   },
+   {
+    "name": "Cobalt Sky",
+    "hex": "#1C3D6F"
+   },
+   {
+    "name": "Dusk Blue",
+    "hex": "#4E6B9E"
+   },
+   {
+    "name": "Midnight",
+    "hex": "#1C2434"
+   },
+   {
+    "name": "Wine Shadow",
+    "hex": "#68292F"
+   },
+   {
+    "name": "Rose Clay",
+    "hex": "#92585C"
+   },
+   {
+    "name": "Hillside Mist",
+    "hex": "#DCF5EC"
+   }
+  ],
+  "accent_hex": "#DD001D",
+  "blurb": "Vermilion dancers whirl against a cobalt night sky above the cool sweep of a hill. Warm reds carry the main signals and highlights, deep blues ground secondary series, and a pale mint field keeps multi-panel figures airy.",
+  "palette_poor": false,
+  "notes": "Enriched the grayed second blue (#506993 -> #4E6B9E) and lightened the mint background (#A8EADB -> #DCF5EC) so slot 8 reads as a true background; the mint is a lightened take on the green hill, which the painting itself renders much deeper."
+ },
+ {
+  "slug": "goldfish",
+  "colors": [
+   {
+    "name": "Goldfish",
+    "hex": "#D52500"
+   },
+   {
+    "name": "Amber Fin",
+    "hex": "#D58800"
+   },
+   {
+    "name": "Lily Pad",
+    "hex": "#2BA61D"
+   },
+   {
+    "name": "Deep Foliage",
+    "hex": "#00842F"
+   },
+   {
+    "name": "Ink Shadow",
+    "hex": "#2B2E27"
+   },
+   {
+    "name": "Blossom Pink",
+    "hex": "#C14184"
+   },
+   {
+    "name": "Table Rose",
+    "hex": "#A06360"
+   },
+   {
+    "name": "Bowl Water",
+    "hex": "#D9E1B8"
+   }
+  ],
+  "accent_hex": "#D72006",
+  "blurb": "Scarlet fish glow in a glass bowl amid emerald leaves and rose-pink blooms. Fish-warm reds and gold flag primary results, layered greens structure secondary data, and pale bowl-water tones recede into the background.",
+  "palette_poor": false,
+  "notes": "Extraction is excellent as-is; red-orange, gold, twin greens, and magenta all map directly onto the fish, foliage, and blossoms. No hex changes."
+ },
+ {
+  "slug": "large_blue_horses",
+  "colors": [
+   {
+    "name": "Crimson Hill",
+    "hex": "#F73146"
+   },
+   {
+    "name": "Meadow Gold",
+    "hex": "#DCB04D"
+   },
+   {
+    "name": "Stallion Blue",
+    "hex": "#464F9C"
+   },
+   {
+    "name": "Lilac Mane",
+    "hex": "#8D93DE"
+   },
+   {
+    "name": "Hoof Black",
+    "hex": "#292030"
+   },
+   {
+    "name": "Pine Slope",
+    "hex": "#506A46"
+   },
+   {
+    "name": "Rose Sky",
+    "hex": "#D05E91"
+   },
+   {
+    "name": "Morning Mist",
+    "hex": "#E7D9E4"
+   }
+  ],
+  "accent_hex": "#FC2939",
+  "blurb": "Rounded ultramarine horses graze beneath crimson hills and streaks of gold and pink dawn. Vivid warm hues mark primary effects, the horses' blues and lilacs organize context, and soft mist tones frame multi-panel layouts.",
+  "palette_poor": false,
+  "notes": "Faithful capture of Marc's expressionist chord; every slot is clearly distinguishable and true to the canvas. No hex changes."
+ },
+ {
+  "slug": "great_wave",
+  "colors": [
+   {
+    "name": "Boat Timber",
+    "hex": "#B6A07E"
+   },
+   {
+    "name": "Prussian Wave",
+    "hex": "#31658A"
+   },
+   {
+    "name": "Storm Swell",
+    "hex": "#2A4054"
+   },
+   {
+    "name": "Kanagawa Deep",
+    "hex": "#002542"
+   },
+   {
+    "name": "Mist Gray",
+    "hex": "#92A2A5"
+   },
+   {
+    "name": "Slate Spray",
+    "hex": "#576D7C"
+   },
+   {
+    "name": "Sea Foam",
+    "hex": "#C2C9BA"
+   },
+   {
+    "name": "Rice Paper",
+    "hex": "#F5EBD1"
+   }
+  ],
+  "accent_hex": "#C06A3B",
+  "blurb": "Prussian-blue water rears into clawed white foam over tan boats and a paper-cream sky. Deepening indigo blues encode ordered series, warm timber accents call out key points, and foam and rice-paper neutrals stay quietly in support.",
+  "palette_poor": false,
+  "notes": "Palette colors kept verbatim; the original accent (#AD835D) was too dull to call out against the blues, so it was warmed to a saturated persimmon (#C06A3B) that still fits the ukiyo-e register."
+ },
+ {
+  "slug": "red_fuji",
+  "colors": [
+   {
+    "name": "Fuji Russet",
+    "hex": "#C06E56"
+   },
+   {
+    "name": "Washi Tan",
+    "hex": "#C5B494"
+   },
+   {
+    "name": "Indigo Wind",
+    "hex": "#1E4E6D"
+   },
+   {
+    "name": "Horizon Blue",
+    "hex": "#598AA1"
+   },
+   {
+    "name": "Zenith Navy",
+    "hex": "#002643"
+   },
+   {
+    "name": "Forest Haze",
+    "hex": "#96A59D"
+   },
+   {
+    "name": "Flank Umber",
+    "hex": "#7B635C"
+   },
+   {
+    "name": "Cloud Cream",
+    "hex": "#F6F0E4"
+   }
+  ],
+  "accent_hex": "#D0684A",
+  "blurb": "Fuji's rust-red cone rises into an indigo sky combed with cream mackerel clouds. Warm russet and straw carry primary emphasis, layered morning blues give cool structure, and haze grays keep annotations and backgrounds calm.",
+  "palette_poor": false,
+  "notes": "Enriched the pale primary rust (#C17C69 -> #C06E56) toward the print's iconic brick-red flank, and saturated the accent (#C97560 -> #D0684A) so callouts pop against the blues without leaving the woodblock's register."
+ },
+ {
+  "slug": "the_card_players",
+  "colors": [
+   {
+    "name": "Card Table",
+    "hex": "#BF670D"
+   },
+   {
+    "name": "Deep Claret",
+    "hex": "#742100"
+   },
+   {
+    "name": "Ebony Coat",
+    "hex": "#2B211F"
+   },
+   {
+    "name": "Peasant Tan",
+    "hex": "#8C6A42"
+   },
+   {
+    "name": "Briar Brown",
+    "hex": "#653C1E"
+   },
+   {
+    "name": "Weathered Rose",
+    "hex": "#93594D"
+   },
+   {
+    "name": "Café Sienna",
+    "hex": "#86461D"
+   },
+   {
+    "name": "Winning Hand",
+    "hex": "#EEDBAB"
+   }
+  ],
+  "accent_hex": "#D85300",
+  "blurb": "Burnt-orange table, wine-dark claret, and patient tobacco browns from Cézanne's absorbed peasant card game. Warm ochres carry the primary series while deep umbers and a weathered rose supply grounded secondary structure.",
+  "palette_poor": false,
+  "notes": "Slot 5 shifted from #5F311A to #653C1E, a warmer golden briar brown, so it no longer collides with the equal-lightness claret in slot 2 when used categorically. All other hexes and the accent kept verbatim."
+ },
+ {
+  "slug": "mont_sainte_victoire",
+  "colors": [
+   {
+    "name": "Provence Gold",
+    "hex": "#D1A042"
+   },
+   {
+    "name": "Sunbaked Field",
+    "hex": "#B09F68"
+   },
+   {
+    "name": "Victoire Blue",
+    "hex": "#69A0F4"
+   },
+   {
+    "name": "Pine Canopy",
+    "hex": "#3F772A"
+   },
+   {
+    "name": "Shadow Slate",
+    "hex": "#2D3536"
+   },
+   {
+    "name": "Olive Grove",
+    "hex": "#6D754B"
+   },
+   {
+    "name": "Cobalt Ridge",
+    "hex": "#486EA5"
+   },
+   {
+    "name": "Mistral Sky",
+    "hex": "#C1E0FF"
+   }
+  ],
+  "accent_hex": "#E67E00",
+  "blurb": "Ochre fields tessellate beneath the violet-blue mass of Cézanne's mountain and a mistral-scrubbed sky. Gold and khaki lead the categorical set; layered blues and greens give cool structure and an airy background.",
+  "palette_poor": false,
+  "notes": "One of the strongest extractions in the set. Pine green enriched slightly (#40702D to #3F772A) to separate it from the olive support, and the accent brightened from #CF7500 to #E67E00 so it pops against the blue axis."
+ },
+ {
+  "slug": "the_basket_of_apples",
+  "colors": [
+   {
+    "name": "Biscuit Amber",
+    "hex": "#A67310"
+   },
+   {
+    "name": "Russet",
+    "hex": "#A34A12"
+   },
+   {
+    "name": "Green Apple",
+    "hex": "#859138"
+   },
+   {
+    "name": "Olive Shadow",
+    "hex": "#6A653C"
+   },
+   {
+    "name": "Wine Bottle",
+    "hex": "#262721"
+   },
+   {
+    "name": "Wicker Gold",
+    "hex": "#D2AB45"
+   },
+   {
+    "name": "Walnut Table",
+    "hex": "#755614"
+   },
+   {
+    "name": "Pale Linen",
+    "hex": "#D5E1C7"
+   }
+  ],
+  "accent_hex": "#D06A00",
+  "blurb": "Tumbling russet and green apples, a dark wine bottle, and sun-warmed biscuits against cool white linen. Golds and reds flag the primary series while olive neutrals and pale celadon recede for balanced panels.",
+  "palette_poor": false,
+  "notes": "Russet enriched (#994612 to #A34A12) to read more like apple skin, and the wicker gold lifted (#CAA040 to #D2AB45) to separate it from the biscuit amber in slot 1. Accent warmed to #D06A00 for stronger callouts."
+ },
+ {
+  "slug": "at_the_moulin_rouge",
+  "colors": [
+   {
+    "name": "Gaslight Gold",
+    "hex": "#BB8A26"
+   },
+   {
+    "name": "Copper Chignon",
+    "hex": "#964423"
+   },
+   {
+    "name": "Absinthe",
+    "hex": "#228146"
+   },
+   {
+    "name": "Smoky Olive",
+    "hex": "#7F8447"
+   },
+   {
+    "name": "Top Hat",
+    "hex": "#292221"
+   },
+   {
+    "name": "Mahogany Bar",
+    "hex": "#703D28"
+   },
+   {
+    "name": "Bottle Green",
+    "hex": "#3E4B26"
+   },
+   {
+    "name": "Cabaret Cream",
+    "hex": "#E9DDAC"
+   }
+  ],
+  "accent_hex": "#D27300",
+  "blurb": "Gaslight gold and absinthe green cut through the smoky mahogany hush of Lautrec's nightclub crowd. Warm mustard and copper lead the data hierarchy; emerald and olive provide legible cool counterpoint across panels.",
+  "palette_poor": false,
+  "notes": "Extraction nails the painting's signature gold-against-emerald tension, including the ghostly green face. All hexes and accent kept verbatim."
+ },
+ {
+  "slug": "the_sleeping_gypsy",
+  "colors": [
+   {
+    "name": "Terracotta Jug",
+    "hex": "#783112"
+   },
+   {
+    "name": "Tawny Lion",
+    "hex": "#B37650"
+   },
+   {
+    "name": "Desert Sky",
+    "hex": "#2D97BF"
+   },
+   {
+    "name": "Prussian Dusk",
+    "hex": "#00587C"
+   },
+   {
+    "name": "Night Shadow",
+    "hex": "#27231D"
+   },
+   {
+    "name": "Oasis Sage",
+    "hex": "#617953"
+   },
+   {
+    "name": "Mane Umber",
+    "hex": "#6D5532"
+   },
+   {
+    "name": "Full Moon",
+    "hex": "#D9E0CB"
+   }
+  ],
+  "accent_hex": "#C94E24",
+  "blurb": "A tawny lion, a striped robe, and a terracotta jug held still under Rousseau's moonlit teal desert night. Sunbaked warms mark key signals, deep Prussian blues carry context, and a moon-pale field keeps backgrounds open.",
+  "palette_poor": false,
+  "notes": "Beautiful warm-cool split straight from the painting; all eight hexes kept verbatim. Accent brightened from #BA4923 to #C94E24 so the jug-red callout pops against the deep blues."
+ },
+ {
+  "slug": "the_scream",
+  "colors": [
+   {
+    "name": "Blood Sky",
+    "hex": "#9E2B16"
+   },
+   {
+    "name": "Molten Sunset",
+    "hex": "#B87120"
+   },
+   {
+    "name": "Anguish Indigo",
+    "hex": "#44435F"
+   },
+   {
+    "name": "Fjord Blue",
+    "hex": "#5B6B96"
+   },
+   {
+    "name": "Ember Haze",
+    "hex": "#9E5740"
+   },
+   {
+    "name": "Sallow Face",
+    "hex": "#8A8055"
+   },
+   {
+    "name": "Bridge Rail",
+    "hex": "#CA6A46"
+   },
+   {
+    "name": "Peach Dusk",
+    "hex": "#FFD4B1"
+   }
+  ],
+  "accent_hex": "#CF2E19",
+  "blurb": "Blood-red waves roil above an indigo fjord as a sallow figure grips the bridge rail in Munch's psychic sunset. Searing warms drive emphasis while restored fjord blues supply the cool axis for clean categorical contrast.",
+  "palette_poor": false,
+  "notes": "Extraction missed the painting's iconic blues entirely, leaving the cool-pair slots as near-indistinguishable browns. Fixed by retuning slot 3 (#403735 to #44435F, the screamer's coat and dark swirls) and slot 4 (#755536 to #5B6B96, the slate-blue fjord), both taken directly from the canvas. Not flagged poor since the dominant blood-orange sky was captured and the tuning restores fidelity."
+ },
+ {
+  "slug": "beauty_looking_back",
+  "colors": [
+   {
+    "name": "Kimono Red",
+    "hex": "#AF3120"
+   },
+   {
+    "name": "Safflower",
+    "hex": "#8E3225"
+   },
+   {
+    "name": "Obi Green",
+    "hex": "#566128"
+   },
+   {
+    "name": "Silk Ground",
+    "hex": "#7B714A"
+   },
+   {
+    "name": "Chignon Black",
+    "hex": "#2A2126"
+   },
+   {
+    "name": "Aged Bronze",
+    "hex": "#8A6138"
+   },
+   {
+    "name": "Plum Blossom",
+    "hex": "#9E6165"
+   },
+   {
+    "name": "Petal Cream",
+    "hex": "#FFD3C5"
+   }
+  ],
+  "accent_hex": "#D32519",
+  "blurb": "A vermilion kimono blooms with safflower dye against bare tan silk, anchored by lacquer-black hair. Warm reds carry primary signals and emphasis while olive, silk, and blossom neutrals recede into context and backgrounds.",
+  "palette_poor": false,
+  "notes": "Nudged the obi green slightly greener (#515129 to #566128) and lifted the mauve blossom tone (#915B5E to #9E6165) to separate it from the brick red. Accent kept as the kimono's own vermilion."
+ },
+ {
+  "slug": "jakuchu_rooster",
+  "colors": [
+   {
+    "name": "Nandina Red",
+    "hex": "#C22D35"
+   },
+   {
+    "name": "Comb Russet",
+    "hex": "#A84A45"
+   },
+   {
+    "name": "Brocade Teal",
+    "hex": "#1E6A80"
+   },
+   {
+    "name": "Plume Sheen",
+    "hex": "#4E94A6"
+   },
+   {
+    "name": "Ink Feather",
+    "hex": "#3A393A"
+   },
+   {
+    "name": "Gilded Silk",
+    "hex": "#A8956B"
+   },
+   {
+    "name": "Winter Leaf",
+    "hex": "#544E25"
+   },
+   {
+    "name": "Blossom White",
+    "hex": "#E1DCD1"
+   }
+  ],
+  "accent_hex": "#DB0626",
+  "blurb": "Scarlet nandina berries cascade over an ink-black rooster whose plumage flashes teal against gold-toned silk. Reds flag primary series and callouts; deep teals structure secondary data, with olive and silk neutrals holding supports and backgrounds.",
+  "palette_poor": false,
+  "notes": "Strong extraction; only brightened the lighter teal (#4A8E9F to #4E94A6) for cleaner separation from the deep brocade teal. Accent red already sings against the mount border."
+ },
+ {
+  "slug": "thousand_li_of_rivers_and_mountains",
+  "colors": [
+   {
+    "name": "Golden Haze",
+    "hex": "#928152"
+   },
+   {
+    "name": "Ochre Shore",
+    "hex": "#754C31"
+   },
+   {
+    "name": "Azurite Peak",
+    "hex": "#52809C"
+   },
+   {
+    "name": "Malachite",
+    "hex": "#6B8B72"
+   },
+   {
+    "name": "Pine Ink",
+    "hex": "#3F3927"
+   },
+   {
+    "name": "Cliff Moss",
+    "hex": "#5A5130"
+   },
+   {
+    "name": "Deep Pool",
+    "hex": "#2D4141"
+   },
+   {
+    "name": "Celadon Mist",
+    "hex": "#D4E2C0"
+   }
+  ],
+  "accent_hex": "#C08A3E",
+  "blurb": "Azurite peaks and malachite slopes roll across a thousand li of golden silk haze. Mineral blues and greens anchor the cool series, warm ochres lead primary channels, and a pale celadon wash stays clear for backgrounds.",
+  "palette_poor": false,
+  "notes": "Muted extraction underplayed the painting's signature minerals, so the blue was enriched toward azurite (#577D91 to #52809C) and the gray-green toward malachite (#708372 to #6B8B72); slot 6 lifted from #504827 to #5A5130 to separate the two dark olives. Accent brightened to a gold ochre for pop."
+ },
+ {
+  "slug": "along_the_river_qingming",
+  "colors": [
+   {
+    "name": "Gate Timber",
+    "hex": "#835238"
+   },
+   {
+    "name": "River Tan",
+    "hex": "#987E60"
+   },
+   {
+    "name": "Roof Umber",
+    "hex": "#463625"
+   },
+   {
+    "name": "Clay Railing",
+    "hex": "#B57F62"
+   },
+   {
+    "name": "Oxcart Brown",
+    "hex": "#5E4C3A"
+   },
+   {
+    "name": "Worn Silk",
+    "hex": "#B29D88"
+   },
+   {
+    "name": "Willow Ink",
+    "hex": "#77755A"
+   },
+   {
+    "name": "Dawn Haze",
+    "hex": "#F1D9BB"
+   }
+  ],
+  "accent_hex": "#BC4A2E",
+  "blurb": "Sepia ink on worn silk records a bustling gate tower, camel trains, and bare willows along the Bian River. Graded browns rank series by depth in near-monochrome figures, while a vermilion seal red stands ready as the lone deliberate accent.",
+  "palette_poor": false,
+  "notes": "Extraction had a literal duplicate (#73604D in slots 5 and 7). Slot 5 darkened to #5E4C3A to serve the dark role; slot 7 recut as the gray-green willow-ink tone visible in the trees. Accent retuned from dull brown to the scroll's vermilion collector-seal red. Monochrome sepia is faithful to this scroll, not a failure."
+ },
+ {
+  "slug": "dwelling_in_the_fuchun_mountains",
+  "colors": [
+   {
+    "name": "Autumn Clay",
+    "hex": "#9B725B"
+   },
+   {
+    "name": "Sandbar",
+    "hex": "#D1B193"
+   },
+   {
+    "name": "Deep Pine",
+    "hex": "#343B32"
+   },
+   {
+    "name": "Reed Paper",
+    "hex": "#C9C495"
+   },
+   {
+    "name": "Hemp Stroke",
+    "hex": "#6F6746"
+   },
+   {
+    "name": "Charred Ink",
+    "hex": "#232517"
+   },
+   {
+    "name": "River Mist",
+    "hex": "#5A6861"
+   },
+   {
+    "name": "Aged Scroll",
+    "hex": "#E4DEBB"
+   }
+  ],
+  "accent_hex": "#C25B3F",
+  "blurb": "Dry hemp-fiber strokes and charred ink settle onto aged paper along the calm Fuchun River. Ink greens and olives separate structural layers, pale paper tones keep panels airy, and a muted clay red is reserved for sparse emphasis.",
+  "palette_poor": false,
+  "notes": "Slot 4 cooled from #D1C6A3 to #C9C495 because it nearly collided with the peachy Sandbar (#D1B193); slots 5 and 7 pushed apart into a warm olive (#6F6746) and a cool mist gray-green (#5A6861). Accent lifted toward the seal red that dots the scroll. Charred Ink honors the 1650 fire that split the handscroll."
+ },
+ {
+  "slug": "nymph_of_the_luo_river",
+  "colors": [
+   {
+    "name": "Luo Amber",
+    "hex": "#DD8854"
+   },
+   {
+    "name": "Dragon Sienna",
+    "hex": "#9F5A3D"
+   },
+   {
+    "name": "Ink Tresses",
+    "hex": "#4F322D"
+   },
+   {
+    "name": "Canopy Red",
+    "hex": "#7A3B26"
+   },
+   {
+    "name": "Cloud Rose",
+    "hex": "#825952"
+   },
+   {
+    "name": "Wave Mauve",
+    "hex": "#A3776F"
+   },
+   {
+    "name": "River Silt",
+    "hex": "#7D6B51"
+   },
+   {
+    "name": "Dusk Silk",
+    "hex": "#FFD4B0"
+   }
+  ],
+  "accent_hex": "#E06831",
+  "blurb": "Amber-toned silk bears the Luo goddess across dragon-drawn waves sketched in warm sienna line. Apricot-to-chestnut steps encode ordered depth on one warm axis, while rose and silt supports keep categorical panels legible.",
+  "palette_poor": false,
+  "notes": "Extraction duplicated #825952 in slots 5 and 7; slot 7 recut as the olive-silt tone of the aged silk bands. Slot 4 warmed and reddened (#673527 to #7A3B26) to pull it apart from the dark Ink Tresses and echo the chariot canopy's red. Accent orange kept, as it pops well."
+ },
+ {
+  "slug": "kirifuri_waterfall",
+  "colors": [
+   {
+    "name": "Crag Gold",
+    "hex": "#E9AA53"
+   },
+   {
+    "name": "Spring Moss",
+    "hex": "#C8B669"
+   },
+   {
+    "name": "Cedar Olive",
+    "hex": "#64692E"
+   },
+   {
+    "name": "Kurokami Teal",
+    "hex": "#32745E"
+   },
+   {
+    "name": "Indigo Plunge",
+    "hex": "#103547"
+   },
+   {
+    "name": "Russet Cliff",
+    "hex": "#834E25"
+   },
+   {
+    "name": "Pilgrim Sage",
+    "hex": "#93AA7F"
+   },
+   {
+    "name": "Mist Peach",
+    "hex": "#FED6AF"
+   }
+  ],
+  "accent_hex": "#D67108",
+  "blurb": "Threads of Prussian-blue water plunge over sunlit ochre rock, hemmed in by mossy greens on Kurokami's slopes. Warm golds flag primary series, layered greens group related panels, and the indigo dark anchors text against a pale mist-peach ground.",
+  "palette_poor": false,
+  "notes": "Extraction is faithful and lively; no hex changes needed. Kirifuri means falling mist, hence the peach background name. Accent orange already pops cleanly against the greens and indigo."
+ },
+ {
+  "slug": "plum_park_in_kameido",
+  "colors": [
+   {
+    "name": "Crimson Dusk",
+    "hex": "#8F2120"
+   },
+   {
+    "name": "Rose Horizon",
+    "hex": "#CC6E5F"
+   },
+   {
+    "name": "Garden Teal",
+    "hex": "#036E75"
+   },
+   {
+    "name": "Meadow Green",
+    "hex": "#79875E"
+   },
+   {
+    "name": "Trunk Slate",
+    "hex": "#2D3539"
+   },
+   {
+    "name": "Branch Umber",
+    "hex": "#78483F"
+   },
+   {
+    "name": "Twilight Tan",
+    "hex": "#CCA485"
+   },
+   {
+    "name": "Petal Cream",
+    "hex": "#E6DCC6"
+   }
+  ],
+  "accent_hex": "#CC312C",
+  "blurb": "A madder-red sky cools to blush above slate plum boughs, white blossoms bursting over the teal garden at Kameido. Warm reds carry the primary signal, deep teal and moss green structure comparisons, and soft creams recede into the background.",
+  "palette_poor": false,
+  "notes": "Brightened the teal slightly (#00626B to #036E75) so it holds up as a categorical color against the slate dark; everything else verbatim. Accent matches the red signature cartouches."
+ },
+ {
+  "slug": "sudden_shower_over_shin_ohashi",
+  "colors": [
+   {
+    "name": "Cartouche Red",
+    "hex": "#B61D24"
+   },
+   {
+    "name": "Plank Amber",
+    "hex": "#D8A26D"
+   },
+   {
+    "name": "Straw Cloak",
+    "hex": "#A29F44"
+   },
+   {
+    "name": "Sumida Teal",
+    "hex": "#74A7AC"
+   },
+   {
+    "name": "Thundercloud",
+    "hex": "#34323A"
+   },
+   {
+    "name": "Timber Brown",
+    "hex": "#896245"
+   },
+   {
+    "name": "Atake Olive",
+    "hex": "#656E45"
+   },
+   {
+    "name": "Washi Ivory",
+    "hex": "#F3E8D0"
+   }
+  ],
+  "accent_hex": "#E02A26",
+  "blurb": "An ink-black squall breaks over Shin-Ohashi, rain slanting across straw hats, tan planks, and the blue-green Sumida. The cartouche red serves as emphasis, warm timbers lead data series, and rain-cooled teal and olives supply calm mid-tone contrast.",
+  "palette_poor": false,
+  "notes": "Original extraction missed the print's dominant water blue: shifted slot 4 from greenish sage #87A37D to the river's blue-green #74A7AC, and cooled the dark from warm brown #3A312E to inky #34323A to match the sumi storm cloud. Warmed the neon accent #DC001E to #E02A26 so it reads as woodblock red rather than digital red."
+ },
+ {
+  "slug": "naruto_whirlpools",
+  "colors": [
+   {
+    "name": "Reef Coral",
+    "hex": "#C76550"
+   },
+   {
+    "name": "Dawn Gold",
+    "hex": "#D6B169"
+   },
+   {
+    "name": "Channel Blue",
+    "hex": "#2F6B92"
+   },
+   {
+    "name": "Celadon Swell",
+    "hex": "#8FB897"
+   },
+   {
+    "name": "Vortex Indigo",
+    "hex": "#1C3C55"
+   },
+   {
+    "name": "Shore Khaki",
+    "hex": "#8C8057"
+   },
+   {
+    "name": "Driftwood Sand",
+    "hex": "#CEB28B"
+   },
+   {
+    "name": "Spindrift",
+    "hex": "#F7F0E5"
+   }
+  ],
+  "accent_hex": "#DC553E",
+  "blurb": "Prussian swells coil into a spindrift vortex beneath rose-brown crags and a pale dawn horizon at the Naruto strait. Coral and gold warms mark focal series against deep channel blues; sand neutrals and foam whites handle fills and backgrounds.",
+  "palette_poor": false,
+  "notes": "Enriched the sea blue slightly (#326787 to #2F6B92) toward the print's saturated Prussian pigment; the rest verbatim. Accent terracotta pops well against the blue-dominant palette."
+ },
+ {
+  "slug": "evening_snow_at_kanbara",
+  "colors": [
+   {
+    "name": "Dusk Rose",
+    "hex": "#C79E8B"
+   },
+   {
+    "name": "Thatch Beige",
+    "hex": "#C0B294"
+   },
+   {
+    "name": "Traveler Blue",
+    "hex": "#555C74"
+   },
+   {
+    "name": "Snowdrift",
+    "hex": "#E7DCBE"
+   },
+   {
+    "name": "Night Ink",
+    "hex": "#3E3835"
+   },
+   {
+    "name": "Winter Pine",
+    "hex": "#666150"
+   },
+   {
+    "name": "Evening Gray",
+    "hex": "#928C81"
+   },
+   {
+    "name": "Hushed White",
+    "hex": "#F6F0E5"
+   }
+  ],
+  "accent_hex": "#C0755C",
+  "blurb": "Dusk settles in slate blue and hushed cream over Kanbara, thatched roofs and travelers muffled under fresh evening snow. Muted rose and beige lead the categorical series, cool grays give quiet structure, and a single inky dark carries text and axes.",
+  "palette_poor": false,
+  "notes": "Reordered slots 4 and 5: the extraction had the near-white #ECE2C7 in the dark slot and the dark #3E3835 in slot 4, breaking the dark-at-5 convention. Also deepened the snow cream to #E7DCBE so it survives as a categorical color on white, and gave the dusty accent a touch more saturation (#B67E69 to #C0755C)."
+ },
+ {
+  "slug": "three_beauties",
+  "colors": [
+   {
+    "name": "Comb Gold",
+    "hex": "#D5B989"
+   },
+   {
+    "name": "Beni Russet",
+    "hex": "#925243"
+   },
+   {
+    "name": "Mica Ground",
+    "hex": "#A8A296"
+   },
+   {
+    "name": "Silk Greige",
+    "hex": "#D0C5B1"
+   },
+   {
+    "name": "Hair Lacquer",
+    "hex": "#343230"
+   },
+   {
+    "name": "Ash Kimono",
+    "hex": "#5F5950"
+   },
+   {
+    "name": "Fan Umber",
+    "hex": "#7A6A55"
+   },
+   {
+    "name": "Powder Cream",
+    "hex": "#E6E1D0"
+   }
+  ],
+  "accent_hex": "#C25B44",
+  "blurb": "Powdered faces and lacquer-black coiffures glow on a shimmering mica ground, warmed by gold combs and brick-red silk. Gold and russet lead the series, layered greiges build quiet hierarchy, and the deep hair-black anchors text in muted figures.",
+  "palette_poor": false,
+  "notes": "Reordered slots 3 and 5 so the hair-black sits in the dark slot per convention. Enriched the russet (#875A45 to #925243) toward the beni-red kimono lining, cooled slot 3 to the mica-gray ground (#AEA18B to #A8A296), warmed slot 7 (#746B5C to #7A6A55) to separate it from slot 6, and moved the accent from dull caramel #B38151 to the print's brick-red lip and lining color #C25B44. Palette is intentionally restrained; muted mode suits the kirazuri portrait."
+ }
+]

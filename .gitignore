@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/image_report.json
+strips/
+dist/
+build/
+*.egg-info/
