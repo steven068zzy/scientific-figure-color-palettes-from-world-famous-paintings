@@ -1,10 +1,10 @@
-"""masterpalettes — scientific color palettes extracted from 100 masterpiece paintings.
+"""masterpalettes — scientific color palettes extracted from 102 masterpiece paintings.
 
 Quick start::
 
     import masterpalettes as mp
 
-    mp.list_palettes()               # all 100 palette names
+    mp.list_palettes()               # all 102 palette names
     mp.colors("starry_night")        # 8 hex colors, data-ready order
     mp.roles("starry_night")         # role -> hex list (primary/secondary/accent/...)
     mp.cmap("starry_night")          # diverging matplotlib colormap
