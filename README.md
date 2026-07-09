@@ -1,6 +1,6 @@
 # Scientific Figure Color Palettes from World-Famous Paintings
 
-**Ready-to-use color schemes for research-paper figures, extracted from 102
+**Ready-to-use color schemes for research-paper figures, extracted from 100+
 world-famous paintings — with a poster, a JSON record, and a Python API for each.**
 
 ## Why this project
@@ -18,7 +18,7 @@ refining already solve the hard problems of color design: harmony, contrast,
 emphasis, restraint.
 
 That is exactly what this project does. I analyzed the dominant color structure of
-102 world-famous paintings and distilled each into a ready-to-use color scheme for
+more than 100 world-famous paintings and distilled each into a ready-to-use color scheme for
 data figures, paired with nine example charts so you can see every palette on real
 plots before committing. If you want the color design of your next paper to stand
 out, take it from a masterpiece.
@@ -49,7 +49,7 @@ pip install "git+https://github.com/steven068zzy/scientific-figure-color-palette
 import masterpalettes as mp
 import matplotlib.pyplot as plt
 
-mp.list_palettes()                    # 102 names
+mp.list_palettes()                    # 100+ names
 mp.colors("starry_night")            # 8 hex colors in data-plotting order
 mp.roles("starry_night")             # role -> colors (primary/secondary/accent/...)
 
@@ -297,7 +297,7 @@ Full pipeline in [`engine/`](engine/), design notes in [`docs/DESIGN.md`](docs/D
 
 [MetBrewer](https://github.com/BlakeRMills/MetBrewer) and
 [MoMAColors](https://github.com/BlakeRMills/MoMAColors) offer R palettes inspired by
-museum collections. This project differs in scope (102 named paintings with
+museum collections. This project differs in scope (100+ named paintings with
 posters demonstrating each palette on nine chart types), in its role-based usage
 system, and in shipping as both Python API and plain JSON.
 
