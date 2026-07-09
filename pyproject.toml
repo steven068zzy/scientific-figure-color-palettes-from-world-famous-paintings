@@ -21,7 +21,7 @@ classifiers = [
 mpl = ["matplotlib>=3.3"]
 
 [project.urls]
-Homepage = "https://github.com/stevenZYzhao/masterpiece-palettes"
+Homepage = "https://github.com/steven068zzy/masterpiece-palettes"
 
 [tool.setuptools]
 packages = ["masterpalettes"]
