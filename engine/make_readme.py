@@ -80,7 +80,7 @@ TAIL = '''
 
 [MetBrewer](https://github.com/BlakeRMills/MetBrewer) and
 [MoMAColors](https://github.com/BlakeRMills/MoMAColors) offer R palettes inspired by
-museum collections. masterpiece-palettes differs in scope (100 named paintings with
+museum collections. masterpiece-palettes differs in scope (102 named paintings with
 posters demonstrating each palette on nine chart types), in its role-based usage
 system, and in shipping as both Python API and plain JSON.
 
